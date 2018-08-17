@@ -8,8 +8,8 @@ I dati sono consultabili da interfaccia web, ma scegliendo prima la regione e po
 
 Lo script [`anas.sh`](./anas.sh) fa il download dei dati di circa 180 strade (è il dato al 17 luglio 2018) e ne crea un unico file di insieme in due formati:
 
-- JSON > [`stradeAnas.json`](./stradeAnas.json)
-- CSV > [`stradeAnas.json`](./stradeAnas.csv)
+- JSON > [`stradeAnas.json`](https://rawgit.com/ondata/anaslavoriincorso/master/stradeAnas.json)
+- CSV > [`stradeAnas.json`](https://rawgit.com/ondata/anaslavoriincorso/master/stradeAnas.csv)
 
 ## Anteprima CSV
 
