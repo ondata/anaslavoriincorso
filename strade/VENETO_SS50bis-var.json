@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "19,750",
+    "descrizione": "S.S. 50 bis/var - Lavori di manutenzione straordinaria della volta e realizzazione impianto antincendio della Galleria San Vito.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "2.372.473,12",
+    "importo_lav_totale": "2.533.971,83",
+    "data_consegna_impresa": "06/07/2015",
+    "avanzamento_lavori": "94,35",
+    "ultimazione": "29/06/2017",
+    "sospesa": "",
+    "impresa": "KOSTRUTTIVA S.C.P.A.",
+    "id": "14488",
+    "regione": "VENETO",
+    "strada": "SS50bis-var"
+  }
+]

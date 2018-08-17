@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "42,380",
+    "descrizione": "Lavori di riqualifica della SS n. 286 mediante interventi di consolidamento del corpo stradale tra i km. 0+000 e 42+830. di competenza del C.M. ``B``",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "439.849,52",
+    "importo_lav_totale": "471.739,52",
+    "data_consegna_impresa": "18/04/2018",
+    "avanzamento_lavori": "99,39",
+    "ultimazione": "06/07/2018",
+    "sospesa": "",
+    "impresa": "ESSETI SRL",
+    "id": "14322",
+    "regione": "SICILIA",
+    "strada": "SS286"
+  }
+]

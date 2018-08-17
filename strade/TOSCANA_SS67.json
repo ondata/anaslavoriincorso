@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "108,000",
+    "al_km": "128,000",
+    "descrizione": "S.S. 67 - Lavori di manutenzione straordinaria per il risanamento della sovrastruttura stradale in tratti saltuari tra il km 108+000 e il km 128+000.\r\n",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "199.750,33",
+    "importo_lav_totale": "211.193,18",
+    "data_consegna_impresa": "13/07/2018",
+    "avanzamento_lavori": "42,15",
+    "ultimazione": "15/08/2018",
+    "sospesa": "",
+    "impresa": "ATI BRAMERINI FRANCESCO & FIGLI - IMPRESA EDILE F.LLI MASSAI SRL - MENCONI SRL -FRASSINELLI SRL- DI GABBIA-VARIA COSTR.-SEG.MA",
+    "id": "14195",
+    "regione": "TOSCANA",
+    "strada": "SS67"
+  }
+]

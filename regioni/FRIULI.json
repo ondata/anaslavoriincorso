@@ -1,0 +1,27 @@
+{
+  "TOT_LAVORI": "8",
+  "TOT_MANUTENZIONE": "7",
+  "TOT_NUOVE_COSTRUZIONI": "1",
+  "TOT_IMPORTO": "10.103.786,76",
+  "TOT_IMPORTO_M": "6.336.127,40",
+  "TOT_IMPORTO_NC": "3.767.659,36",
+  "REGIONE": "FRIULI",
+  "LIST_ROADS": [
+    [
+      "A",
+      "A SISTIANA - RABUIESE"
+    ],
+    [
+      "SS52bis",
+      "SS 52 BIS CARNICA"
+    ],
+    [
+      "VARIE",
+      "STRADE STATALI VARIE"
+    ],
+    [
+      "SS54",
+      "SS 54 DEL FRIULI"
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "7,650",
+    "al_km": "8,950",
+    "descrizione": "S.S.394 - Lavori di manutenzione straordinaria per la messa in sicurezza dei muri di sostegno e delle opere d`arte al km 7+650 e 8+600",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "604.520,00",
+    "importo_lav_totale": "643.650,44",
+    "data_consegna_impresa": "10/12/2015",
+    "avanzamento_lavori": "98,00",
+    "ultimazione": "15/05/2016",
+    "sospesa": "",
+    "impresa": "FAVINI COSTRUZIONI S.R.L.",
+    "id": "14253",
+    "regione": "LOMBARDIA",
+    "strada": "SS394"
+  },
+  {
+    "dal_km": "25,000",
+    "al_km": "50,345",
+    "descrizione": "MICP18E1A271976 - S.S. 394-Lavori di rafforzamento della sovrastruttura stradale. dal km 25+000 al km 31+000. dal km 31+000 al km 37+000 e dal km 42+000 al km 50+345. cup F97H18001130001",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.119.397,50",
+    "importo_lav_totale": "1.136.611,17",
+    "data_consegna_impresa": "23/07/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "28/09/2018",
+    "sospesa": "",
+    "impresa": "ATI SANGALLI SPA - CIVELLI COSTR. GIUDICI SPA - IMP. BERGAMELLI - SIA",
+    "id": "14240",
+    "regione": "LOMBARDIA",
+    "strada": "SS394"
+  }
+]

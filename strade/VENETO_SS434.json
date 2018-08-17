@@ -1,0 +1,50 @@
+[
+  {
+    "dal_km": "2,500",
+    "al_km": "82,870",
+    "descrizione": "S.S. 434 ``Transpolesana`` - Lavori di fornitura e posa in opera di barrirere di sicurezza in t.s.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "413.888,64",
+    "importo_lav_totale": "2.343.362,07",
+    "data_consegna_impresa": "17/11/2015",
+    "avanzamento_lavori": "42,01",
+    "ultimazione": "18/08/2018",
+    "sospesa": "",
+    "impresa": "POLISTRADE S.R.L.",
+    "id": "14487",
+    "regione": "VENETO",
+    "strada": "SS434"
+  },
+  {
+    "dal_km": "2,900",
+    "al_km": "82,870",
+    "descrizione": "SS.N.434 TRANSPOLESANA LAVORI URGENTI DI MANUTENZIONE STRAORDINARIA PER IL RAFFORZAMENTO DELLA PAVIMENTAZIONE STRADALE FORTEMENTE AMMALORATA DAL KM.2 + 900 AL KM.82+870",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.416.198,01",
+    "importo_lav_totale": "1.519.214,76",
+    "data_consegna_impresa": "19/10/2017",
+    "avanzamento_lavori": "100,00",
+    "ultimazione": "14/02/2018",
+    "sospesa": "",
+    "impresa": "ATI DEON-COSTR. GIRARDINI - ECOVIE",
+    "id": "14491",
+    "regione": "VENETO",
+    "strada": "SS434"
+  },
+  {
+    "dal_km": "10,000",
+    "al_km": "82,850",
+    "descrizione": "SS 434  TRANSPOLESANA LAVORI DI MANUTENZIONE STRAORDINARIA PER IL RAFFORZAMENTO DELLA SOVRASTRUTTURA STRADALE DAL KM.10+000 AL KM. 37+400 E DAL KM. 60+450 AL KM.82+850 IN T.S. 1 STRALCIO CDP 2017",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.125.390,40",
+    "importo_lav_totale": "1.185.426,51",
+    "data_consegna_impresa": "29/11/2017",
+    "avanzamento_lavori": "100,00",
+    "ultimazione": "31/05/2018",
+    "sospesa": "",
+    "impresa": "ATI DEON-COSTR. GIRARDINI - ECOVIE",
+    "id": "14500",
+    "regione": "VENETO",
+    "strada": "SS434"
+  }
+]

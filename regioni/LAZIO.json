@@ -1,0 +1,39 @@
+{
+  "TOT_LAVORI": "23",
+  "TOT_MANUTENZIONE": "20",
+  "TOT_NUOVE_COSTRUZIONI": "3",
+  "TOT_IMPORTO": "175.584.341,35",
+  "TOT_IMPORTO_M": "39.949.570,15",
+  "TOT_IMPORTO_NC": "135.634.771,20",
+  "REGIONE": "LAZIO",
+  "LIST_ROADS": [
+    [
+      "SS699",
+      "SS 699 DELL` ABBAZIA DI FOSSANOVA"
+    ],
+    [
+      "A90",
+      "A90 GRANDE RACCORDO ANULARE"
+    ],
+    [
+      "VARIE",
+      "STRADE STATALI VARIE"
+    ],
+    [
+      "SS4",
+      "SS 4 VIA SALARIA"
+    ],
+    [
+      "SS675",
+      "SS 675 UMBRO-LAZIALE"
+    ],
+    [
+      "SS17",
+      "SS 17 DELL`APPENNINO ABRUZZESE ED APPULO SANNITICO"
+    ],
+    [
+      "SS79",
+      "SS 79 TERNANA"
+    ]
+  ]
+}

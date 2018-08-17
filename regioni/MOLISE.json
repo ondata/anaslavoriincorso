@@ -1,0 +1,47 @@
+{
+  "TOT_LAVORI": "14",
+  "TOT_MANUTENZIONE": "14",
+  "TOT_NUOVE_COSTRUZIONI": "0",
+  "TOT_IMPORTO": "16.404.766,44",
+  "TOT_IMPORTO_M": "16.404.766,44",
+  "TOT_IMPORTO_NC": "0,00",
+  "REGIONE": "MOLISE",
+  "LIST_ROADS": [
+    [
+      "SS650",
+      "SS 650 DI FONDO VALLE TRIGNO"
+    ],
+    [
+      "SS17",
+      "SS 17 DELL`APPENNINO ABRUZZESE ED APPULO SANNITICO"
+    ],
+    [
+      "SS87",
+      "SS 87 SANNITICA"
+    ],
+    [
+      "SS645",
+      "SS 645 FONDO VALLE DEL TAPPINO"
+    ],
+    [
+      "SS17var-a",
+      "SS 17 VAR/A ISERNIA - CASTEL DI SANGRO"
+    ],
+    [
+      "SS652",
+      "SS 652 DI FONDO VALLE SANGRO"
+    ],
+    [
+      "SS647",
+      "SS 647 FONDO VALLE DEL BIFERNO"
+    ],
+    [
+      "VARIE",
+      "STRADE STATALI VARIE"
+    ],
+    [
+      "SS85",
+      "SS 85 VENAFRANA"
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "27,000",
+    "descrizione": "Raddoppio da 2 a 4 corsie della Variante alla Statale  dal km. 0+000 al 19+554 - Lotto 2? dal km. 0+600 al km. 11+607 - 1? e 2? stralcio e lavori di completamento 1? Lotto ( dal km 11+607 al km 19+554)",
+    "tipo_lavoro": "Lavori straordinari per nuove costruzioni.",
+    "importo_lav_principali": "46.397.778,76",
+    "importo_lav_totale": "115.260.124,81",
+    "data_consegna_impresa": "30/03/2010",
+    "avanzamento_lavori": "90,47",
+    "ultimazione": "04/05/2015",
+    "sospesa": "",
+    "impresa": "D`AGOSTINO ANGELO ANTONIO COSTRUZIO GENERALI S.R.L.",
+    "id": "14270",
+    "regione": "CAMPANIA",
+    "strada": "SS268"
+  },
+  {
+    "dal_km": "19,554",
+    "al_km": "31,000",
+    "descrizione": "S.S. 268 DAL KM  19+554 AL KM 31+000\r\nINTERVENTI PER IL MIGLIORAMENTO DELLA SICUREZZA STRADALE",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "2.614.481,70",
+    "importo_lav_totale": "2.899.327,84",
+    "data_consegna_impresa": "21/11/2016",
+    "avanzamento_lavori": "80,64",
+    "ultimazione": "18/08/2017",
+    "sospesa": "",
+    "impresa": "GLOBAL STRADE S.R.L.",
+    "id": "14269",
+    "regione": "CAMPANIA",
+    "strada": "SS268"
+  }
+]

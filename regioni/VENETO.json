@@ -1,0 +1,63 @@
+{
+  "TOT_LAVORI": "22",
+  "TOT_MANUTENZIONE": "19",
+  "TOT_NUOVE_COSTRUZIONI": "3",
+  "TOT_IMPORTO": "199.592.753,95",
+  "TOT_IMPORTO_M": "42.619.029,67",
+  "TOT_IMPORTO_NC": "156.973.724,28",
+  "REGIONE": "VENETO",
+  "LIST_ROADS": [
+    [
+      "SS47",
+      "SS 47 DELLA VALSUGANA"
+    ],
+    [
+      "SS434",
+      "SS 434 TRANSPOLESANA"
+    ],
+    [
+      "SS50bis-var",
+      "SS 50 BIS/VAR DEL GRAPPA E DEL PASSO ROLLE"
+    ],
+    [
+      "SS52",
+      "SS 52 CARNICA"
+    ],
+    [
+      "SS12",
+      "SS 12 DELL`ABETONE E DEL BRENNERO"
+    ],
+    [
+      "VARIE",
+      "STRADE STATALI VARIE"
+    ],
+    [
+      "SS53",
+      "SS 53 POSTUMIA"
+    ],
+    [
+      "SS16",
+      "SS 16 ADRIATICA"
+    ],
+    [
+      "SS309",
+      "SS 309 ROMEA"
+    ],
+    [
+      "SS13",
+      "SS 13 PONTEBBANA"
+    ],
+    [
+      "SS51",
+      "SS 51 DI ALEMAGNA"
+    ],
+    [
+      "SS14",
+      "SS 14 DELLA VENEZIA GIULIA"
+    ],
+    [
+      "",
+      ""
+    ]
+  ]
+}

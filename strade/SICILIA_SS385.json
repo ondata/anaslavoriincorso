@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "35,000",
+    "al_km": "55,150",
+    "descrizione": "Lavori di risanamento della pavimentazione lungo la SS 385 in t.s. dal km 35+000 al km 55+150 di competenza del nucleo C del centro A di Catania.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "594.643,57",
+    "importo_lav_totale": "618.243,57",
+    "data_consegna_impresa": "11/04/2018",
+    "avanzamento_lavori": "100,00",
+    "ultimazione": "01/07/2018",
+    "sospesa": "",
+    "impresa": "CEC - CONSORZIO STABILE EUROPEO COS ORI - SOCIETA` CONSORTILE A R.L.",
+    "id": "14313",
+    "regione": "SICILIA",
+    "strada": "SS385"
+  }
+]

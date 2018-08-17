@@ -1,0 +1,50 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "113,400",
+    "descrizione": "Lavori per la riqualificazione funzionale della segnaletica verticale. marginale ed orizzontale in tratti saltuari lungo la S.S. 194 dal km. 12+000 al km. 113+400.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.149.538,60",
+    "importo_lav_totale": "1.200.138,82",
+    "data_consegna_impresa": "23/01/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "26/11/2018",
+    "sospesa": "",
+    "impresa": "VIS MOBILITY S.R.L.",
+    "id": "14303",
+    "regione": "SICILIA",
+    "strada": "SS194"
+  },
+  {
+    "dal_km": "0,000",
+    "al_km": "11,700",
+    "descrizione": "Lavori per la riqualificazione funzionale della segnaletica verticale. marginale ed orizzontale in tratti saltuari lungo la S.S. 194 dal km.0+000 al km.11+700.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "94.279,85",
+    "importo_lav_totale": "97.041,63",
+    "data_consegna_impresa": "23/01/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "22/05/2018",
+    "sospesa": "",
+    "impresa": "VIS MOBILITY S.R.L.",
+    "id": "14311",
+    "regione": "SICILIA",
+    "strada": "SS194"
+  },
+  {
+    "dal_km": "44,925",
+    "al_km": "93,600",
+    "descrizione": "Lavori di risanamento della pavimentazione lungo la SS 194 in t.s. dal km 44+925 al km 93+600 di competenza del nucleo D del centro C di Catania.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "542.272,77",
+    "importo_lav_totale": "587.650,40",
+    "data_consegna_impresa": "16/04/2018",
+    "avanzamento_lavori": "19,74",
+    "ultimazione": "09/08/2018",
+    "sospesa": "",
+    "impresa": "CEC - CONSORZIO STABILE EUROPEO COS ORI - SOCIETA` CONSORTILE A R.L.",
+    "id": "14312",
+    "regione": "SICILIA",
+    "strada": "SS194"
+  }
+]

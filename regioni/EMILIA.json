@@ -1,0 +1,35 @@
+{
+  "TOT_LAVORI": "21",
+  "TOT_MANUTENZIONE": "21",
+  "TOT_NUOVE_COSTRUZIONI": "0",
+  "TOT_IMPORTO": "47.076.191,21",
+  "TOT_IMPORTO_M": "47.076.191,21",
+  "TOT_IMPORTO_NC": "0,00",
+  "REGIONE": "EMILIA",
+  "LIST_ROADS": [
+    [
+      "SS3bis",
+      "SS 3 BIS TIBERINA"
+    ],
+    [
+      "SS64",
+      "SS 64 PORRETTANA"
+    ],
+    [
+      "VARIE",
+      "STRADE STATALI VARIE"
+    ],
+    [
+      "SS16",
+      "SS 16 ADRIATICA"
+    ],
+    [
+      "SS309",
+      "SS 309 ROMEA"
+    ],
+    [
+      "RA08",
+      "R.A. 8 RACCORDO AUTOSTRADALE FERRARA - PORTO GARIBALDI"
+    ]
+  ]
+}

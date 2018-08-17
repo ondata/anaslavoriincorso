@@ -1,0 +1,27 @@
+{
+  "TOT_LAVORI": "11",
+  "TOT_MANUTENZIONE": "10",
+  "TOT_NUOVE_COSTRUZIONI": "1",
+  "TOT_IMPORTO": "21.048.467,95",
+  "TOT_IMPORTO_M": "6.356.999,22",
+  "TOT_IMPORTO_NC": "14.691.468,73",
+  "REGIONE": "AOSTA",
+  "LIST_ROADS": [
+    [
+      "SS27",
+      "SS 27 DEL GRAN SAN BERNARDO"
+    ],
+    [
+      "SS26dir",
+      "SS 26 DIR. DELLA VALLE D`AOSTA"
+    ],
+    [
+      "SS26",
+      "SS 26 DELLA VALLE D`AOSTA"
+    ],
+    [
+      "VARIE",
+      "STRADE STATALI VARIE"
+    ]
+  ]
+}

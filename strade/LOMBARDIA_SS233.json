@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "53,850",
+    "al_km": "72,200",
+    "descrizione": "S.S.233 - Lavori di M.S. per il ripristino e messa a norma delle barriere di sicurezza lungo la s.s.233 ``Varesina`` tra il km 53+850 ed il km 72+200. cup F67H16000330001",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "416.110,28",
+    "importo_lav_totale": "455.736,08",
+    "data_consegna_impresa": "27/06/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "24/09/2018",
+    "sospesa": "",
+    "impresa": "IMERA  S.R.L.",
+    "id": "14228",
+    "regione": "LOMBARDIA",
+    "strada": "SS233"
+  },
+  {
+    "dal_km": "53,850",
+    "al_km": "72,100",
+    "descrizione": "MICP17E1ACC15 - Lavori di M.S. risanamento della pavimentazione stradale in t.s. lungo la S.S. 233",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "621.765,06",
+    "importo_lav_totale": "632.146,39",
+    "data_consegna_impresa": "26/06/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "13/08/2018",
+    "sospesa": "",
+    "impresa": "ATI SANGALLI SPA - CIVELLI COSTR. GIUDICI SPA - IMP. BERGAMELLI - SIA",
+    "id": "14237",
+    "regione": "LOMBARDIA",
+    "strada": "SS233"
+  }
+]

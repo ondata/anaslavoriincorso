@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "75,000",
+    "descrizione": " \r\nSS 647 - Lavori di manutenzione straordinaria per il ripristino corticale delle strutture in c.a. degradate e delle opere di deflusso dei viadotti ``Rio``. ``Viticozze``. ``Santa Cecilia I e II``.  ",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "899.306,04",
+    "importo_lav_totale": "1.008.499,66",
+    "data_consegna_impresa": "21/05/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "17/10/2018",
+    "sospesa": "",
+    "impresa": "CAPONE COSTRUZIONI GENERALI SRL",
+    "id": "14150",
+    "regione": "MOLISE",
+    "strada": "SS647"
+  },
+  {
+    "dal_km": "0,000",
+    "al_km": "75,000",
+    "descrizione": "LAVORI DI MANUTENZIONE STRAORDINARIA PER IL RIPRISTINO DELLA PAVIMENTAZIONE IN TRATTI SALTUARI DELLA SS 647 ``FONDOVALLE DEL BIFERNO`` - II? STRALCIO",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "529.698,93",
+    "importo_lav_totale": "555.073,93",
+    "data_consegna_impresa": "14/05/2018",
+    "avanzamento_lavori": "99,70",
+    "ultimazione": "31/08/2018",
+    "sospesa": "",
+    "impresa": "PAVING TECHNOLOGY SRL",
+    "id": "14153",
+    "regione": "MOLISE",
+    "strada": "SS647"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "2,500",
+    "al_km": "8,000",
+    "descrizione": "SS. 101 ``Salentina di Gallipoli`` - Lavori di Manutenzione Straordinaria consistenti nel rifacimento della pavimentazione stradale con conglomerato bituminoso del tipo drenante fonoassorbente e nel ripristino di tratti ammalorati tra il Km. 2+500 ed il Km. 8+000.\r\n",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.543.560,80",
+    "importo_lav_totale": "1.614.536,43",
+    "data_consegna_impresa": "04/06/2018",
+    "avanzamento_lavori": "68,02",
+    "ultimazione": "09/11/2018",
+    "sospesa": "",
+    "impresa": "CO.EDI.SAL. S.C.R.L.",
+    "id": "14089",
+    "regione": "PUGLIA",
+    "strada": "SS101"
+  }
+]

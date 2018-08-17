@@ -1,0 +1,67 @@
+{
+  "TOT_LAVORI": "38",
+  "TOT_MANUTENZIONE": "37",
+  "TOT_NUOVE_COSTRUZIONI": "1",
+  "TOT_IMPORTO": "222.049.128,77",
+  "TOT_IMPORTO_M": "40.428.330,78",
+  "TOT_IMPORTO_NC": "181.620.797,99",
+  "REGIONE": "LOMBARDIA",
+  "LIST_ROADS": [
+    [
+      "SS36",
+      "SS 36 DEL LAGO DI COMO E DELLO SPLUGA"
+    ],
+    [
+      "SS42",
+      "SS 42 DEL TONALE E DELLA MENDOLA"
+    ],
+    [
+      "SS9",
+      "SS 9 VIA EMILIA"
+    ],
+    [
+      "VARIE",
+      "STRADE STATALI VARIE"
+    ],
+    [
+      "SS39",
+      "SS 39 DEL PASSO DI APRICA"
+    ],
+    [
+      "SS233",
+      "SS 233 VARESINA"
+    ],
+    [
+      "SS344",
+      "SS 344 DI PORTO CERESIO"
+    ],
+    [
+      "SS526",
+      "SS 526 DELL`ESTICINO"
+    ],
+    [
+      "SS394",
+      "SS 394 DEL VERBANO ORIENTALE"
+    ],
+    [
+      "SS301",
+      "SS 301 DEL FOSCAGNO"
+    ],
+    [
+      "SS336",
+      "SS 336 DELL`AEROPORTO DELLA MALPENSA"
+    ],
+    [
+      "SS9dir",
+      "SS 9 DIR TANGENZIALE EST DI LODI"
+    ],
+    [
+      "SS340dir",
+      "SS 340 DIR. REGINA"
+    ],
+    [
+      "SS38",
+      "SS 38 DELLO STELVIO"
+    ]
+  ]
+}

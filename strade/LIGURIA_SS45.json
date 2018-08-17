@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "31,500",
+    "al_km": "32,445",
+    "descrizione": "Variante alla S.S. 45 di ``Val Trebbia``. Comuni di Torriglia e Montebruno dal Km 31+500 (Costafontana) al Km 35+600 (Montebruno) 1? stralcio funzionale dal km 31+500 alla km 32+445",
+    "tipo_lavoro": "Lavori straordinari per nuove costruzioni.",
+    "importo_lav_principali": "9.977.072,75",
+    "importo_lav_totale": "12.033.124,75",
+    "data_consegna_impresa": "29/05/2017",
+    "avanzamento_lavori": "17,18",
+    "ultimazione": "18/05/2019",
+    "sospesa": "",
+    "impresa": "SICURBAU S.R.L.",
+    "id": "14219",
+    "regione": "LIGURIA",
+    "strada": "SS45"
+  }
+]

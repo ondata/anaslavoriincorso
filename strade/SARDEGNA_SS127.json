@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "95,500",
+    "al_km": "96,800",
+    "descrizione": "S.S. 127 - Lavori di M.S. Rafforzamento della sovrastruttura stradale all`interno del Centro Abitato di Nulvi (SS).",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "287.567,50",
+    "importo_lav_totale": "309.056,39",
+    "data_consegna_impresa": "15/05/2018",
+    "avanzamento_lavori": "89,91",
+    "ultimazione": "13/07/2018",
+    "sospesa": "",
+    "impresa": "VITALI SPA",
+    "id": "14132",
+    "regione": "SARDEGNA",
+    "strada": "SS127"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "31,920",
+    "al_km": "31,945",
+    "descrizione": "Lavori di costruzione del muro di controripa crollato tra i km 31+920e km 31+945 della S.S. n. 187 ``di Castellammare del golfo`` di competenza del Centro ``D``",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "80.308,16",
+    "importo_lav_totale": "104.702,45",
+    "data_consegna_impresa": "19/03/2018",
+    "avanzamento_lavori": "99,69",
+    "ultimazione": "16/06/2018",
+    "sospesa": "",
+    "impresa": "GANGI IMPIANTI S.R.L.",
+    "id": "14320",
+    "regione": "SICILIA",
+    "strada": "SS187"
+  }
+]

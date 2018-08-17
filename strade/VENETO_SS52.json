@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "64,137",
+    "al_km": "110,100",
+    "descrizione": "SS.N.52  CARNICA -  DAL  KM.64+137 AL   KM 110+100 - MIGLIORAMENTO DELLA SICUREZZA STRADALE MEDIANTE RAFFORZAMENTO  DELLA SOVRASTRUTTURA ED ESECUZIONE DI TAPPETO MULTIFUNZIONALE IN T.S. ",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "2.328.385,50",
+    "importo_lav_totale": "2.426.682,72",
+    "data_consegna_impresa": "30/10/2017",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "15/09/2018",
+    "sospesa": "",
+    "impresa": "ATI DEON-COSTR. GIRARDINI - ECOVIE",
+    "id": "14492",
+    "regione": "VENETO",
+    "strada": "SS52"
+  },
+  {
+    "dal_km": "86,250",
+    "al_km": "87,700",
+    "descrizione": "SS.N.52 LAVORI URGENTI DI RIPRISTINO E PROLUNGAMENTO DELLA GALLERIA PARAMASSI ``LASTE`` AL KM.86+250. DEI MURI DI SOSTEGNO E DELLE OPERE DI PROTEZIONE DEL PIANO VIABILE TRA IL KM.85+700 E KM.87+700 ",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "2.117.108,56",
+    "importo_lav_totale": "2.365.947,91",
+    "data_consegna_impresa": "17/04/2018",
+    "avanzamento_lavori": "25,03",
+    "ultimazione": "11/04/2019",
+    "sospesa": "",
+    "impresa": "RTI:DEON SPA-COGEI COSTRUZIONI SRL",
+    "id": "14489",
+    "regione": "VENETO",
+    "strada": "SS52"
+  }
+]

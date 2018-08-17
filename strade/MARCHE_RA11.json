@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "3,100",
+    "al_km": "26,300",
+    "descrizione": "R.A. 11 - Lavori di manutenzione straordinaria per il ripristino della pavimentazione stradale tra i km 3+100 e 3+550. tra i km 6+060 e 7+000. tra i km 11+300 e 12+100. tra i km 20+600 e 26+300. compresi gli svincoli ``Casello Autostradale A14`` e ``Innesto con la S.S. 16``. con risanamento della sovrastruttura in tratti saltuari ed esecuzione della segnaletica orizzontale e marginale.\r\n",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.224.849,04",
+    "importo_lav_totale": "1.294.502,55",
+    "data_consegna_impresa": "05/07/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "01/11/2018",
+    "sospesa": "",
+    "impresa": "ABIT STRADE SRL",
+    "id": "13988",
+    "regione": "MARCHE",
+    "strada": "RA11"
+  },
+  {
+    "dal_km": "5,334",
+    "al_km": "5,334",
+    "descrizione": "R.A. 11 - Lavori di ripristino dei danni causati dagli eventi sismici e miglioramento sismico del Viadotto al km 5+334\r\n",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.413.724,32",
+    "importo_lav_totale": "1.773.135,65",
+    "data_consegna_impresa": "20/03/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "18/08/2018",
+    "sospesa": "",
+    "impresa": "ATI IMPRESERVICE SRL - ANTONINI SRL",
+    "id": "14005",
+    "regione": "MARCHE",
+    "strada": "RA11"
+  }
+]

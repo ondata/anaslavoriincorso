@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "24,000",
+    "descrizione": "Lavori di rifacimento delle testate di soletta e dei giunti di dilatazione delle opere d?arte esistenti lungo la RA15 Tangenziale di Catania. dal km 0+000 al km 24+000  (Viadotto Buttaceto I? - km 17+950. Viadotto Buttaceto II? - km 15+930. Viadotto",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "299.457,60",
+    "importo_lav_totale": "313.902,04",
+    "data_consegna_impresa": "20/07/2017",
+    "avanzamento_lavori": "100,00",
+    "ultimazione": "16/03/2018",
+    "sospesa": "",
+    "impresa": "FORTUNATO MARIA DONATA",
+    "id": "14284",
+    "regione": "SICILIA",
+    "strada": "RA15"
+  },
+  {
+    "dal_km": "10,680",
+    "al_km": "10,700",
+    "descrizione": "Lavori di recupero conservativo della galleria artificiale ``Mirenda`` sita al km 10+680 della Tangenziale di Catania",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "308.380,28",
+    "importo_lav_totale": "322.824,72",
+    "data_consegna_impresa": "10/07/2017",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "05/01/2018",
+    "sospesa": "",
+    "impresa": "BREDIL S.R.L.",
+    "id": "14287",
+    "regione": "SICILIA",
+    "strada": "RA15"
+  }
+]

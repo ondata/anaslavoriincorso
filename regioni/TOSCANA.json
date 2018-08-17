@@ -1,0 +1,43 @@
+{
+  "TOT_LAVORI": "17",
+  "TOT_MANUTENZIONE": "12",
+  "TOT_NUOVE_COSTRUZIONI": "5",
+  "TOT_IMPORTO": "284.740.495,26",
+  "TOT_IMPORTO_M": "36.962.943,96",
+  "TOT_IMPORTO_NC": "247.777.551,30",
+  "REGIONE": "TOSCANA",
+  "LIST_ROADS": [
+    [
+      "SS1",
+      "SS 1 VIA AURELIA"
+    ],
+    [
+      "SS3bis",
+      "SS 3 BIS TIBERINA"
+    ],
+    [
+      "RA03",
+      "R.A. 3 RACCORDO AUTOSTRADALE SIENA - FIRENZE"
+    ],
+    [
+      "SS12",
+      "SS 12 DELL`ABETONE E DEL BRENNERO"
+    ],
+    [
+      "VARIE",
+      "STRADE STATALI VARIE"
+    ],
+    [
+      "SS715",
+      "SS 715 SIENA - BETTOLLE"
+    ],
+    [
+      "SS67",
+      "SS 67 TOSCO ROMAGNOLA"
+    ],
+    [
+      "SS223",
+      "SS 223 DI PAGANICO"
+    ]
+  ]
+}

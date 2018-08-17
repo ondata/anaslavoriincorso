@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "57,300",
+    "al_km": "63,500",
+    "descrizione": "S.S. 653 ``della Valle del Sinni`` - Lavori di M.S. di difesa spondale del corpo stradale del fiume Sinni al km 63+500 e al km 57+300",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.385.902,44",
+    "importo_lav_totale": "1.509.846,04",
+    "data_consegna_impresa": "21/08/2017",
+    "avanzamento_lavori": "97,86",
+    "ultimazione": "08/03/2018",
+    "sospesa": "",
+    "impresa": "ATI CONS.STABILE SIN.TE.S.I.+MANCUS BILIARE S.R.L.",
+    "id": "14388",
+    "regione": "BASILICATA",
+    "strada": "SS653"
+  }
+]

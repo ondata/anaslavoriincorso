@@ -1,0 +1,50 @@
+[
+  {
+    "dal_km": "11,800",
+    "al_km": "24,200",
+    "descrizione": "Adeguamento al tipo B (4 corsie) dell`Itinerario Sassari -Olbia - lotto 2",
+    "tipo_lavoro": "Lavori straordinari per nuove costruzioni.",
+    "importo_lav_principali": "71.444.281,64",
+    "importo_lav_totale": "97.052.309,33",
+    "data_consegna_impresa": "23/02/2017",
+    "avanzamento_lavori": "13,59",
+    "ultimazione": "13/02/2019",
+    "sospesa": "",
+    "impresa": "ATI OBEROSLER CAV.PIETRO SRL - CGS MOVISTRADE COGEFI SRL",
+    "id": "14142",
+    "regione": "SARDEGNA",
+    "strada": "SS199"
+  },
+  {
+    "dal_km": "45,610",
+    "al_km": "55,050",
+    "descrizione": "S.S. 199 - Adeguamento al tipo B (4 corsie) dell`itinerario Sassari-Olbia. Lotto 5 dal km 45+610 al km 55+050",
+    "tipo_lavoro": "Lavori straordinari per nuove costruzioni.",
+    "importo_lav_principali": "44.172.528,61",
+    "importo_lav_totale": "54.862.376,83",
+    "data_consegna_impresa": "23/02/2017",
+    "avanzamento_lavori": "4,62",
+    "ultimazione": "15/03/2019",
+    "sospesa": "",
+    "impresa": "ATI TECNIS SPA-COGIP INFRASTRUTTURE SINTEC SPA- MOVISTRADE COGEFI SRL",
+    "id": "14140",
+    "regione": "SARDEGNA",
+    "strada": "SS199"
+  },
+  {
+    "dal_km": "55,050",
+    "al_km": "61,450",
+    "descrizione": "Adeguamento al tipo B (4 corsie) dell`Itinerario Sassari -Olbia - Lotto 6",
+    "tipo_lavoro": "Lavori straordinari per nuove costruzioni.",
+    "importo_lav_principali": "53.684.360,99",
+    "importo_lav_totale": "66.682.879,43",
+    "data_consegna_impresa": "25/02/2015",
+    "avanzamento_lavori": "31,44",
+    "ultimazione": "13/02/2017",
+    "sospesa": "",
+    "impresa": "A.T.I. TECNIS S.P.A. - COGIP S.P.A. ING. PAVESI & C. S.P.A.",
+    "id": "14139",
+    "regione": "SARDEGNA",
+    "strada": "SS199"
+  }
+]

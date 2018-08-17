@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "2,450",
+    "al_km": "8,000",
+    "descrizione": "S.S. n. 703 - Lavori di rifacimento della pavimentazione ammalorata dal km 2+450 al km 8+000.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "2.560.870,30",
+    "importo_lav_totale": "2.660.266,79",
+    "data_consegna_impresa": "23/07/2018",
+    "avanzamento_lavori": "19,53",
+    "ultimazione": "02/11/2018",
+    "sospesa": "",
+    "impresa": "ATI CO.GE.FA. - BITUX SPA- NEOCOS - CAVE SPADEA",
+    "id": "14427",
+    "regione": "PIEMONTE",
+    "strada": "SS703"
+  }
+]

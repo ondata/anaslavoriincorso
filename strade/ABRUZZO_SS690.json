@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "20,000",
+    "descrizione": "(CUP-F37H15000010001) Lavori di manutenzione straordinaria per l`adeguamento delle barriere di sicurezza tra i km 0+000 e 6+000 e tra i km 7+000 e 20+000 della SS 690",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "79.301,05",
+    "importo_lav_totale": "399.083,66",
+    "data_consegna_impresa": "25/01/2018",
+    "avanzamento_lavori": "37,83",
+    "ultimazione": "27/08/2018",
+    "sospesa": "",
+    "impresa": "LA FORTUNA SRL",
+    "id": "14062",
+    "regione": "ABRUZZO",
+    "strada": "SS690"
+  }
+]

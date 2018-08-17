@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "77,000",
+    "al_km": "127,000",
+    "descrizione": "S.S. n. 33/II - Lavori di manutenzione straordinaria per il risanamento sia superficiale che profondo della pavimentazione stradale. dal km 77+000 al km 127+000 in tratti saltuari. e il rifacimento della relativa segnaletica orizzontale.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "893.805,22",
+    "importo_lav_totale": "940.508,79",
+    "data_consegna_impresa": "09/05/2018",
+    "avanzamento_lavori": "100,00",
+    "ultimazione": "27/06/2018",
+    "sospesa": "",
+    "impresa": "BRUSSI COSTRUZIONI S.R.L.",
+    "id": "14425",
+    "regione": "PIEMONTE",
+    "strada": "SS33"
+  },
+  {
+    "dal_km": "77,000",
+    "al_km": "127,000",
+    "descrizione": "SS33/II - Lavori di manutenzione straordinaria per il risanamento sia superficiale che profondo della pavimentazione stradale dal km. 77+000 e 127+000 in t.s. e rifacimento della relativa segnaletica orizzontale ",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "3.608.897,39",
+    "importo_lav_totale": "3.656.487,36",
+    "data_consegna_impresa": "",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "",
+    "sospesa": "",
+    "impresa": "ATI CO.GE.FA. - BITUX SPA- NEOCOS - CAVE SPADEA",
+    "id": "14432",
+    "regione": "PIEMONTE",
+    "strada": "SS33"
+  }
+]

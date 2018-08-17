@@ -1,0 +1,50 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "0,000",
+    "descrizione": "SS 675 ``Umbro-Laziale``\r\nTratto Aurelia-Cinelli - stralcio Monte Romano Est - Cinelli",
+    "tipo_lavoro": "Lavori straordinari per nuove costruzioni.",
+    "importo_lav_principali": "59.240.286,05",
+    "importo_lav_totale": "75.119.975,32",
+    "data_consegna_impresa": "20/06/2016",
+    "avanzamento_lavori": "87,32",
+    "ultimazione": "30/08/2018",
+    "sospesa": "",
+    "impresa": "ATI DONATI SPA-IRCOP SPA-S.A.L.C. S DEMA COSTRUZIONI SRL",
+    "id": "14422",
+    "regione": "LAZIO",
+    "strada": "SS675"
+  },
+  {
+    "dal_km": "30,212",
+    "al_km": "71,385",
+    "descrizione": "S.S. n. 675 ``Umbro Laziale`` - Lavori di manutenzione straordinaria per l`adeguamento delle barriere stradali in t.s. della S.S. 675 tra il km 30+212 ed il km 71+385.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "832.977,38",
+    "importo_lav_totale": "2.237.258,43",
+    "data_consegna_impresa": "18/09/2015",
+    "avanzamento_lavori": "65,09",
+    "ultimazione": "07/10/2018",
+    "sospesa": "",
+    "impresa": "IMPRESA DI COSTRUZIONI CAV.ANTONIO SANTALUCIA S.R.L.",
+    "id": "14410",
+    "regione": "LAZIO",
+    "strada": "SS675"
+  },
+  {
+    "dal_km": "56,600",
+    "al_km": "58,100",
+    "descrizione": "S.S. 675 ``Umbro - Laziale`` - Barriere new jersey 2? stralcio lotto II - Lavori di M.S. per il miglioramento della sicurezza stradale mediante riqualificazione delle barriere stradali tipo new jersey in t.s. - 2? stralcio dal km 59+600 al km 44+496. Lotto II dal km 58+100 al km 56+600. Lavori anche notturni.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "503.399,01",
+    "importo_lav_totale": "537.510,12",
+    "data_consegna_impresa": "07/05/2018",
+    "avanzamento_lavori": "18,11",
+    "ultimazione": "03/10/2018",
+    "sospesa": "",
+    "impresa": "DAPAM S.R.L. IMPRESA DI COSTRUZIONI",
+    "id": "14407",
+    "regione": "LAZIO",
+    "strada": "SS675"
+  }
+]

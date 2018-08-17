@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "30,685",
+    "al_km": "31,062",
+    "descrizione": "S.S. 585 - LAVORI DI MANUTENZIONE STRAORDINARIA PER IL RISANAMENTO DELLE TRAVI DEL VIADOTTO ``NOCE I`` AL KM 30+685 - 1? STRALCIO",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "862.099,90",
+    "importo_lav_totale": "904.643,23",
+    "data_consegna_impresa": "23/03/2015",
+    "avanzamento_lavori": "99,74",
+    "ultimazione": "11/03/2016",
+    "sospesa": "",
+    "impresa": "SCAI COSTRUZIONI S.R.L. UNIPERSONAL",
+    "id": "14383",
+    "regione": "BASILICATA",
+    "strada": "SS585"
+  }
+]

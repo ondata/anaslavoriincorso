@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "107,800",
+    "al_km": "108,300",
+    "descrizione": "S.S. 28 ``del Colle di Nava`` - Lavori di ammodernamento in sede tra i km 107+800 e 108+300.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "686.915,80",
+    "importo_lav_totale": "809.290,80",
+    "data_consegna_impresa": "27/04/2017",
+    "avanzamento_lavori": "78,41",
+    "ultimazione": "24/06/2018",
+    "sospesa": "",
+    "impresa": "COGEMA S.R.L.",
+    "id": "14203",
+    "regione": "LIGURIA",
+    "strada": "SS28"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "TOT_LAVORI": "17",
+  "TOT_MANUTENZIONE": "14",
+  "TOT_NUOVE_COSTRUZIONI": "3",
+  "TOT_IMPORTO": "416.479.568,20",
+  "TOT_IMPORTO_M": "20.908.068,73",
+  "TOT_IMPORTO_NC": "395.571.499,47",
+  "REGIONE": "LIGURIA",
+  "LIST_ROADS": [
+    [
+      "SS28",
+      "SS 28 DEL COLLE DI NAVA"
+    ],
+    [
+      "SS20",
+      "SS 20 DEL COLLE DI TENDA E DI VALLE ROJA"
+    ],
+    [
+      "VARIE",
+      "STRADE STATALI VARIE"
+    ],
+    [
+      "SS1",
+      "SS 1 VIA AURELIA"
+    ],
+    [
+      "SS45",
+      "SS 45 DI VAL TREBBIA"
+    ]
+  ]
+}

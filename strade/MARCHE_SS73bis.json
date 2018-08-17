@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "16,550",
+    "al_km": "16,550",
+    "descrizione": "Regione Umbria-Provincia di Perugia. Lavori urgenti di ripristino del corpo stradale franato. al km 16+550 della S.S. 73 bis di ?Bocca Trabaria?.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "829.497,42",
+    "importo_lav_totale": "880.672,42",
+    "data_consegna_impresa": "02/07/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "30/09/2018",
+    "sospesa": "",
+    "impresa": "CANGHIARI COSTRUZIONI S.R.L.",
+    "id": "14358",
+    "regione": "MARCHE",
+    "strada": "SS73bis"
+  },
+  {
+    "dal_km": "78,000",
+    "al_km": "111,000",
+    "descrizione": "S.S. 73 Bis Di Bocca Trabaria - Lavori urgenti per la sistemazione dei  cavalcavia ammalorati ricadenti tra il km 78+100 e il km 111 carr dx e sx",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "566.211,80",
+    "importo_lav_totale": "583.989,57",
+    "data_consegna_impresa": "13/02/2018",
+    "avanzamento_lavori": "92,30",
+    "ultimazione": "11/08/2018",
+    "sospesa": "",
+    "impresa": "M.G.A. ITALIA SRL",
+    "id": "13993",
+    "regione": "MARCHE",
+    "strada": "SS73bis"
+  }
+]

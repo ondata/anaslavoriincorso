@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "2,360",
+    "descrizione": "S.S.51 DI ALEMAGNA - VARIANTE DI VITTORIO VENETO (TANGENZIALE EST) - COLLEGAMENTO LA SEGA - OSPEDALE 1? STRALCIO ``LA SEGA - RINDOLA``",
+    "tipo_lavoro": "Lavori straordinari per nuove costruzioni.",
+    "importo_lav_principali": "47.167.460,29",
+    "importo_lav_totale": "55.926.522,41",
+    "data_consegna_impresa": "10/10/2013",
+    "avanzamento_lavori": "82,13",
+    "ultimazione": "19/08/2016",
+    "sospesa": "",
+    "impresa": "ATI EURECA CONSORZIO STABILE - ACCISA - SOCOGEN (ISF)",
+    "id": "14505",
+    "regione": "VENETO",
+    "strada": "SS51"
+  },
+  {
+    "dal_km": "98,600",
+    "al_km": "98,650",
+    "descrizione": "SS. 51 DI ALEMAGNA PIANO PER L`ACCESSIBILITA` A CORTINA 2021 LAVORI DI  RIFACIMENTO DEL MURO DI SOTTOSCARPA E DELL`OPERA IDRAULICA AL KM.98+600\r\n(PROGETTO MSVE14E1726)",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "300.560,11",
+    "importo_lav_totale": "428.014,71",
+    "data_consegna_impresa": "12/04/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "07/08/2018",
+    "sospesa": "",
+    "impresa": "CME  CONSORZIO IMPRENDITORI EDILI SOC.COOP.A RESP .LIM.",
+    "id": "14503",
+    "regione": "VENETO",
+    "strada": "SS51"
+  }
+]

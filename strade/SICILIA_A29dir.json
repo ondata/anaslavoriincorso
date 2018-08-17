@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "7,040",
+    "al_km": "7,040",
+    "descrizione": "Lavori di adeguamento delle strutture e degli impianti tecnologici. ai sensi del D.L. n? 264 del 05/10/2006 in materia di sicurezza per gallerie della rete stradale Trans Europea. della galleria Segesta sita lungo l`A29 Dir ``Alcamo  Trapani`` al km 7+040.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "14.726.785,40",
+    "importo_lav_totale": "16.207.533,80",
+    "data_consegna_impresa": "18/06/2014",
+    "avanzamento_lavori": "90,77",
+    "ultimazione": "30/09/2018",
+    "sospesa": "",
+    "impresa": "CONSORZIO COOPERATIVE COSTRUZIONI CCC SOC.COOPERATIVA",
+    "id": "14342",
+    "regione": "SICILIA",
+    "strada": "A29dir"
+  },
+  {
+    "dal_km": "24,900",
+    "al_km": "25,100",
+    "descrizione": "A/29 Dir. Alcamo - Trapani. Lavori di demolizione di una porzione di muro di controripa instabile al km 25+000 della a/29 dir. e ripristino della scarpata mediante gabbioni metallici.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "203.621,25",
+    "importo_lav_totale": "237.223,98",
+    "data_consegna_impresa": "27/03/2018",
+    "avanzamento_lavori": "85,09",
+    "ultimazione": "23/08/2018",
+    "sospesa": "",
+    "impresa": "EMMECCI S.R.L.",
+    "id": "14349",
+    "regione": "SICILIA",
+    "strada": "A29dir"
+  }
+]

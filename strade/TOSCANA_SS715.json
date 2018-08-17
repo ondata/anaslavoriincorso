@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "3,400",
+    "al_km": "5,400",
+    "descrizione": "S.S. 715 - Lavori di manutenzione straordinaria finalizzati al consolidamento del corpo stradale tra il Km. 3+400 e 5+400 nonche il ripristino della regimazione idraulica delle acque di superficie.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "232.409,20",
+    "importo_lav_totale": "262.964,76",
+    "data_consegna_impresa": "14/06/2017",
+    "avanzamento_lavori": "5,17",
+    "ultimazione": "11/10/2017",
+    "sospesa": "",
+    "impresa": "AP COSTRUZIONI S.R.L.",
+    "id": "14193",
+    "regione": "TOSCANA",
+    "strada": "SS715"
+  }
+]

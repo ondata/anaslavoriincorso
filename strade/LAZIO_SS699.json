@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "0,450",
+    "al_km": "1,400",
+    "descrizione": "S.S. 699 - LAVORI URGENTI DI CONSOLIDAMENTO DELLA SPALLA LATO FROSINONE DEL VIADOTTO ANXUR AL KM 1+400",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.416.040,06",
+    "importo_lav_totale": "1.694.648,52",
+    "data_consegna_impresa": "04/02/2016",
+    "avanzamento_lavori": "82,85",
+    "ultimazione": "04/07/2017",
+    "sospesa": "",
+    "impresa": "COSTRUZIONI RUBERTO S.R.L.",
+    "id": "14400",
+    "regione": "LAZIO",
+    "strada": "SS699"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "29,950",
+    "al_km": "73,000",
+    "descrizione": "S.S. 47 ``della Valsugana`` - Lavori di fornitura e posa in opera di barriere di sicurezza in t.s.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "513.050,32",
+    "importo_lav_totale": "796.988,58",
+    "data_consegna_impresa": "14/10/2015",
+    "avanzamento_lavori": "99,90",
+    "ultimazione": "23/12/2017",
+    "sospesa": "",
+    "impresa": "L. & C. LAVORI E COSTRUZIONI S.R.L.",
+    "id": "14486",
+    "regione": "VENETO",
+    "strada": "SS47"
+  },
+  {
+    "dal_km": "29,950",
+    "al_km": "73,000",
+    "descrizione": "SS.N.47 DELLA VALSUGANA\r\nLAVORI DI RAFFORZAMENTO DELLA SOVRASTRUTTURA STRADALE IN TRATTI SALTUARI",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.662.170,00",
+    "importo_lav_totale": "1.761.058,89",
+    "data_consegna_impresa": "23/10/2017",
+    "avanzamento_lavori": "99,76",
+    "ultimazione": "05/08/2018",
+    "sospesa": "",
+    "impresa": "ATI DEON-COSTR. GIRARDINI - ECOVIE",
+    "id": "14494",
+    "regione": "VENETO",
+    "strada": "SS47"
+  }
+]

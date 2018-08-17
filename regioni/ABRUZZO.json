@@ -1,0 +1,47 @@
+{
+  "TOT_LAVORI": "20",
+  "TOT_MANUTENZIONE": "18",
+  "TOT_NUOVE_COSTRUZIONI": "2",
+  "TOT_IMPORTO": "175.223.049,61",
+  "TOT_IMPORTO_M": "21.115.616,84",
+  "TOT_IMPORTO_NC": "154.107.432,77",
+  "REGIONE": "ABRUZZO",
+  "LIST_ROADS": [
+    [
+      "SS16",
+      "SS 16 ADRIATICA"
+    ],
+    [
+      "SS690",
+      "SS 690 AVEZZANO SORA"
+    ],
+    [
+      "SS5",
+      "SS 5 VIA TIBURTINA VALERIA"
+    ],
+    [
+      "SS80racc",
+      "SS 80 RACC. DI TERAMO"
+    ],
+    [
+      "VARIE",
+      "STRADE STATALI VARIE"
+    ],
+    [
+      "SS80",
+      "SS 80 DEL GRAN SASSO D`ITALIA"
+    ],
+    [
+      "SS652",
+      "SS 652 DI FONDO VALLE SANGRO"
+    ],
+    [
+      "RA12",
+      "R.A. 12 RACCORDO AUTOSTRADALE CHIETI - PESCARA"
+    ],
+    [
+      "SS81",
+      "SS 81 PICENO APRUTINA"
+    ]
+  ]
+}

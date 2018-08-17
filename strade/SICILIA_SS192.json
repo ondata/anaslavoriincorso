@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "0,650",
+    "al_km": "30,000",
+    "descrizione": "Lavori di sovrastruttura stradale per risanamento della SS 192 dal Km 0+650 al Km 30+000.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "975.033,62",
+    "importo_lav_totale": "1.025.621,45",
+    "data_consegna_impresa": "23/02/2018",
+    "avanzamento_lavori": "100,00",
+    "ultimazione": "17/05/2018",
+    "sospesa": "",
+    "impresa": "CONSORZIO STABILE INFRA.TECH S.C.A.R.L.",
+    "id": "14307",
+    "regione": "SICILIA",
+    "strada": "SS192"
+  }
+]

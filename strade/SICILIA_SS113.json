@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "87,550",
+    "al_km": "87,650",
+    "descrizione": "Lavori di manutenzione straordinaria relativi agli interventi di protezione del piano viabile ed al ripristino della transitabilita lungo la SS 113 nel tratto compreso tra il km 87+550 ed il km 87+650.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "651.319,07",
+    "importo_lav_totale": "693.393,74",
+    "data_consegna_impresa": "18/07/2016",
+    "avanzamento_lavori": "100,00",
+    "ultimazione": "28/01/2017",
+    "sospesa": "",
+    "impresa": "VERTICAL PROJET SRL",
+    "id": "14295",
+    "regione": "SICILIA",
+    "strada": "SS113"
+  },
+  {
+    "dal_km": "313,000",
+    "al_km": "314,000",
+    "descrizione": "Lavori di MS per ripristini corticali. adeguamento dei cordoli e sostituzione delle barriere e giunti di dilatazione ammalorati del viadotto Tauro al km. 313+000 della SS 113.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "293.242,64",
+    "importo_lav_totale": "396.261,80",
+    "data_consegna_impresa": "28/11/2017",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "26/04/2018",
+    "sospesa": "",
+    "impresa": "ATI NUOVA ISES S.R.L. - RIFRA C.NI DI FERRERO CARMELA",
+    "id": "14321",
+    "regione": "SICILIA",
+    "strada": "SS113"
+  }
+]

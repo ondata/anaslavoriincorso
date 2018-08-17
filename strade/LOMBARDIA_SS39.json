@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "6,000",
+    "al_km": "12,400",
+    "descrizione": "S.S.39 - Lavori per il ripristino di opere d`arte maggiori e minori tra il km 6+000 e il km 12+400 in tratti saltuari",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "347.786,23",
+    "importo_lav_totale": "370.525,36",
+    "data_consegna_impresa": "09/12/2015",
+    "avanzamento_lavori": "100,00",
+    "ultimazione": "03/09/2016",
+    "sospesa": "",
+    "impresa": "MALACRIDA A.V.C. SRL",
+    "id": "14227",
+    "regione": "LOMBARDIA",
+    "strada": "SS39"
+  }
+]

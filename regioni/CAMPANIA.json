@@ -1,0 +1,55 @@
+{
+  "TOT_LAVORI": "20",
+  "TOT_MANUTENZIONE": "19",
+  "TOT_NUOVE_COSTRUZIONI": "1",
+  "TOT_IMPORTO": "144.002.436,67",
+  "TOT_IMPORTO_M": "28.742.311,86",
+  "TOT_IMPORTO_NC": "115.260.124,81",
+  "REGIONE": "CAMPANIA",
+  "LIST_ROADS": [
+    [
+      "RA09",
+      "R.A. 9 RACCORDO AUTOSTRADALE DI BENEVENTO"
+    ],
+    [
+      "SS303",
+      "SS 303 DEL FORMICOSO"
+    ],
+    [
+      "SS7",
+      "SS 7 VIA APPIA"
+    ],
+    [
+      "SS90bis",
+      "SS 90 BIS DELLE PUGLIE"
+    ],
+    [
+      "SS7quater",
+      "SS 7 QUATER VIA DOMITIANA"
+    ],
+    [
+      "SS6",
+      "SS 6 VIA CASILINA"
+    ],
+    [
+      "SS372",
+      "SS 372 TELESINA"
+    ],
+    [
+      "SS145",
+      "SS 145 SORRENTINA"
+    ],
+    [
+      "VARIE",
+      "STRADE STATALI VARIE"
+    ],
+    [
+      "SS268",
+      "SS 268 DEL VESUVIO"
+    ],
+    [
+      "SS18",
+      "SS 18 TIRRENA INFERIORE"
+    ]
+  ]
+}

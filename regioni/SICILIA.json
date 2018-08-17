@@ -1,0 +1,123 @@
+{
+  "TOT_LAVORI": "80",
+  "TOT_MANUTENZIONE": "75",
+  "TOT_NUOVE_COSTRUZIONI": "5",
+  "TOT_IMPORTO": "1.334.492.045,58",
+  "TOT_IMPORTO_M": "123.211.311,82",
+  "TOT_IMPORTO_NC": "1.211.280.733,76",
+  "REGIONE": "SICILIA",
+  "LIST_ROADS": [
+    [
+      "A19",
+      "A19 PALERMO - CATANIA"
+    ],
+    [
+      "A29",
+      "A29 PALERMO - MAZARA DEL VALLO"
+    ],
+    [
+      "RA15",
+      "R.A. 15 TANGENZIALE OVEST DI CATANIA"
+    ],
+    [
+      "A01",
+      "A CATANIA - SIRACUSA"
+    ],
+    [
+      "VARIE",
+      "STRADE STATALI VARIE"
+    ],
+    [
+      "SS115",
+      "SS 115 SUD OCCIDENTALE SICULA"
+    ],
+    [
+      "SS575",
+      "SS 575 DI TROINA"
+    ],
+    [
+      "SS114",
+      "SS 114 ORIENTALE SICULA"
+    ],
+    [
+      "SS113",
+      "SS 113 SETTENTRIONALE SICULA"
+    ],
+    [
+      "SS120",
+      "SS 120 DELL`ETNA E DELLE MADONIE"
+    ],
+    [
+      "SS121",
+      "SS 121 CATANESE"
+    ],
+    [
+      "SS194",
+      "SS 194 RAGUSANA"
+    ],
+    [
+      "SS514",
+      "SS 514 DI CHIARAMONTE"
+    ],
+    [
+      "SS192",
+      "SS 192 DELLA VALLE DEL DITTAINO"
+    ],
+    [
+      "SS124",
+      "SS 124 SIRACUSANA"
+    ],
+    [
+      "SS385",
+      "SS 385 DI PALAGONIA"
+    ],
+    [
+      "SS626dir",
+      "SS 626 DIR LICATA - BRAEMI"
+    ],
+    [
+      "SS188dir-c",
+      "SS 188 DIR./C CENTRO OCCIDENTALE SICULA"
+    ],
+    [
+      "SS187",
+      "SS 187 DI CASTELLAMMARE DEL GOLFO"
+    ],
+    [
+      "SS286",
+      "SS 286 DI CASTELBUONO"
+    ],
+    [
+      "SS122ter",
+      "SS 122 TER TANGENZIALE EST DI CANICATTI`"
+    ],
+    [
+      "SS118",
+      "SS 118 CORLEONESE AGRIGENTINA"
+    ],
+    [
+      "SS624",
+      "SS 624 PALERMO - SCIACCA"
+    ],
+    [
+      "SS188",
+      "SS 188 CENTRO OCCIDENTALE SICULA"
+    ],
+    [
+      "SS557",
+      "SS 557 DI CAMPOBELLO DI LICATA"
+    ],
+    [
+      "ISV3",
+      "ITINERARIO NORD - SUD ITINERARIO NORD SUD - S.STEFANO DI CAMASTRA - GELA"
+    ],
+    [
+      "SS640",
+      "SS 640 DI PORTO EMPEDOCLE"
+    ],
+    [
+      "A29dir",
+      "A29 DIR ALCAMO - TRAPANI"
+    ]
+  ]
+}

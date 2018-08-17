@@ -1,0 +1,50 @@
+[
+  {
+    "dal_km": "105,850",
+    "al_km": "117,400",
+    "descrizione": "LAVORI DI MANUTENZIONE PROGRAMMATA PER IL RIPRISTINO DELLA PAVIMENTAZIONE STRADALE IN TRATTI SALTUARI COMPRESI TRA IL KM 105+850 ED IL KM 117+400 DELLA S.S. 87  - 1? STRALCIO",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "551.964,86",
+    "importo_lav_totale": "560.762,25",
+    "data_consegna_impresa": "16/04/2018",
+    "avanzamento_lavori": "100,00",
+    "ultimazione": "10/06/2018",
+    "sospesa": "",
+    "impresa": "ATI BETON BLACK SPA-M.C. APPALTI-3S SOC DI SERV STRADALI E AZIENDALI",
+    "id": "14145",
+    "regione": "MOLISE",
+    "strada": "SS87"
+  },
+  {
+    "dal_km": "117,740",
+    "al_km": "132,700",
+    "descrizione": "LAVORI DI M.S. DELLE BARRIERE LATERALI DI SICUREZZA BORDO RILEVATO IN TRATTI SALTUARI COMPRESI TRA IL KM 117+740 ED IL KM 132+700 DELLA SS 87",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "163.287,45",
+    "importo_lav_totale": "414.376,34",
+    "data_consegna_impresa": "20/04/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "16/09/2018",
+    "sospesa": "",
+    "impresa": "ITALIANA COSTRUZIONI S.R.L",
+    "id": "14148",
+    "regione": "MOLISE",
+    "strada": "SS87"
+  },
+  {
+    "dal_km": "214,500",
+    "al_km": "221,887",
+    "descrizione": "LAVORI DI MANUTENZIONE STRAORDINARIA PER IL RIPRISTINO DELLA PAVIMENTAZIONE STRADALE NEL TRATTO A 4 CORSIE COMPRESO TRA IL KM 214+500 ED IL KM 221+887  DELLA SS 87 ``SANNITICA``.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "859.439,60",
+    "importo_lav_totale": "920.550,71",
+    "data_consegna_impresa": "16/05/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "14/10/2018",
+    "sospesa": "",
+    "impresa": "PAVING TECHNOLOGY SRL",
+    "id": "14152",
+    "regione": "MOLISE",
+    "strada": "SS87"
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "TOT_LAVORI": "71",
+  "TOT_MANUTENZIONE": "64",
+  "TOT_NUOVE_COSTRUZIONI": "7",
+  "TOT_IMPORTO": "1.006.506.877,78",
+  "TOT_IMPORTO_M": "75.729.117,97",
+  "TOT_IMPORTO_NC": "930.777.759,81",
+  "REGIONE": "CALABRIA",
+  "LIST_ROADS": [
+    [
+      "SS280",
+      "SS 280 DEI DUE MARI"
+    ],
+    [
+      "SS106",
+      "SS 106 JONICA"
+    ],
+    [
+      "SS107",
+      "SS 107 SILANA CROTONESE"
+    ],
+    [
+      "SS182",
+      "SS 182 DELLE SERRE CALABRE"
+    ],
+    [
+      "SS481",
+      "SS 481 DELLA VALLE DEL FERRO"
+    ],
+    [
+      "SS18",
+      "SS 18 TIRRENA INFERIORE"
+    ],
+    [
+      "VARIE",
+      "STRADE STATALI VARIE"
+    ],
+    [
+      "RA04",
+      "R.A. 4 RACCORDO AUTOSTRADALE DI REGGIO CALABRIA"
+    ],
+    [
+      "SS109bis-dir",
+      "SS 109 BIS/ DIR DI CATANZARO"
+    ],
+    [
+      "A3",
+      "A3 SALERNO - REGGIO CALABRIA"
+    ],
+    [
+      "A3",
+      "A2 AUTOSTRADA DEL MEDITERRANEO"
+    ]
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "1,050",
+    "al_km": "1,100",
+    "descrizione": "SP 73 - NU 06 - Lavori di rifacimento tratto stradale lungo la SP 73 (Bitti-Sologo) al Km 1+050\r\n",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.418.220,35",
+    "importo_lav_totale": "1.564.928,10",
+    "data_consegna_impresa": "11/09/2014",
+    "avanzamento_lavori": "92,60",
+    "ultimazione": "19/05/2015",
+    "sospesa": "",
+    "impresa": "GEOM. GIUSEPPE ANGIUS COSTRUZIONI S",
+    "id": "14116",
+    "regione": "SARDEGNA",
+    "strada": "SP73-NU"
+  }
+]

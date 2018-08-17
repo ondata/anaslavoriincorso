@@ -1,0 +1,39 @@
+{
+  "TOT_LAVORI": "12",
+  "TOT_MANUTENZIONE": "11",
+  "TOT_NUOVE_COSTRUZIONI": "1",
+  "TOT_IMPORTO": "33.795.890,56",
+  "TOT_IMPORTO_M": "12.905.659,42",
+  "TOT_IMPORTO_NC": "20.890.231,14",
+  "REGIONE": "PIEMONTE",
+  "LIST_ROADS": [
+    [
+      "VARIE",
+      "STRADE STATALI VARIE"
+    ],
+    [
+      "SS34",
+      "SS 34 DEL LAGO MAGGIORE"
+    ],
+    [
+      "SS33",
+      "SS 33 DEL SEMPIONE"
+    ],
+    [
+      "SS703",
+      "SS 703 TANGENZIALE EST DI NOVARA"
+    ],
+    [
+      "SS337",
+      "SS 337 DELLA VAL VIGEZZO"
+    ],
+    [
+      "RA10",
+      "R.A. 10 RACCORDO AUTOSTRADALE TORINO - AEROPORTO DI CASELLE"
+    ],
+    [
+      "SS26",
+      "SS 26 DELLA VALLE D`AOSTA"
+    ]
+  ]
+}

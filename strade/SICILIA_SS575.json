@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "13,000",
+    "al_km": "21,000",
+    "descrizione": "Lavori di Manutenzione straordinaria per la riqualificazione delle barriere di sicurezza  in tratti saltuari  lungo la SS 575 ``di Troina`` tra i km 13+000 e 21+000 e tra il km 25+000 al km 32+000",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "66.433,85",
+    "importo_lav_totale": "68.953,85",
+    "data_consegna_impresa": "21/05/2018",
+    "avanzamento_lavori": "100,00",
+    "ultimazione": "19/06/2018",
+    "sospesa": "",
+    "impresa": "I.C.E.S. S.R.L.",
+    "id": "14291",
+    "regione": "SICILIA",
+    "strada": "SS575"
+  }
+]

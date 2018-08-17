@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "26,250",
+    "al_km": "26,250",
+    "descrizione": "S.S. 337 ``della Valle Vigezzo`` - Lavori di messa in sicurezza delle pile del viadotto Melezzo 1 al km 26+250",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "646.009,24",
+    "importo_lav_totale": "694.384,24",
+    "data_consegna_impresa": "27/06/2018",
+    "avanzamento_lavori": "45,36",
+    "ultimazione": "24/09/2018",
+    "sospesa": "",
+    "impresa": "C.G.X. COSTRUZIONI GENERALI XODO S.R.L.",
+    "id": "14428",
+    "regione": "PIEMONTE",
+    "strada": "SS337"
+  }
+]

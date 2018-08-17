@@ -1,0 +1,50 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "40,865",
+    "descrizione": "S.S. 655 - Lavori di M.S. consistenti nel ripristino di pavimentazioni ammalorate in tratti saltuari mirati all`incremento della sicurezza ed al miglioramento delle infrastrutture stradali.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.110.924,18",
+    "importo_lav_totale": "1.160.924,18",
+    "data_consegna_impresa": "26/06/2018",
+    "avanzamento_lavori": "49,51",
+    "ultimazione": "23/09/2018",
+    "sospesa": "",
+    "impresa": "ATI PAVING TECHNOLOGY SRL - STEELCONCRETE CONSORZIO STABILE",
+    "id": "14090",
+    "regione": "PUGLIA",
+    "strada": "SS655"
+  },
+  {
+    "dal_km": "0,000",
+    "al_km": "0,000",
+    "descrizione": "SS 655 ``Bradanica`` I Tronco I Lotto della Martella.",
+    "tipo_lavoro": "Lavori straordinari per nuove costruzioni.",
+    "importo_lav_principali": "49.563.059,34",
+    "importo_lav_totale": "58.001.166,25",
+    "data_consegna_impresa": "21/01/2011",
+    "avanzamento_lavori": "99,89",
+    "ultimazione": "20/12/2012",
+    "sospesa": "",
+    "impresa": "ATI INTINI-CONSORZIO RAVENNATE(ATA -PRESENTS-PRO ITER",
+    "id": "14395",
+    "regione": "PUGLIA",
+    "strada": "SS655"
+  },
+  {
+    "dal_km": "82,000",
+    "al_km": "122,600",
+    "descrizione": "Lavori di manutenzione straordinaria per la riqualifica della pavimentazione e del sottofondo stradale tra i km 39+486 e 76+000. e tra i km 82+000 ed il km 122+600 della SS. n? 655 ",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.247.996,67",
+    "importo_lav_totale": "1.276.521,61",
+    "data_consegna_impresa": "04/07/2018",
+    "avanzamento_lavori": "15,09",
+    "ultimazione": "24/11/2018",
+    "sospesa": "",
+    "impresa": "LEONE S.R.L.",
+    "id": "14393",
+    "regione": "PUGLIA",
+    "strada": "SS655"
+  }
+]

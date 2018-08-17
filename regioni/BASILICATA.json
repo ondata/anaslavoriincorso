@@ -1,0 +1,55 @@
+{
+  "TOT_LAVORI": "25",
+  "TOT_MANUTENZIONE": "20",
+  "TOT_NUOVE_COSTRUZIONI": "5",
+  "TOT_IMPORTO": "205.113.593,88",
+  "TOT_IMPORTO_M": "25.358.495,25",
+  "TOT_IMPORTO_NC": "179.755.098,63",
+  "REGIONE": "BASILICATA",
+  "LIST_ROADS": [
+    [
+      "SS585dir",
+      "SS 585 DIR. DI LAURIA"
+    ],
+    [
+      "RA05",
+      "R.A. 5 RACCORDO AUTOSTRADALE SCALO SICIGNANO - POTENZA"
+    ],
+    [
+      "SS407",
+      "SS 407 BASENTANA"
+    ],
+    [
+      "SS658",
+      "SS 658 POTENZA - MELFI"
+    ],
+    [
+      "VARIE",
+      "STRADE STATALI VARIE"
+    ],
+    [
+      "SS585",
+      "SS 585 FONDO VALLE DEL NOCE"
+    ],
+    [
+      "SS7",
+      "SS 7 VIA APPIA"
+    ],
+    [
+      "SS653",
+      "SS 653 DELLA VALLE DEL SINNI"
+    ],
+    [
+      "SS655",
+      "SS 655 BRADANICA"
+    ],
+    [
+      "SS95",
+      "SS 95 DI BRIENZA"
+    ],
+    [
+      "SS176",
+      "SS 176 DELLA VALLE DEL BASENTO"
+    ]
+  ]
+}

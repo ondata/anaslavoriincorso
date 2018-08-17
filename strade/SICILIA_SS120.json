@@ -1,0 +1,50 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "156,500",
+    "descrizione": "Lavori di manutenzione della sovrastruttura stradale compreso l`impianto della segnaletica orizzontale lungo le strada statale 120",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "126.510,66",
+    "importo_lav_totale": "131.735,66",
+    "data_consegna_impresa": "18/04/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "16/06/2018",
+    "sospesa": "",
+    "impresa": "TRUSCELLI SALVATORE S.R.L.",
+    "id": "14330",
+    "regione": "SICILIA",
+    "strada": "SS120"
+  },
+  {
+    "dal_km": "114,000",
+    "al_km": "117,000",
+    "descrizione": "lavori di realizzazione di paratie per la riparazione dei dissesti del corpo stradale ai km. 114+000 e 117+000 della SS n. 120.di competenza del C.M. ``B``",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "643.774,60",
+    "importo_lav_totale": "688.219,60",
+    "data_consegna_impresa": "23/07/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "19/11/2018",
+    "sospesa": "",
+    "impresa": "SIMETO COSTRUZIONI S.R.L.",
+    "id": "14323",
+    "regione": "SICILIA",
+    "strada": "SS120"
+  },
+  {
+    "dal_km": "155,500",
+    "al_km": "215,627",
+    "descrizione": "Lavori di sistemazione del piano viabile ammolorato lungo la S.S. n? 120 `` dell`Etna e delle Madonie `` in tratti saltuari tra il 155+500 ed il km 215+627",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.579.017,00",
+    "importo_lav_totale": "1.623.239,22",
+    "data_consegna_impresa": "21/06/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "18/10/2018",
+    "sospesa": "",
+    "impresa": "CONSORZIO STABILE INFRA.TECH S.C.A.R.L.",
+    "id": "14301",
+    "regione": "SICILIA",
+    "strada": "SS120"
+  }
+]

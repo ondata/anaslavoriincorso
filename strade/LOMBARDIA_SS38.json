@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "0,000",
+    "descrizione": "Lotto I. Variante di Morbegno. dallo svincolo di Fuentes allo svincolo del Tartano. II Stralcio dallo svincolo di Cosio allo svincolo di Tartano.",
+    "tipo_lavoro": "Lavori straordinari per nuove costruzioni.",
+    "importo_lav_principali": "163.413.008,95",
+    "importo_lav_totale": "181.620.797,99",
+    "data_consegna_impresa": "22/01/2015",
+    "avanzamento_lavori": "98,51",
+    "ultimazione": "04/04/2018",
+    "sospesa": "",
+    "impresa": "COSSI COSTRUZIONI S.P.A.",
+    "id": "14257",
+    "regione": "LOMBARDIA",
+    "strada": "SS38"
+  },
+  {
+    "dal_km": "19,000",
+    "al_km": "60,000",
+    "descrizione": "S.S.N.38-LAVORI DI M.S.PER IL RAFFORZAMENTO DELLE BARRIERE METALLICHE ESISTENTI LUNGO I TRATTI IN PARALLELO E A RIDOSSO DELLA LINEA FERROVIARIA COLICO-TIRANO DAL KM. 7+000 AL KM. 62+000 IN.TRATTI SALTUARI.CUP F77H14000340001",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "205.500,00",
+    "importo_lav_totale": "220.500,00",
+    "data_consegna_impresa": "04/09/2014",
+    "avanzamento_lavori": "99,63",
+    "ultimazione": "05/12/2017",
+    "sospesa": "",
+    "impresa": "SIBAR S.R.L. - SOCIETA` IMPIANTI BARRIERE E RECINZIONI",
+    "id": "14256",
+    "regione": "LOMBARDIA",
+    "strada": "SS38"
+  }
+]

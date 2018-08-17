@@ -1,0 +1,50 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "25,125",
+    "descrizione": "Lavori di manutenzione straordinaria a  seguito di furto cavi di alimentazione per il ripristino della funzionalita degli impianti tecnologici a servizio della sicurezza delle gallerie dell?Autostrada Catania ? Siracusa.  ",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "832.468,24",
+    "importo_lav_totale": "877.068,24",
+    "data_consegna_impresa": "13/07/2015",
+    "avanzamento_lavori": "83,33",
+    "ultimazione": "06/07/2016",
+    "sospesa": "",
+    "impresa": "F.LLI GINTOLI COSTRUZ.ED INFRASTR.",
+    "id": "14285",
+    "regione": "SICILIA",
+    "strada": "A01"
+  },
+  {
+    "dal_km": "0,000",
+    "al_km": "24,000",
+    "descrizione": "Lavori di ripristino degli impianti  delle Gallerie:  ``Agnone 1``. ``Agnone 2`` e ``San Fratello``.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "485.193,62",
+    "importo_lav_totale": "505.568,62",
+    "data_consegna_impresa": "15/09/2017",
+    "avanzamento_lavori": "93,00",
+    "ultimazione": "13/12/2017",
+    "sospesa": "",
+    "impresa": "ATI DI BELLA COSTR. S.R.L. - ALMAR ELETTROTECNICA S.R.L.",
+    "id": "14288",
+    "regione": "SICILIA",
+    "strada": "A01"
+  },
+  {
+    "dal_km": "0,000",
+    "al_km": "24,000",
+    "descrizione": "Lavori di manutenzione per ripristino danni e funzionalita degli impianti tecnologici delle 3 gallerie di lunghezza inferiore a 500m. interventi di security e del software di gestione da remoto a servizio dell`Autostrada Catania - Siracusa a seguito di furti.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.996.502,75",
+    "importo_lav_totale": "3.254.666,95",
+    "data_consegna_impresa": "01/12/2017",
+    "avanzamento_lavori": "60,55",
+    "ultimazione": "29/05/2018",
+    "sospesa": "",
+    "impresa": "ATI DI BELLA COSTR. S.R.L. - ALMAR ELETTROTECNICA S.R.L.",
+    "id": "14289",
+    "regione": "SICILIA",
+    "strada": "A01"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "dal_km": "3,000",
+    "al_km": "74,000",
+    "descrizione": "SS 76 Lavori di adeguamento degli impianti tecnologici. ai sensi del D.L. n? 264 del 05.10.2006 in materia di sicurezza per gallerie della rete stradale trans europea: Bartolomeo e Campo D`Olmo\r\n",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "952.308,51",
+    "importo_lav_totale": "1.240.308,51",
+    "data_consegna_impresa": "25/06/2018",
+    "avanzamento_lavori": "29,93",
+    "ultimazione": "01/11/2018",
+    "sospesa": "",
+    "impresa": "ATI STACCHIO IMPIANTI -IGE IMPIANTI",
+    "id": "13987",
+    "regione": "MARCHE",
+    "strada": "SS76"
+  },
+  {
+    "dal_km": "16,000",
+    "al_km": "74,000",
+    "descrizione": "SS 76 - Lavori di manutenzione straordinaria per il rifacimento del tappeto d`usura e risanamento in tratti saltuari della sottofondazione stradale dal km 16+050 al km 23+700.dal km 28+000 al km 36+500 dal km 41+500 al km48+000 dal km 54+000 al km 74+400 carr dx e sx.\r\n\r\n",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.215.205,00",
+    "importo_lav_totale": "1.235.905,00",
+    "data_consegna_impresa": "02/07/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "17/11/2018",
+    "sospesa": "",
+    "impresa": "ATI PESARESI G. - SOC. COOP BRACC. COSTR. NASONI - BOSCARINI COSTR.",
+    "id": "13991",
+    "regione": "MARCHE",
+    "strada": "SS76"
+  },
+  {
+    "dal_km": "50,200",
+    "al_km": "64,000",
+    "descrizione": "SS 76 - Lavori di manutenzione straordinaria per il ripristino della pavimentazione stradale nel tratto compreso tra i km 50+200 e km 64+000  in entrambe le carreggiate con risanamento della sovrastruttura in tratti saltuari. compresi gli svincoli di ``JESI CENTRO`` al km 58+600 e ``Cingoli`` al km 54+150\r\n",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.093.300,00",
+    "importo_lav_totale": "1.114.300,00",
+    "data_consegna_impresa": "02/07/2018",
+    "avanzamento_lavori": "30,66",
+    "ultimazione": "06/11/2018",
+    "sospesa": "",
+    "impresa": "ATI PESARESI G. - SOC. COOP BRACC. COSTR. NASONI - BOSCARINI COSTR.",
+    "id": "13986",
+    "regione": "MARCHE",
+    "strada": "SS76"
+  }
+]

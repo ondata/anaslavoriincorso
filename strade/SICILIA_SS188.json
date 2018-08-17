@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "29,812",
+    "al_km": "37,832",
+    "descrizione": "Lavori di distese generali della S.S. n. 188 ``Centro Occidentale Sicula`` tratti dal km 5+750 al km 9+506 e dal km 29+812 al km 37+832.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "323.931,92",
+    "importo_lav_totale": "354.308,50",
+    "data_consegna_impresa": "20/11/2017",
+    "avanzamento_lavori": "99,96",
+    "ultimazione": "18/01/2018",
+    "sospesa": "",
+    "impresa": "CEC - CONSORZIO STABILE EUROPEO COS ORI - SOCIETA` CONSORTILE A R.L.",
+    "id": "14334",
+    "regione": "SICILIA",
+    "strada": "SS188"
+  }
+]

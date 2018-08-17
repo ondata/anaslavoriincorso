@@ -1,0 +1,50 @@
+[
+  {
+    "dal_km": "8,300",
+    "al_km": "54,400",
+    "descrizione": "Lavori di sistemazione del piano viabile ammalorato lungo la S.S. n? 114 ``Orientale Sicula`` in tratti saltuari tra il 8+300 ed il km 54+400.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.269.390,84",
+    "importo_lav_totale": "1.312.946,40",
+    "data_consegna_impresa": "21/06/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "30/09/2018",
+    "sospesa": "",
+    "impresa": "CONSORZIO STABILE INFRA.TECH S.C.A.R.L.",
+    "id": "14296",
+    "regione": "SICILIA",
+    "strada": "SS114"
+  },
+  {
+    "dal_km": "48,000",
+    "al_km": "48,600",
+    "descrizione": "Lavori di MS per il consolidamento del costone roccioso tra il km 48+000 ed il km 48+600 lungo la S.S. 114 ``Orientale Sicula``",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "90.670,56",
+    "importo_lav_totale": "93.200,56",
+    "data_consegna_impresa": "23/04/2018",
+    "avanzamento_lavori": "100,00",
+    "ultimazione": "22/05/2018",
+    "sospesa": "",
+    "impresa": "C.E.S.I. S.R.L.",
+    "id": "14293",
+    "regione": "SICILIA",
+    "strada": "SS114"
+  },
+  {
+    "dal_km": "54,400",
+    "al_km": "154,400",
+    "descrizione": "Lavori per la riqualificazione funzionale della segnaletica verticale. marginale ed orizzontale in tratti saltuari lungo la S.S. 114 dal km.54+400 al km.154+600.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "458.792,26",
+    "importo_lav_totale": "497.681,15",
+    "data_consegna_impresa": "23/01/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "21/07/2018",
+    "sospesa": "",
+    "impresa": "VIS MOBILITY S.R.L.",
+    "id": "14310",
+    "regione": "SICILIA",
+    "strada": "SS114"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "48,131",
+    "descrizione": "S.S. 658 Nuovo itinerario Potenza-Melfi - Lavori di messa in sicurezza del tracciato stradale in tratti saltuari tra i km 0+000 e il km 48+131 - 1? Stralcio",
+    "tipo_lavoro": "Lavori straordinari per nuove costruzioni.",
+    "importo_lav_principali": "15.351.579,99",
+    "importo_lav_totale": "19.074.157,78",
+    "data_consegna_impresa": "14/09/2015",
+    "avanzamento_lavori": "4,72",
+    "ultimazione": "12/09/2017",
+    "sospesa": "",
+    "impresa": "ATI TECNIS SPA-SINTEC SPA",
+    "id": "14397",
+    "regione": "BASILICATA",
+    "strada": "SS658"
+  },
+  {
+    "dal_km": "23,375",
+    "al_km": "27,130",
+    "descrizione": "LAVORI DI RIPARAZIONE DI TRAVI PRECOMPRESSE E INTRADOSSI DI SOLETTE DEI VIADOTTI DRAGONETTI E LAGOPESOLE SULLA S.S. 658 - (6? Stralcio di ``Lavori di M.S. per la riparazione locale dei viadotti lungo la rete compartimentale: Cammarda sul RA05. Gallamara e Cornutello sulla S.S. 92. Brindisi II sulla S.S. 407. Noce I e Calda sulla S.S. 585. sovrappasso al km 15+231 sulla S.S. 598. San Nicola sulla S.S. 653. Dragonetti e Lagopesole sulla S.S. 658. e ulteriori interventi minori``)",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.447.326,98",
+    "importo_lav_totale": "1.473.420,98",
+    "data_consegna_impresa": "03/07/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "21/06/",
+    "sospesa": "",
+    "impresa": "ATI PELUSO COSTRUZ. - PELCAR SRL -G COSTR.COOP.-GIUGLIANO COSTRUZ.METAL",
+    "id": "14379",
+    "regione": "BASILICATA",
+    "strada": "SS658"
+  }
+]

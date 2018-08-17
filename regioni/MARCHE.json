@@ -1,0 +1,63 @@
+{
+  "TOT_LAVORI": "64",
+  "TOT_MANUTENZIONE": "63",
+  "TOT_NUOVE_COSTRUZIONI": "1",
+  "TOT_IMPORTO": "157.685.844,70",
+  "TOT_IMPORTO_M": "75.826.420,43",
+  "TOT_IMPORTO_NC": "81.859.424,27",
+  "REGIONE": "MARCHE",
+  "LIST_ROADS": [
+    [
+      "SS76",
+      "SS 76 DELLA VAL D`ESINO"
+    ],
+    [
+      "RA11",
+      "R.A. 11 RACCORDO AUTOSTRADALE ASCOLI - PORTO D`ASCOLI"
+    ],
+    [
+      "SS16",
+      "SS 16 ADRIATICA"
+    ],
+    [
+      "SS77",
+      "SS 77 DELLA VAL DI CHIENTI"
+    ],
+    [
+      "SS209",
+      "SS 209 VALNERINA"
+    ],
+    [
+      "SS73bis",
+      "SS 73 BIS DI BOCCA TRABARIA"
+    ],
+    [
+      "SS423",
+      "SS 423 URBINATE"
+    ],
+    [
+      "SS4",
+      "SS 4 VIA SALARIA"
+    ],
+    [
+      "SS685",
+      "SS 685 DELLE TRE VALLI UMBRE"
+    ],
+    [
+      "SS210",
+      "SS 210 FERMANA FALERIENSE"
+    ],
+    [
+      "SS81",
+      "SS 81 PICENO APRUTINA"
+    ],
+    [
+      "XS4",
+      "EX 4 EX S.S. N. 4 VIA SALARIA"
+    ],
+    [
+      "XS77",
+      "EX 77 EX S.S. N. 77 DELLA VAL DI CHIENTI"
+    ]
+  ]
+}

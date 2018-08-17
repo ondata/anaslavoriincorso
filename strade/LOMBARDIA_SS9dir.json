@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "4,366",
+    "descrizione": "S.S. 9 DIR - LAVORI DI M.S. PER L`ADEGUAMENTO DELLE BARRIERE DI SICUREZZA DAL KM 0+000 AL KM 4+366. IN TRATTI SALTUARI.  CUP F17H14001990001",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "58.440,57",
+    "importo_lav_totale": "322.999,73",
+    "data_consegna_impresa": "10/11/2015",
+    "avanzamento_lavori": "92,70",
+    "ultimazione": "10/06/2018",
+    "sospesa": "",
+    "impresa": "SIAS S.P.A.",
+    "id": "14249",
+    "regione": "LOMBARDIA",
+    "strada": "SS9dir"
+  }
+]

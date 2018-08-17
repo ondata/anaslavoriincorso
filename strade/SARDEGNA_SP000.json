@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "10,000",
+    "descrizione": "NU 22 - Strada Provinciale ``Osidda-Budduso`` - Ripristino scarpate strada ``Bitti-Budduso``",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.255.348,24",
+    "importo_lav_totale": "1.505.201,88",
+    "data_consegna_impresa": "21/09/2017",
+    "avanzamento_lavori": "67,98",
+    "ultimazione": "17/07/2018",
+    "sospesa": "",
+    "impresa": "CONSORZIO A.R.E.M. LAVORI",
+    "id": "14117",
+    "regione": "SARDEGNA",
+    "strada": "SP000"
+  }
+]

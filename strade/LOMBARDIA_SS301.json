@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "36,900",
+    "descrizione": "S.S. 301- LAVORI DI M.S. PER L`ADEGUAMENTO DELLE BARRIERE DI SICUREZZA DAL KM 0+000 AL KM 36+900 IN TRATTI SALTUARI. Cup F97H14001640001",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "187.940,36",
+    "importo_lav_totale": "338.019,36",
+    "data_consegna_impresa": "04/11/2015",
+    "avanzamento_lavori": "93,96",
+    "ultimazione": "04/10/2018",
+    "sospesa": "",
+    "impresa": "COSTRUZIONI D.O.C. S.R.L.",
+    "id": "14248",
+    "regione": "LOMBARDIA",
+    "strada": "SS301"
+  },
+  {
+    "dal_km": "25,900",
+    "al_km": "36,300",
+    "descrizione": "MIE1A14466 -S.S.301  LAVORI DI M.S. PER IL RAFFORZAMENTO DELLA SOVRASTRUTTURA DAL KM  0+000 AL KM 36+939  IN TRATTI SALTUARI",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "697.609,53",
+    "importo_lav_totale": "717.414,49",
+    "data_consegna_impresa": "16/05/2016",
+    "avanzamento_lavori": "99,40",
+    "ultimazione": "12/09/2016",
+    "sospesa": "",
+    "impresa": "DEON S.P.A.",
+    "id": "14244",
+    "regione": "LOMBARDIA",
+    "strada": "SS301"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "21,734",
+    "descrizione": "S.S. 336- LAVORI DI M.S. PER L`ADEGUAMENTO DELLE BARRIERE DI SICUREZZA DAL KM 0.000 AL KM 21.734 IN TRATTI SALTUARI. Cup F63D14000660001",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "607.904,15",
+    "importo_lav_totale": "1.456.146,83",
+    "data_consegna_impresa": "16/12/2015",
+    "avanzamento_lavori": "99,68",
+    "ultimazione": "26/12/2017",
+    "sospesa": "",
+    "impresa": "VIA VAI ROAD SRL SOCIETA UNIPERSONALE",
+    "id": "14247",
+    "regione": "LOMBARDIA",
+    "strada": "SS336"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "0,000",
+    "al_km": "61,085",
+    "descrizione": "S.S. 372 ``Telesina``  Lavori di M.S. finalizzate al risanamento delle pavimentazioni stradali sull`intero tratto dal km 0+000 al km 61+085 - 3? stralcio dal km 4+000 al km 61+085 (svincoli compresi) ",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.716.281,20",
+    "importo_lav_totale": "1.767.471,19",
+    "data_consegna_impresa": "17/05/2018",
+    "avanzamento_lavori": "73,76",
+    "ultimazione": "20/09/2018",
+    "sospesa": "",
+    "impresa": "ATI RILLO COSTRUZ. - TECNOCOSTRUZIO LA.BIT",
+    "id": "14266",
+    "regione": "CAMPANIA",
+    "strada": "SS372"
+  },
+  {
+    "dal_km": "25,243",
+    "al_km": "28,680",
+    "descrizione": "S.S. 372 \r\nINTERVENTI DI RIPARAZIONE DEGLI IMPALCATI DEI VIADOTTI ``VOLTURNO `` E ``FOSSO LAGNO``\r\n",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.142.105,71",
+    "importo_lav_totale": "1.372.636,89",
+    "data_consegna_impresa": "06/06/2018",
+    "avanzamento_lavori": "13,13",
+    "ultimazione": "02/11/2018",
+    "sospesa": "",
+    "impresa": "SICURBAU S.R.L.",
+    "id": "14276",
+    "regione": "CAMPANIA",
+    "strada": "SS372"
+  }
+]

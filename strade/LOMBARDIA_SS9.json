@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "262,387",
+    "al_km": "276,700",
+    "descrizione": "MIBA16E1A21182- S.S.9 Lavori di M.S. per il ripristino della pavimentazione lungo la s.s. n. 9 per tratti saltuari dal km 262+387 al km 276+700 in Provincia di Lodi e Piacenza",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "339.673,60",
+    "importo_lav_totale": "352.173,60",
+    "data_consegna_impresa": "29/08/2016",
+    "avanzamento_lavori": "99,75",
+    "ultimazione": "26/12/2016",
+    "sospesa": "",
+    "impresa": "BERGAMELLI  S.R.L.",
+    "id": "14222",
+    "regione": "LOMBARDIA",
+    "strada": "SS9"
+  },
+  {
+    "dal_km": "262,387",
+    "al_km": "317,260",
+    "descrizione": "MICP15E1A23389 - S.S.  n.9 Lavori di M.S. per il rifacimento della pavimentazione in tratti saltuari  ",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "1.191.708,80",
+    "importo_lav_totale": "1.248.310,99",
+    "data_consegna_impresa": "17/05/2016",
+    "avanzamento_lavori": "99,79",
+    "ultimazione": "12/11/2016",
+    "sospesa": "",
+    "impresa": "BERGAMELLI  S.R.L.",
+    "id": "14224",
+    "regione": "LOMBARDIA",
+    "strada": "SS9"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "dal_km": "3,020",
+    "al_km": "3,574",
+    "descrizione": "S.S.344 - Lavori di M.S. per il miglioramento dello smaltimento delle acque.pulizia e verniciatura della galleria denom inata ``San Bernardino``  dal km 3+020 al km 3+574 della S.S. 344",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "329.605,13",
+    "importo_lav_totale": "375.770,70",
+    "data_consegna_impresa": "10/12/2015",
+    "avanzamento_lavori": "98,00",
+    "ultimazione": "30/04/2016",
+    "sospesa": "",
+    "impresa": "SUARDI SPA",
+    "id": "14229",
+    "regione": "LOMBARDIA",
+    "strada": "SS344"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "dal_km": "4,200",
+    "al_km": "15,000",
+    "descrizione": "LAVORI DI MANUTENZIONE STRAORDINARIA PER L`ADEGUAMENTO DELLE BARRIERE STRADALI LUNGO LA S.S. N? 27 DAL KM. 4+200 AL KM. 15+000  IN TRATTI SALTUARI",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "159.933,30",
+    "importo_lav_totale": "336.690,17",
+    "data_consegna_impresa": "17/09/2015",
+    "avanzamento_lavori": "99,75",
+    "ultimazione": "20/04/2017",
+    "sospesa": "",
+    "impresa": "S.IM.CO. S.R.L.",
+    "id": "14050",
+    "regione": "AOSTA",
+    "strada": "SS27"
+  },
+  {
+    "dal_km": "20,000",
+    "al_km": "23,000",
+    "descrizione": "Interventi di manutenzione straordinaria per la difesa del corpo stradale dalla caduta massi in tratti saltuari dal km. 20+000 al km. 23+000 della S.S.27 ``del Gran San Bernardo``.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "536.819,95",
+    "importo_lav_totale": "573.175,23",
+    "data_consegna_impresa": "18/07/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "02/02/2019",
+    "sospesa": "",
+    "impresa": "GRANDI LAVORI S.C.A.R.L. CONSORZIO STABILE",
+    "id": "14057",
+    "regione": "AOSTA",
+    "strada": "SS27"
+  }
+]

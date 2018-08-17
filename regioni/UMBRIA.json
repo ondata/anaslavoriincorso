@@ -1,0 +1,35 @@
+{
+  "TOT_LAVORI": "18",
+  "TOT_MANUTENZIONE": "17",
+  "TOT_NUOVE_COSTRUZIONI": "1",
+  "TOT_IMPORTO": "235.839.821,38",
+  "TOT_IMPORTO_M": "30.259.398,68",
+  "TOT_IMPORTO_NC": "205.580.422,70",
+  "REGIONE": "UMBRIA",
+  "LIST_ROADS": [
+    [
+      "VARIE",
+      "STRADE STATALI VARIE"
+    ],
+    [
+      "SS73bis",
+      "SS 73 BIS DI BOCCA TRABARIA"
+    ],
+    [
+      "SS3bis",
+      "SS 3 BIS TIBERINA"
+    ],
+    [
+      "SS685",
+      "SS 685 DELLE TRE VALLI UMBRE"
+    ],
+    [
+      "SS77",
+      "SS 77 DELLA VAL DI CHIENTI"
+    ],
+    [
+      "SS79",
+      "SS 79 TERNANA"
+    ]
+  ]
+}
