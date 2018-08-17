@@ -6,10 +6,11 @@ L'ANAS pubblica sul suo sito la pagina “[Info Cantieri](http://www.stradeanas.
 
 I dati sono consultabili da interfaccia web, ma scegliendo prima la regione e poi le singole strade; estrarne un quadro con i dettagli per tutte le strade gestite è laborioso e richiede tempo. E non è disponibile per il download un file di insieme.
 
-Lo script [`anas.sh`](./anas.sh) fa il download dei dati di circa 180 strade (è il dato al 17 luglio 2018) e ne crea un unico file di insieme in due formati:
+Lo script [`anas.sh`](./anas.sh) fa il download dei dati di circa 180 strade (è il dato al 17 luglio 2018) e ne crea un unico file di insieme in due formati: CSV e JSON. Quelli presenti del repo "non saranno aggiornati".
 
-- JSON > [`stradeAnas.json`](https://rawgit.com/ondata/anaslavoriincorso/master/stradeAnas.json)
-- CSV > [`stradeAnas.csv`](https://rawgit.com/ondata/anaslavoriincorso/master/stradeAnas.csv)
+**Nota bene**: una versione del file CSV viene aggiornata ogni settimana ed è disponibile a questo URL [https://query.data.world/s/slpppilpda5p2ce2xmn7a3wpdpdzsx](https://query.data.world/s/slpppilpda5p2ce2xmn7a3wpdpdzsx).
+
+---
 
 Grazie a [Laura Camellini](https://twitter.com/jeeltcraft) per averci messo una pulce nell'orecchio.
 
