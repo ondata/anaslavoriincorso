@@ -20,7 +20,7 @@ Grazie a [Laura Camellini](https://twitter.com/jeeltcraft) per averci messo una 
 |--------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|------------------------|--------------------|-----------------------|--------------------|-------------|---------|------------------------------------------------------------|-------|---------|--------| 
 | 0,000  | 14,700 | (CUP-F77H18000410001) RA 12 Chieti- Pescara dal km. 0+000 al km. 14+800 Lavori di ripristino di funzionalita e di completamento degli impianti di illuminazione lungo l?asta principale e gli svincoli. 1? Lotto | Lavori di manutenzione straordinaria. | 438.733,76             | 506.388,76         | 09/05/2018            | 4,26               | 21/09/2018  |         | ATI STACCHIO IMPIANTI SRL-IGE IMPIA SRL-TATANGELO CIRO SRL | 14076 | ABRUZZO | RA12   | 
 | 0,000  | 14,700 | (CUP-F77H18000510001) RA 12 Chieti- Pescara dal km. 0+000 al km. 14+800 Lavori di ripristino di funzionalita e di completamento degli impianti di illuminazione lungo l?asta principale e gli svincoli. 2? Lotto | Lavori di manutenzione straordinaria. | 436.022,44             | 493.727,44         | 31/05/2018            | 0,00               | 28/10/2018  |         | ATI STACCHIO IMPIANTI SRL-IGE IMPIA SRL-TATANGELO CIRO SRL | 14077 | ABRUZZO | RA12   | 
-| 4,300  | 69,514 | SS.N.16 ADRIATICA  LAVORI DI RISANAMENTO PAVIMENTAZIONI E DISTESE GENERALI LUNGO LA SS . 16 DAL KM 4+300 AL KM. 69+514 -  STRALCIO II                                                                            | Lavori di manutenzione straordinaria. | 535.975,62             | 576.350,62         | 19/04/2018            | 95,46              | 10/07/2018  |         | ATI E.MA.PRI.CE. SPA -TRENTIN ASFAL                        | 14496 | ABRUZZO | SS16   | 
+
 
 ## Anteprima JSON
 
@@ -57,22 +57,6 @@ Grazie a [Laura Camellini](https://twitter.com/jeeltcraft) per averci messo una 
     "id": "14077",
     "regione": "ABRUZZO",
     "strada": "RA12"
-  },
-  {
-    "dal_km": "4,300",
-    "al_km": "69,514",
-    "descrizione": "SS.N.16 ADRIATICA\r\nLAVORI DI RISANAMENTO PAVIMENTAZIONI E DISTESE GENERALI LUNGO LA SS . 16 DAL KM 4+300 AL KM. 69+514 -  STRALCIO II ",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "535.975,62",
-    "importo_lav_totale": "576.350,62",
-    "data_consegna_impresa": "19/04/2018",
-    "avanzamento_lavori": "95,46",
-    "ultimazione": "10/07/2018",
-    "sospesa": "",
-    "impresa": "ATI E.MA.PRI.CE. SPA -TRENTIN ASFAL",
-    "id": "14496",
-    "regione": "ABRUZZO",
-    "strada": "SS16"
   }
 ]
 ```
