@@ -8,7 +8,7 @@
 
 set -x
 
-cartella=$(pwd)
+cartella="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # creo due cartelle "contenitore"
 mkdir -p "$cartella"/regioni
@@ -32,6 +32,10 @@ done
 jq -s add "$cartella"/strade/*.json >"$cartella"/stradeAnas.json
 # creo un unico file csv di output
 <"$cartella"/stradeAnas.json in2csv -I -f json >"$cartella"/stradeAnas.csv
+
+# faccio l'upload su data.world
+source "$cartella"/config.txt
+curl "https://api.data.world/v0/uploads/ondata/anas-lavori-in-corso/files" -F file=@"$cartella"/stradeAnas.csv -H "Authorization: Bearer ${DW_API_TOKEN}"
 
 <<comment1
 comment1
