@@ -11,6 +11,8 @@ Lo script [`anas.sh`](./anas.sh) fa il download dei dati di circa 180 strade (è
 - JSON > [`stradeAnas.json`](https://rawgit.com/ondata/anaslavoriincorso/master/stradeAnas.json)
 - CSV > [`stradeAnas.csv`](https://rawgit.com/ondata/anaslavoriincorso/master/stradeAnas.csv)
 
+Grazie a [Laura Camellini](https://twitter.com/jeeltcraft) per averci messo una pulce nell'orecchio.
+
 ## Anteprima CSV
 
 | dal_km | al_km  | descrizione                                                                                                                                                                                                      | tipo_lavoro                           | importo_lav_principali | importo_lav_totale | data_consegna_impresa | avanzamento_lavori | ultimazione | sospesa | impresa                                                    | id    | regione | strada | 
