@@ -18,7 +18,7 @@ Nei JSON di origine i valori numerici sono espressi in questo modo `"importo_lav
 
 ## Record con data di ultimazione incompleta
 
-Ci sono dei record in cui la data è espressa come `07/02/`, manca l'anno. Nello script è stato aggiunto un comando che estrae gli elementi con questa problematicità nel file [`problemi/stradeAnasNoAnnoUltimazione.csv`](./problemi/stradeAnasNoAnnoUltimazione.csv) (vedi [#4](/ondata/anaslavoriincorso/issues/4)).
+Ci sono dei record in cui la data è espressa come `07/02/`, manca l'anno. Nello script è stato aggiunto un comando che estrae gli elementi con questa problematicità nel file [`problemi/stradeAnasNoAnnoUltimazione.csv`](./problemi/stradeAnasNoAnnoUltimazione.csv) (vedi [#4](ondata/anaslavoriincorso/issues/4)).
 
 ---
 
