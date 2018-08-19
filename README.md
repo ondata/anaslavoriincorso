@@ -14,11 +14,11 @@ Lo script [`anas.sh`](./anas.sh) fa il download dei dati di circa 180 strade (è
 
 ## Dati numerici espressi come stringhe
 
-Nei JSON di origine i valori numerici sono espressi in questo modo `"importo_lav_principali": "438.733,76"`. Nello script è stato inserito un filtro che nel file JSON di insieme viene modificato in `"importo_lav_principali": 438733.76` (e nel CSV di insieme da `438.733,76` a `438733.76`) (vedi [#3](/ondata/anaslavoriincorso/issues/3)).
+Nei JSON di origine i valori numerici sono espressi in questo modo `"importo_lav_principali": "438.733,76"`. Nello script è stato inserito un filtro che nel file JSON di insieme viene modificato in `"importo_lav_principali": 438733.76` (e nel CSV di insieme da `438.733,76` a `438733.76`) (vedi [#3](https://github.com/ondata/anaslavoriincorso/issues/3)).
 
 ## Record con data di ultimazione incompleta
 
-Ci sono dei record in cui la data è espressa come `07/02/`, manca l'anno. Nello script è stato aggiunto un comando che estrae gli elementi con questa problematicità nel file [`problemi/stradeAnasNoAnnoUltimazione.csv`](./problemi/stradeAnasNoAnnoUltimazione.csv) (vedi [#4](ondata/anaslavoriincorso/issues/4)).
+Ci sono dei record in cui la data è espressa come `07/02/`, manca l'anno. Nello script è stato aggiunto un comando che estrae gli elementi con questa problematicità nel file [`problemi/stradeAnasNoAnnoUltimazione.csv`](./problemi/stradeAnasNoAnnoUltimazione.csv) (vedi [#4](https://github.com/ondata/anaslavoriincorso/issues/4)).
 
 ---
 
