@@ -13,9 +13,11 @@ cartella="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 # creo due cartelle "contenitore"
 mkdir -p "$cartella"/regioni
 mkdir -p "$cartella"/strade
+mkdir -p "$cartella"/problemi
 
 rm -rf "$cartella"/regioni/*
 rm -rf "$cartella"/strade/*
+rm -rf "$cartella"/problemi/*
 
 # scarico i file di riepilogo delle regioni
 curl -sL "http://www.stradeanas.it/sites/all/modules/anas/js/anas.app.lavori_in_corso.js" | grep -Eo '("[a-zA-Z]+":{"DB":")([a-zA-Z]+)"' | sed -r 's/("[a-zA-Z]+":\{"DB":")([a-zA-Z]+)"/\2/g' | xargs -I{} sh -c 'curl -sL http://www.stradeanas.it/it/anas/app/lavori_in_corso/lavori_regione?regione="$1" | jq . >'"$cartella"'/regioni/"$1".json' -- {}
@@ -37,6 +39,10 @@ jq '((.[].importo_lav_principali| select(.) ) |= gsub("\\.";"") ) | ((.[].import
 
 # creo un unico file csv di output
 <"$cartella"/stradeAnas.json in2csv -I -f json >"$cartella"/stradeAnas.csv
+
+# dati problematici
+## i record in cui la data di ultimazione è espressa in questo modo `07/02/`, ovvero manca l'anno
+csvgrep -c "ultimazione" -r "^../../$" "$cartella"/stradeAnas.csv >"$cartella"/problemi/stradeAnasNoAnnoUltimazione.csv
 
 # faccio l'upload su data.world
 source "$cartella"/config.txt
