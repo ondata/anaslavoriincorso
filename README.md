@@ -25,8 +25,10 @@ C'è da chiedere di associare a questi dati una licenza che ne consenta il riuso
 
 I dati sul posizionamento dei lavori, sono espressi in termini di kilometraggio dei punti di inizio e fine lavori lungo la "strada" interessata. Si sa ad esempio che un lavoro con un certo `id` interessa la SS113, dal km 3.2 al km 8.
 
-ANAS **non rende disponibile per il download la rete stradale** (meglio il grafo) su cui sono basate queste annotazioni geografiche. Quindi l'utente può avere **solo un quadro generico e a spanne sul "dove"**.<br>
+ANAS in queste pagine **non rende disponibile per il download la rete stradale** (meglio il grafo) su cui sono basate queste annotazioni geografiche. Quindi l'utente può avere **solo un quadro generico e a spanne sul "dove"**.<br>
 Con la rete stradale a disposizione l'utente potrebbe applicare le procedure di [`linear referencing`](https://www.wikiwand.com/en/Linear_referencing) e trasformare queste annotazione kilometriche in geometrie e quindi visualizzarle su mappa.
+
+Gianni Vitrano (grazie) ci ha [segnalato](https://github.com/ondata/anaslavoriincorso/issues/7) che sul sito del ministero dei trasporti esiste il dataset opendata del grafo del 2015 [http://dati.mit.gov.it/catalog/dataset/grafo-stradale-anas](http://dati.mit.gov.it/catalog/dataset/grafo-stradale-anas). Si potrebbe usare per fare dei test; potrebbe essere utile allo scopo.
 
 ## Dati numerici espressi come stringhe
 
