@@ -1,0 +1,101 @@
+{
+  "profile": "tabular-data-package",
+  "name": "ANAS - lavori in corso",
+  "resources": [
+    {
+      "profile": "tabular-data-resource",
+      "name": "stradeAnas",
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "path": "stradeAnas.csv",
+      "schema": {
+        "fields": [
+          {
+            "type": "integer",
+            "name": "dal_km",
+            "format": "default"
+          },
+          {
+            "type": "integer",
+            "name": "al_km",
+            "format": "default"
+          },
+          {
+            "type": "string",
+            "name": "descrizione",
+            "format": "default"
+          },
+          {
+            "type": "string",
+            "name": "tipo_lavoro",
+            "format": "default"
+          },
+          {
+            "type": "number",
+            "name": "importo_lav_principali",
+            "format": "default"
+          },
+          {
+            "type": "number",
+            "name": "importo_lav_totale",
+            "format": "default"
+          },
+          {
+            "type": "string",
+            "name": "data_consegna_impresa",
+            "format": "default"
+          },
+          {
+            "type": "number",
+            "name": "avanzamento_lavori",
+            "format": "default"
+          },
+          {
+            "type": "string",
+            "name": "ultimazione",
+            "format": "default"
+          },
+          {
+            "type": "string",
+            "name": "sospesa",
+            "format": "default"
+          },
+          {
+            "type": "string",
+            "name": "impresa",
+            "format": "default"
+          },
+          {
+            "type": "integer",
+            "name": "id",
+            "format": "default"
+          },
+          {
+            "type": "string",
+            "name": "regione",
+            "format": "default"
+          },
+          {
+            "type": "string",
+            "name": "strada",
+            "format": "default"
+          }
+        ],
+        "missingValues": [
+          null
+        ]
+      }
+    },
+    {
+      "profile": "data-resource",
+      "name": "stradeAnas",
+      "format": "json",
+      "encoding": "utf-8",
+      "mediatype": "text/json",
+      "path": "stradeAnas.json",
+      "schema": {}
+    }
+  ],
+  "schema": "tabular-data-package"
+}
