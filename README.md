@@ -12,6 +12,13 @@ Lo script [`anas.sh`](./anas.sh) fa il download dei dati di circa 180 strade (è
 
 # Problematicità
 
+## Dati sul posizionamento dei cantieri non utilizzabili
+
+I dati sul posizionamento dei lavori, sono espressi in termini di kilometraggio dei punti di inizio e fine lavori lungo la "strada" interessata. Si sa ad esempio che un lavoro con un certo `id` interessa la SS113, dal km 3.2 al km 8.
+
+ANAS **non rende disponibile per il download la rete stradale** (meglio il grafo) su cui sono basate queste annotazioni geografiche. Quindi l'utente può avere **solo un quadro generico e a spanne sul "dove"**.<br>
+Con la rete stradale a disposizione l'utente potrebbe applicare le procedure di [`linear referencing`](https://www.wikiwand.com/en/Linear_referencing) e trasformare queste annotazione kilometriche in geometrie e quindi visualizzarle su mappa.
+
 ## Dati numerici espressi come stringhe
 
 Nei JSON di origine i valori numerici sono espressi in questo modo `"importo_lav_principali": "438.733,76"`. Nello script è stato inserito un filtro che nel file JSON di insieme viene modificato in `"importo_lav_principali": 438733.76` (e nel CSV di insieme da `438.733,76` a `438733.76`) (vedi [#3](https://github.com/ondata/anaslavoriincorso/issues/3)).
@@ -27,7 +34,7 @@ Grazie a [Laura Camellini](https://twitter.com/jeeltcraft) per averci messo una 
 
 # Anteprima dati
 
-## Anteprima CSV
+## Anteprima CSV d'esempio
 
 | dal_km | al_km  | descrizione                                                                                                                                                                                                      | tipo_lavoro                           | importo_lav_principali | importo_lav_totale | data_consegna_impresa | avanzamento_lavori | ultimazione | sospesa | impresa                                                    | id    | regione | strada | 
 |--------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|------------------------|--------------------|-----------------------|--------------------|-------------|---------|------------------------------------------------------------|-------|---------|--------| 
@@ -35,7 +42,7 @@ Grazie a [Laura Camellini](https://twitter.com/jeeltcraft) per averci messo una 
 | 0  | 14.7 | (CUP-F77H18000510001) RA 12 Chieti- Pescara dal km. 0+000 al km. 14+800 Lavori di ripristino di funzionalita e di completamento degli impianti di illuminazione lungo l?asta principale e gli svincoli. 2? Lotto | Lavori di manutenzione straordinaria. | 436022.44             | 493727.44         | 31/05/2018            | 0.00               | 28/10/2018  |         | ATI STACCHIO IMPIANTI SRL-IGE IMPIA SRL-TATANGELO CIRO SRL | 14077 | ABRUZZO | RA12   | 
 
 
-## Anteprima JSON
+## Anteprima JSON d'esempio
 
 ```json
 [
