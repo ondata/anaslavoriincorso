@@ -1,3 +1,5 @@
+[![goodtables.io](https://goodtables.io/badge/github/ondata/anaslavoriincorso.svg)](https://goodtables.io/github/ondata/anaslavoriincorso)
+
 # ANAS - Lavori in corso
 
 L'ANAS pubblica sul suo sito la pagina “[Info Cantieri](http://www.stradeanas.it/it/le-strade/lavori-corso)” per conoscere i lavori in corso per la costruzione di nuove opere e per la manutenzione straordinaria.
