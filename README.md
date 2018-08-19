@@ -14,6 +14,11 @@ Lo script [`anas.sh`](./anas.sh) fa il download dei dati di circa 180 strade (è
 
 # Problematicità
 
+## Licenza non definita, quindi dati non utilizzabili
+
+ANAS è una S.p.A. quindi - salvo non specificato diversamente - tutti i diritti sui dati che pubblica sono riservati.<br>
+C'è da chiedere di associare a questi dati una licenza che ne consenta il riuso.
+
 ## Dati sul posizionamento dei cantieri non utilizzabili
 
 I dati sul posizionamento dei lavori, sono espressi in termini di kilometraggio dei punti di inizio e fine lavori lungo la "strada" interessata. Si sa ad esempio che un lavoro con un certo `id` interessa la SS113, dal km 3.2 al km 8.
