@@ -31,8 +31,8 @@ Grazie a [Laura Camellini](https://twitter.com/jeeltcraft) per averci messo una 
 
 | dal_km | al_km  | descrizione                                                                                                                                                                                                      | tipo_lavoro                           | importo_lav_principali | importo_lav_totale | data_consegna_impresa | avanzamento_lavori | ultimazione | sospesa | impresa                                                    | id    | regione | strada | 
 |--------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|------------------------|--------------------|-----------------------|--------------------|-------------|---------|------------------------------------------------------------|-------|---------|--------| 
-| 0,000  | 14,700 | (CUP-F77H18000410001) RA 12 Chieti- Pescara dal km. 0+000 al km. 14+800 Lavori di ripristino di funzionalita e di completamento degli impianti di illuminazione lungo l?asta principale e gli svincoli. 1? Lotto | Lavori di manutenzione straordinaria. | 438.733,76             | 506.388,76         | 09/05/2018            | 4,26               | 21/09/2018  |         | ATI STACCHIO IMPIANTI SRL-IGE IMPIA SRL-TATANGELO CIRO SRL | 14076 | ABRUZZO | RA12   | 
-| 0,000  | 14,700 | (CUP-F77H18000510001) RA 12 Chieti- Pescara dal km. 0+000 al km. 14+800 Lavori di ripristino di funzionalita e di completamento degli impianti di illuminazione lungo l?asta principale e gli svincoli. 2? Lotto | Lavori di manutenzione straordinaria. | 436.022,44             | 493.727,44         | 31/05/2018            | 0,00               | 28/10/2018  |         | ATI STACCHIO IMPIANTI SRL-IGE IMPIA SRL-TATANGELO CIRO SRL | 14077 | ABRUZZO | RA12   | 
+| 0  | 14.7 | (CUP-F77H18000410001) RA 12 Chieti- Pescara dal km. 0+000 al km. 14+800 Lavori di ripristino di funzionalita e di completamento degli impianti di illuminazione lungo l?asta principale e gli svincoli. 1? Lotto | Lavori di manutenzione straordinaria. | 438733.76             | 506388.76         | 09/05/2018            | 4.26               | 21/09/2018  |         | ATI STACCHIO IMPIANTI SRL-IGE IMPIA SRL-TATANGELO CIRO SRL | 14076 | ABRUZZO | RA12   | 
+| 0  | 14.7 | (CUP-F77H18000510001) RA 12 Chieti- Pescara dal km. 0+000 al km. 14+800 Lavori di ripristino di funzionalita e di completamento degli impianti di illuminazione lungo l?asta principale e gli svincoli. 2? Lotto | Lavori di manutenzione straordinaria. | 436022.44             | 493727.44         | 31/05/2018            | 0.00               | 28/10/2018  |         | ATI STACCHIO IMPIANTI SRL-IGE IMPIA SRL-TATANGELO CIRO SRL | 14077 | ABRUZZO | RA12   | 
 
 
 ## Anteprima JSON
@@ -40,14 +40,14 @@ Grazie a [Laura Camellini](https://twitter.com/jeeltcraft) per averci messo una 
 ```json
 [
   {
-    "dal_km": "0,000",
-    "al_km": "14,700",
+    "dal_km": 0,
+    "al_km": 14.7,
     "descrizione": "(CUP-F77H18000410001) RA 12 Chieti- Pescara dal km. 0+000 al km. 14+800 Lavori di ripristino di funzionalita e di completamento degli impianti di illuminazione lungo l?asta principale e gli svincoli. 1? Lotto",
     "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "438.733,76",
-    "importo_lav_totale": "506.388,76",
+    "importo_lav_principali": 438733.76,
+    "importo_lav_totale": 506388.76,
     "data_consegna_impresa": "09/05/2018",
-    "avanzamento_lavori": "4,26",
+    "avanzamento_lavori": 4.26,
     "ultimazione": "21/09/2018",
     "sospesa": "",
     "impresa": "ATI STACCHIO IMPIANTI SRL-IGE IMPIA SRL-TATANGELO CIRO SRL",
@@ -56,14 +56,14 @@ Grazie a [Laura Camellini](https://twitter.com/jeeltcraft) per averci messo una 
     "strada": "RA12"
   },
   {
-    "dal_km": "0,000",
-    "al_km": "14,700",
+    "dal_km": 0,
+    "al_km": 14.7,
     "descrizione": "(CUP-F77H18000510001) RA 12 Chieti- Pescara dal km. 0+000 al km. 14+800 Lavori di ripristino di funzionalita e di completamento degli impianti di illuminazione lungo l?asta principale e gli svincoli. 2? Lotto",
     "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "436.022,44",
-    "importo_lav_totale": "493.727,44",
+    "importo_lav_principali": 436022.44,
+    "importo_lav_totale": 493727.44,
     "data_consegna_impresa": "31/05/2018",
-    "avanzamento_lavori": "0,00",
+    "avanzamento_lavori": 0,
     "ultimazione": "28/10/2018",
     "sospesa": "",
     "impresa": "ATI STACCHIO IMPIANTI SRL-IGE IMPIA SRL-TATANGELO CIRO SRL",
