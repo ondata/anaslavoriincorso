@@ -8,7 +8,7 @@
 
 set -x
 
-cartella="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+cartella="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 # creo due cartelle "contenitore"
 mkdir -p "$cartella"/regioni
@@ -30,6 +30,11 @@ done
 
 # creo un unico file json di output
 jq -s add "$cartella"/strade/*.json >"$cartella"/stradeAnas.json
+
+# trasfomo in valori numerici, gli item che sono numeri ma valorizzati come stringhe
+# ad esempio da `438.733,76` a `438733.76`
+jq '((.[].importo_lav_principali| select(.) ) |= gsub("\\.";"") ) | ((.[].importo_lav_principali| select(.) ) |= gsub(",";".") ) | ((.[].importo_lav_principali| select(.) ) |= tonumber ) |  ((.[].importo_lav_totale| select(.) ) |= gsub("\\.";"") ) | ((.[].importo_lav_totale| select(.) ) |= gsub(",";".") ) | ((.[].importo_lav_totale| select(.) ) |= tonumber ) |  ((.[].dal_km| select(.) ) |= gsub("\\.";"") ) | ((.[].dal_km| select(.) ) |= gsub(",";".") ) | ((.[].dal_km| select(.) ) |= tonumber ) |  ((.[].al_km| select(.) ) |= gsub("\\.";"") ) | ((.[].al_km| select(.) ) |= gsub(",";".") ) | ((.[].al_km| select(.) ) |= tonumber ) |  ((.[].avanzamento_lavori| select(.) ) |= gsub(",";".") ) | ((.[].avanzamento_lavori| select(.) ) |= tonumber )' "$cartella"/stradeAnas.json >"$cartella"/stradeAnas_tmp.json && mv "$cartella"/stradeAnas_tmp.json "$cartella"/stradeAnas.json
+
 # creo un unico file csv di output
 <"$cartella"/stradeAnas.json in2csv -I -f json >"$cartella"/stradeAnas.csv
 
@@ -39,3 +44,6 @@ curl "https://api.data.world/v0/uploads/ondata/anas-lavori-in-corso/files" -F fi
 
 <<comment1
 comment1
+
+<<comment2
+comment2
