@@ -12,12 +12,12 @@
             "schema": {
                 "fields": [
                     {
-                        "type": "integer", 
+                        "type": "number", 
                         "name": "dal_km", 
                         "format": "default"
                     }, 
                     {
-                        "type": "integer", 
+                        "type": "number", 
                         "name": "al_km", 
                         "format": "default"
                     }, 
