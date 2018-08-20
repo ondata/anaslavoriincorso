@@ -5,6 +5,7 @@
 - [ANAS - Lavori in corso](#anas---lavori-in-corso)
   - [Script per il download dei dati anagrafici](#script-per-il-download-dei-dati-anagrafici)
   - [Jupyter Notebook per la trasformazione in geometrie delle note chilometriche](#jupyter-notebook-per-la-trasformazione-in-geometrie-delle-note-chilometriche)
+  - [Dashboard d'esempio](#dashboard-desempio)
 - [Problematicità](#problematicit%C3%A0)
   - [Licenza non definita, quindi dati non utilizzabili](#licenza-non-definita-quindi-dati-non-utilizzabili)
   - [Dati sul posizionamento dei cantieri](#dati-sul-posizionamento-dei-cantieri)
@@ -34,11 +35,13 @@ Lo script [`anas.sh`](./anas.sh) fa il download dei dati di circa 180 strade (è
 
 **Nota bene**: una versione del file CSV (encoding `utf-8`, separatore `,`) viene aggiornata ogni settimana ed è disponibile a questo URL [https://query.data.world/s/slpppilpda5p2ce2xmn7a3wpdpdzsx](https://query.data.world/s/slpppilpda5p2ce2xmn7a3wpdpdzsx).
 
-[![](./risorse/charts.png)](https://datastudio.google.com/embed/reporting/17n4Casew-9cMbFE5PD5aqZg0jnsephjA/page/qy0W)
-
 ## Jupyter Notebook per la trasformazione in geometrie delle note chilometriche
 
 Il _Jupyter Notebook_ [anas.ipynb](./linearrefencing/anas.ipynb) trasforma le annotazioni chilometriche in archi e li salva in formato GeoPackage e GeoJSON.
+
+## Dashboard d'esempio
+
+[![](./risorse/charts.png)](https://datastudio.google.com/embed/reporting/17n4Casew-9cMbFE5PD5aqZg0jnsephjA/page/qy0W)
 
 # Problematicità
 
@@ -58,7 +61,8 @@ Le problematicità correlate sono le seguenti:
 
 - il grafo è aggiornato al 2015;
 - non è detto che sia lo stesso usato da ANAS per creare l'anagrafica dei lavori in corso pubblicato sul loro sito;
-- diverse centinaia di lavori sono associati alla tratta stradale denominata "VARIE". Questi non sono trasformabili in modo automatico in geometrie.
+- diverse centinaia di lavori sono associati alla tratta stradale denominata "VARIE". Questi non sono trasformabili in modo automatico in geometrie;
+- molti nomi di strada sono duplicati, e quindi non per tutte le anagrafiche lavori è possibile estrarre gli archi geometrici correlati.
 
 ## Dati numerici espressi come stringhe
 
