@@ -1,6 +1,8 @@
 *lock*
 config.txt
 linearrefencing/shpANAS/*
+linearrefencing/output/*
 */.ipynb_checkpoints/*
 anas-sicilia.ipynb
-linearrefencing/output/*
+*.gpkg
+*.7z
