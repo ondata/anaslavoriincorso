@@ -4,7 +4,7 @@
 
 - [ANAS - Lavori in corso](#anas---lavori-in-corso)
   - [Script per il download dei dati anagrafici](#script-per-il-download-dei-dati-anagrafici)
-  - [_Jupyter Notebook per la trasformazione in geometrie delle note chilometriche](#jupyter-notebook-per-la-trasformazione-in-geometrie-delle-note-chilometriche)
+  - [Jupyter Notebook per la trasformazione in geometrie delle note chilometriche](#jupyter-notebook-per-la-trasformazione-in-geometrie-delle-note-chilometriche)
 - [Problematicità](#problematicit%C3%A0)
   - [Licenza non definita, quindi dati non utilizzabili](#licenza-non-definita-quindi-dati-non-utilizzabili)
   - [Dati sul posizionamento dei cantieri](#dati-sul-posizionamento-dei-cantieri)
@@ -36,7 +36,7 @@ Lo script [`anas.sh`](./anas.sh) fa il download dei dati di circa 180 strade (è
 
 [![](./risorse/charts.png)](https://datastudio.google.com/embed/reporting/17n4Casew-9cMbFE5PD5aqZg0jnsephjA/page/qy0W)
 
-## _Jupyter Notebook per la trasformazione in geometrie delle note chilometriche
+## Jupyter Notebook per la trasformazione in geometrie delle note chilometriche
 
 Il _Jupyter Notebook_ [anas.ipynb](./linearrefencing/anas.ipynb) trasforma le annotazioni kilometriche in archi e li salva in formato GeoPackage e GeoJSON.
 
