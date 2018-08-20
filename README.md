@@ -121,7 +121,7 @@ Sitografia
 
 - [PostGIS](https://postgis.net/docs/reference.html#Linear_Referencing)
 - [GRASS GIS](https://grass.osgeo.org/grass74/manuals/lrs.html)
-- [Spatialie](https://www.gaia-gis.it/gaia-sins/spatialite-sql-4.3.0.html#p14b) (cercare `LocateBetweenMeasures`)
+- [Spatialite](https://www.gaia-gis.it/gaia-sins/spatialite-sql-4.3.0.html#p14b) (cercare `LocateBetweenMeasures`)
 - [una introduzione di Boundless](http://workshops.boundlessgeo.com/postgis-intro/linear_referencing.html)
 
 ## Import dataset ANAS
