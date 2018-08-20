@@ -1,2 +1,6 @@
 *lock*
 config.txt
+*.ipy_*che*
+linearrefencing/shpANAS/*
+linearrefencing/.ipynb_checkpoints/*
+*.gpkg
