@@ -14,6 +14,34 @@ Lo script [`anas.sh`](./anas.sh) fa il download dei dati di circa 180 strade (è
 
 [![](./risorse/charts.png)](https://datastudio.google.com/embed/reporting/17n4Casew-9cMbFE5PD5aqZg0jnsephjA/page/qy0W)
 
+# Linear Referncing
+
+- https://postgis.net/docs/reference.html#Linear_Referencing
+- https://grass.osgeo.org/grass74/manuals/lrs.html
+- https://www.gaia-gis.it/gaia-sins/spatialite-sql-4.3.0.html#p14b
+
+## Import dataset ANAS
+
+    ogr2ogr -overwrite -lco LAUNDER=No -f PostgreSQL PG:"dbname=test_andy host=localhost port=5432 user=postgres password=password" "grafo_Anas.shp" -nln "anaszm" -nlt "MULTILINESTRINGZM"
+
+## Estrazione tratte
+
+    select ST_CollectionExtract(ST_LocateBetween(wkb_geometry,18000,50000),2) from anaszm where "COD_STRA" like 'SS113'
+
+```sql
+INSERT INTO "113"
+select CAST ('14321' AS INTEGER) AS ID,ST_CollectionExtract(ST_LocateBetween(wkb_geometry,313000,314000),2) 
+AS wkb_geometry
+from anaszm where "COD_STRA" like 'SS113'
+```
+
+CREATE table "stradelavoriincorso" AS
+SELECT * 
+from anaszm where "COD_STRA" IN ('A','A01','A19','A29','A29dir','A3','A90','ISV3','NSA411','RA03','RA04','RA05','RA08','RA09','RA10','RA11','RA12','RA15','SP000','SP38-OT','SP73-NU','SS1','SS101','SS106','SS107','SS109bis-dir','SS113','SS114','SS115','SS118','SS12','SS120','SS121','SS122ter','SS124','SS125','SS127','SS13','SS131','SS14','SS145','SS16','SS17','SS172','SS176','SS17var-a','SS18','SS182','SS187','SS188','SS188dir-c','SS192','SS194','SS199','SS20','SS209','SS210','SS223','SS233','SS26','SS268','SS26dir','SS27','SS28','SS280','SS286','SS301','SS303','SS309','SS33','SS336','SS337','SS34','SS340dir','SS344','SS36','SS372','SS38','SS385','SS389','SS39','SS394','SS3bis','SS4','SS407','SS42','SS423','SS434','SS45','SS47','SS481','SS5','SS50bis-var','SS51','SS514','SS52','SS526','SS52bis','SS53','SS54','SS557','SS575','SS585','SS585dir','SS6','SS624','SS626dir','SS64','SS640','SS645','SS647','SS650','SS652','SS653','SS655','SS658','SS67','SS675','SS685','SS688','SS690','SS699','SS7','SS703','SS715','SS73bis','SS76','SS77','SS79','SS7quater','SS80','SS80racc','SS81','SS85','SS87','SS9','SS90bis','SS95','SS96','SS9dir','VARIE','XS4','XS77')
+
+CREATE table "stradelavoriincorsosicilia" AS
+SELECT * 
+from anaszm where "COD_STRA" IN ('A01','A19','A29','A29dir','ISV3','RA15','SS113','SS114','SS115','SS118','SS120','SS121','SS122ter','SS124','SS187','SS188','SS188dir-c','SS192','SS194','SS286','SS385','SS514','SS557','SS575','SS624','SS626dir','SS640')
 
 # Problematicità
 
