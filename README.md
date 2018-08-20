@@ -1,5 +1,22 @@
 [![goodtables.io](https://goodtables.io/badge/github/ondata/anaslavoriincorso.svg)](https://goodtables.io/github/ondata/anaslavoriincorso)
 
+<!-- TOC -->
+
+- [ANAS - Lavori in corso](#anas---lavori-in-corso)
+- [Problematicità](#problematicit%C3%A0)
+  - [Licenza non definita, quindi dati non utilizzabili](#licenza-non-definita-quindi-dati-non-utilizzabili)
+  - [Dati sul posizionamento dei cantieri](#dati-sul-posizionamento-dei-cantieri)
+  - [Dati numerici espressi come stringhe](#dati-numerici-espressi-come-stringhe)
+  - [Record con data di ultimazione incompleta](#record-con-data-di-ultimazione-incompleta)
+- [Anteprima dati](#anteprima-dati)
+  - [Anteprima CSV d'esempio](#anteprima-csv-desempio)
+  - [Anteprima JSON d'esempio](#anteprima-json-desempio)
+- [Linear Referencing](#linear-referencing)
+  - [Import dataset ANAS](#import-dataset-anas)
+  - [Estrazione tratte](#estrazione-tratte)
+
+<!-- /TOC -->
+
 # ANAS - Lavori in corso
 
 L'ANAS pubblica sul suo sito la pagina “[Info Cantieri](http://www.stradeanas.it/it/le-strade/lavori-corso)” per conoscere i lavori in corso per la costruzione di nuove opere e per la manutenzione straordinaria.
@@ -14,20 +31,6 @@ Lo script [`anas.sh`](./anas.sh) fa il download dei dati di circa 180 strade (è
 
 [![](./risorse/charts.png)](https://datastudio.google.com/embed/reporting/17n4Casew-9cMbFE5PD5aqZg0jnsephjA/page/qy0W)
 
-# Linear Referencing
-
-- https://postgis.net/docs/reference.html#Linear_Referencing
-- https://grass.osgeo.org/grass74/manuals/lrs.html
-- https://www.gaia-gis.it/gaia-sins/spatialite-sql-4.3.0.html#p14b
-
-## Import dataset ANAS
-
-    ogr2ogr -overwrite -lco LAUNDER=No -f PostgreSQL PG:"dbname=test_andy host=localhost port=5432 user=postgres password=password" "grafo_Anas.shp" -nln "anaszm" -nlt "MULTILINESTRINGZM"
-
-## Estrazione tratte
-
-    select ST_CollectionExtract(ST_LocateBetween(wkb_geometry,18000,50000),2) from anaszm where "COD_STRA" like 'SS113'
-
 # Problematicità
 
 ## Licenza non definita, quindi dati non utilizzabili
@@ -35,14 +38,17 @@ Lo script [`anas.sh`](./anas.sh) fa il download dei dati di circa 180 strade (è
 ANAS è una S.p.A. quindi - salvo non specificato diversamente - **tutti i diritti sui dati che pubblica sono riservati**.<br>
 C'è da chiedere di associare a questi dati una licenza che ne consenta il riuso.
 
-## Dati sul posizionamento dei cantieri non utilizzabili
+## Dati sul posizionamento dei cantieri
 
 I dati sul posizionamento dei lavori, sono espressi in termini di kilometraggio dei punti di inizio e fine lavori lungo la "strada" interessata. Si sa ad esempio che un lavoro con un certo `id` interessa la SS113, dal km 3.2 al km 8.
 
-ANAS in queste pagine **non rende disponibile per il download la rete stradale** (meglio il grafo) su cui sono basate queste annotazioni geografiche. Quindi l'utente può avere **solo un quadro generico e a spanne sul "dove"**.<br>
-Con la rete stradale a disposizione l'utente potrebbe applicare le procedure di [`linear referencing`](https://www.wikiwand.com/en/Linear_referencing) e trasformare queste annotazione kilometriche in geometrie e quindi visualizzarle su mappa.
+ANAS in queste pagine **non rende disponibile per il download la rete stradale** (meglio dire il "grafo") su cui sono basate queste annotazioni geografiche. Quindi l'utente può avere **solo un quadro generico e a spanne sul "dove"**.<br>
+Per fortuna Gianni Vitrano (grazie) ci ha [segnalato](https://github.com/ondata/anaslavoriincorso/issues/7) che sul sito del Ministero dei Trasporti esiste il dataset opendata del grafo stradale del 2015 [http://dati.mit.gov.it/catalog/dataset/grafo-stradale-anas](http://dati.mit.gov.it/catalog/dataset/grafo-stradale-anas). Aprendolo si evince come sia predisposto per applicare le funzioni di [_linear referencing_](https://www.wikiwand.com/en/Linear_referencing), con cui è possibile trasformare le annotazione chilometriche nei tratti geometrici corrispondenti.
 
-Gianni Vitrano (grazie) ci ha [segnalato](https://github.com/ondata/anaslavoriincorso/issues/7) che sul sito del ministero dei trasporti esiste il dataset opendata del grafo del 2015 [http://dati.mit.gov.it/catalog/dataset/grafo-stradale-anas](http://dati.mit.gov.it/catalog/dataset/grafo-stradale-anas). Si potrebbe usare per fare dei test; potrebbe essere utile allo scopo.
+Le problematicità correlate sono le seguenti:
+
+- il grafo è aggiornato al 2015;
+- non è detto che sia lo stesso usato da ANAS per creare l'anagrafica dei lavori in corso pubblicato sul loro sito.
 
 ## Dati numerici espressi come stringhe
 
@@ -105,3 +111,32 @@ Grazie a [Laura Camellini](https://twitter.com/jeeltcraft) per averci messo una 
   }
 ]
 ```
+
+# Linear Referencing
+
+Sitografia
+
+- [PostGIS](https://postgis.net/docs/reference.html#Linear_Referencing)
+- [GRASS GIS](https://grass.osgeo.org/grass74/manuals/lrs.html)
+- [Spatialie](https://www.gaia-gis.it/gaia-sins/spatialite-sql-4.3.0.html#p14b) (cercare `LocateBetweenMeasures`)
+- [una introduzione di Boundless](http://workshops.boundlessgeo.com/postgis-intro/linear_referencing.html)
+
+## Import dataset ANAS
+
+Il dataset di ANAS è `MULTILINESTRINGZM`: contiene al suo interno le informazioni chilometriche progressive. In import è necessario specificarlo altrimenti vanno perse. Il comando di base è:
+
+    ogr2ogr -overwrite -lco LAUNDER=No -f PostgreSQL PG:"dbname=test_andy host=localhost port=5432 user=postgres password=password" "grafo_Anas.shp" -nln "anaszm" -nlt "MULTILINESTRINGZM"
+
+## Estrazione tratte
+
+La _query_ di base per trasformare un'annotazione chilometrica in una geometria è:
+
+```sql
+select ST_CollectionExtract(ST_LocateBetween(wkb_geometry,18000,50000),2) from anaszm where "COD_STRA" like 'SS113'
+```
+
+Note:
+
+- la funzione [`ST_LocateBetween`](https://postgis.net/docs/ST_LocateBetween.html) è la funzione principale. Richiede la geometria a cui essere applicata, la distanza da cui partire (che abbiamo trasformato in metri, perché è l'unità di misura del grafo ANAS), la distanza a cui finisce la tratta;
+- l'output `ST_LocateBetween` è una _geometry collection_. Per estrarre da questa soltanto i segmenti viene usata la funzione [`ST_CollectionExtract`](https://postgis.net/docs/ST_CollectionExtract.html);
+- la _query_ è applicata, come esempio, alla sola strada `SS113`.
