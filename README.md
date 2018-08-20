@@ -31,6 +31,8 @@ Lo script [`anas.sh`](./anas.sh) fa il download dei dati di circa 180 strade (è
 
 [![](./risorse/charts.png)](https://datastudio.google.com/embed/reporting/17n4Casew-9cMbFE5PD5aqZg0jnsephjA/page/qy0W)
 
+Il _Jupyter Notebook_ [anas.ipynb](./linearrefencing/anas.ipynb) trasforma le annotazioni kilometriche in archi e li salva in formato GeoPackage e GeoJSON.
+
 # Problematicità
 
 ## Licenza non definita, quindi dati non utilizzabili
@@ -48,7 +50,8 @@ Per fortuna Gianni Vitrano (grazie) ci ha [segnalato](https://github.com/ondata/
 Le problematicità correlate sono le seguenti:
 
 - il grafo è aggiornato al 2015;
-- non è detto che sia lo stesso usato da ANAS per creare l'anagrafica dei lavori in corso pubblicato sul loro sito.
+- non è detto che sia lo stesso usato da ANAS per creare l'anagrafica dei lavori in corso pubblicato sul loro sito;
+- diverse centinaia di lavori sono associati alla tratta stradale denominata "VARIE". Questi non sono trasformabili in modo automatico in geometrie.
 
 ## Dati numerici espressi come stringhe
 
