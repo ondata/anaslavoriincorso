@@ -133,7 +133,7 @@ Sitografia
 
 ## Import dataset ANAS
 
-Il dataset di ANAS è `MULTILINESTRINGZM`: contiene al suo interno le informazioni chilometriche progressive. In import è necessario specificarlo altrimenti vanno perse. Il comando di base è:
+Il dataset di ANAS è di tipo `MULTILINESTRINGZM`: contiene al suo interno le informazioni chilometriche progressive. In _import_ è necessario specificarlo altrimenti vanno perse. Il comando di base è:
 
     ogr2ogr -overwrite -lco LAUNDER=No -f PostgreSQL PG:"dbname=test_andy host=localhost port=5432 user=postgres password=password" "grafo_Anas.shp" -nln "anaszm" -nlt "MULTILINESTRINGZM"
 
