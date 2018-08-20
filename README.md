@@ -17,7 +17,7 @@ Lo script [`anas.sh`](./anas.sh) fa il download dei dati di circa 180 strade (è
 
 # Problematicità
 
-## Licenza non definita, qundi dati non utilizzabili
+## Licenza non definita, quindi dati non utilizzabili
 
 ANAS è una S.p.A. quindi - salvo non specificato diversamente - **tutti i diritti sui dati che pubblica sono riservati**.<br>
 C'è da chiedere di associare a questi dati una licenza che ne consenta il riuso.
