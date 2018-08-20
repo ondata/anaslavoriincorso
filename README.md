@@ -38,7 +38,7 @@ Lo script [`anas.sh`](./anas.sh) fa il download dei dati di circa 180 strade (è
 
 ## Jupyter Notebook per la trasformazione in geometrie delle note chilometriche
 
-Il _Jupyter Notebook_ [anas.ipynb](./linearrefencing/anas.ipynb) trasforma le annotazioni kilometriche in archi e li salva in formato GeoPackage e GeoJSON.
+Il _Jupyter Notebook_ [anas.ipynb](./linearrefencing/anas.ipynb) trasforma le annotazioni chilometriche in archi e li salva in formato GeoPackage e GeoJSON.
 
 # Problematicità
 
