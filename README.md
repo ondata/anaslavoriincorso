@@ -14,6 +14,7 @@ Lo script [`anas.sh`](./anas.sh) fa il download dei dati di circa 180 strade (è
 
 [![](./risorse/charts.png)](https://datastudio.google.com/embed/reporting/17n4Casew-9cMbFE5PD5aqZg0jnsephjA/page/qy0W)
 
+
 # Problematicità
 
 ## Licenza non definita, quindi dati non utilizzabili
