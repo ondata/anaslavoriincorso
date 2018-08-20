@@ -1,6 +1,6 @@
 *lock*
 config.txt
-*.ipy_*che*
 linearrefencing/shpANAS/*
-linearrefencing/.ipynb_checkpoints/*
-*.gpkg
+*/.ipynb_checkpoints/*
+*italia.gpkg*
+anas-sicilia.ipynb
