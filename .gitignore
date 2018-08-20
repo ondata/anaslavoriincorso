@@ -3,3 +3,4 @@ config.txt
 linearrefencing/shpANAS/*
 */.ipynb_checkpoints/*
 anas-sicilia.ipynb
+linearrefencing/output/*
