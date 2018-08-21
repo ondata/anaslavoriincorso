@@ -47,7 +47,7 @@ csvcut -c id,regione "$cartella"/stradeAnas.csv | csvsql -I --query "select id,G
 csvsql -I --query "select a.*,b.regioni from stradeAnasIta_tmpu as a LEFT JOIN stradeAnasIta_tmpd as b ON a.id=b.id" "$cartella"/stradeAnasIta_tmpu.csv "$cartella"/stradeAnasIta_tmpd.csv >"$cartella"/stradeAnasIta.csv
 rm "$cartella"/stradeAnasIta_t*.csv
 
-# dati problematici
+# Dati problematici
 ## i record in cui la data di ultimazione è espressa in questo modo `07/02/`, ovvero manca l'anno
 csvgrep -c "ultimazione" -r "^../../$" "$cartella"/stradeAnas.csv >"$cartella"/problemi/stradeAnasNoAnnoUltimazione.csv
 
