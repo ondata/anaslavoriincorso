@@ -26,8 +26,8 @@
         "type": "line",
         "source": "composite",
         "source-layer": "stradeAnas",
-        "minzoom": 0,
-        "maxzoom": 22,
+        "minzoom": 5,
+        "maxzoom": 10,
         "paint": {
             "line-color": "#FFFFFF",
             "line-width": 0.5
