@@ -1,0 +1,37 @@
+{
+    "version": 8,
+    "name": "Custom",
+    "metadata": {
+      "mapbox:autocomposite": true
+    },
+    "glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
+    "sources": {
+      "composite": {
+        "type": "vector",
+        "tiles": ["https://ondata.github.io/anaslavoriincorso/tiles/{z}/{x}/{y}.pbf"],
+        "minzoom": 0,
+        "maxzoom": 15
+      }
+    },
+    "layers": [
+      {
+        "id": "background",
+        "type": "background",
+        "paint": {
+          "background-color": "#e3decb"
+        }
+      },
+      {
+        "id": "Road",
+        "type": "line",
+        "source": "composite",
+        "source-layer": "Road",
+        "minzoom": 0,
+        "maxzoom": 22,
+        "paint": {
+            "line-color": "#FFFFFF",
+            "line-width": 0.5
+        }
+      }
+    ]
+  }
