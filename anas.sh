@@ -49,13 +49,6 @@ jq '((.[].importo_lav_principali| select(.) ) |= gsub("\\.";"") ) | ((.[].import
 jq '((.[].descrizione| select(.) ) |= gsub("\\|$";"") )' | \
 in2csv -I -f json >"$cartella"/stradeAnas.csv
 
-# NOTA: se un un lavoro interessa 2 regioni, ci saranno 2 record duplicati nel file generale di anagrafica.
-# Qui sotto la procedura per creare anche un file "pulito" senza duplicati.
-csvcut -C regione "$cartella"/stradeAnas.csv | csvsql -I --query "select distinct * from stdin" >"$cartella"/stradeAnasIta_tmpu.csv
-csvcut -c id,regione "$cartella"/stradeAnas.csv | csvsql -I --query "select id,GROUP_CONCAT(distinct regione) as regioni from stdin GROUP BY id" >"$cartella"/stradeAnasIta_tmpd.csv
-csvsql -I --query "select a.*,b.regioni from stradeAnasIta_tmpu as a LEFT JOIN stradeAnasIta_tmpd as b ON a.id=b.id" "$cartella"/stradeAnasIta_tmpu.csv "$cartella"/stradeAnasIta_tmpd.csv >"$cartella"/stradeAnasIta.csv
-rm "$cartella"/stradeAnasIta_t*.csv
-
 # dati problematici
 ## i record in cui la data di ultimazione è espressa in questo modo $(07/02/), ovvero manca l'anno
 csvgrep -c "ultimazione" -r "^../../$" "$cartella"/stradeAnas.csv >"$cartella"/problemi/stradeAnasNoAnnoUltimazione.csv
@@ -66,7 +59,6 @@ csvsql -I --query "select * from stradeAnasIta where al_km = 0 and dal_km = 0 an
 # faccio l'upload su data.world
 source "$cartella"/config.txt
 curl "https://api.data.world/v0/uploads/ondata/anas-lavori-in-corso/files" -F file=@"$cartella"/stradeAnas.csv -H "Authorization: Bearer ${DW_API_TOKEN}"
-curl "https://api.data.world/v0/uploads/ondata/anas-lavori-in-corso/files" -F file=@"$cartella"/stradeAnasIta.csv -H "Authorization: Bearer ${DW_API_TOKEN}"
 curl "https://api.data.world/v0/uploads/ondata/anas-lavori-in-corso/files" -F file=@"$cartella"/problemi/stradeAnasAnnotazionKmNulla.csv -H "Authorization: Bearer ${DW_API_TOKEN}"
 curl "https://api.data.world/v0/uploads/ondata/anas-lavori-in-corso/files" -F file=@"$cartella"/problemi/stradeAnasNoAnnoUltimazione.csv -H "Authorization: Bearer ${DW_API_TOKEN}"
 
