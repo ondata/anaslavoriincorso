@@ -83,7 +83,7 @@ Ad esempio sul sito ANAS - al 21 agosto 2018 per la Sicilia - sono riportati 80 
 ## Descrittori chilometrici nulli
 
 Alcuni lavori in corso hanno i descrittori `dal_km` `al_km` impostati a zero. Da questi è impossibile estrarre automaticamente la posizione geografica.<br>
-Creato un file di output che ne da conto: [`stradeAnasAnnotazionKmNulla.csv`](./problemi/stradeAnasAnnotazionKmNulla.csv).
+Creato un file di output che ne da conto: [`problemi/stradeAnasAnnotazionKmNulla.csv`](./problemi/stradeAnasAnnotazionKmNulla.csv).
 
 # Anteprima dati
 
