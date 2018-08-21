@@ -30,6 +30,8 @@ L'ANAS pubblica sul suo sito la pagina “[Info Cantieri](http://www.stradeanas.
 I dati sono consultabili da interfaccia web, ma scegliendo prima la regione e poi le singole strade; estrarne un quadro con i dettagli per tutte le strade gestite è laborioso e richiede tempo. E non è disponibile per il download un file di insieme.<br>
 La posizione di ogni lavoro è indicata con annotazioni chilometriche relative alla strada interessata (ad esempio dal km 5 al 12 della SS113).
 
+Grazie a [Laura Camellini](https://twitter.com/jeeltcraft) per averci messo una pulce nell'orecchio.
+
 ## Script per il download dei dati anagrafici
 
 Lo script [`anas.sh`](./anas.sh) fa il download dei dati di circa 180 strade (è il dato al 17 luglio 2018) e ne crea un unico file di insieme in due formati: CSV e JSON. Quelli presenti del repo "non saranno aggiornati".
@@ -76,11 +78,6 @@ Ci sono dei record in cui la data è espressa come `07/02/`, manca l'anno. Nello
 ## Numero di lavori in corso per regione sembra incoerente
 
 Ad esempio sul sito ANAS - al 21 agosto 2018 per la Sicilia - sono riportati 80 lavori in corso. Ma facendo il _download_ nei dati ne emergono 169.
-
----
-
-Grazie a [Laura Camellini](https://twitter.com/jeeltcraft) per averci messo una pulce nell'orecchio.
-
 
 # Anteprima dati
 
