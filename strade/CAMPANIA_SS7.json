@@ -46,21 +46,5 @@
     "id": "14260",
     "regione": "CAMPANIA",
     "strada": "SS7"
-  },
-  {
-    "dal_km": "554,000",
-    "al_km": "573,000",
-    "descrizione": "S.S. 7 ``Appia`` Lavori di Manutenzione Straordinaria per il ripristino della pavimentazione dal km 554+000 al km 573+000 in tratti saltuari - 1? Stralcio\r\n",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "1.298.072,42",
-    "importo_lav_totale": "1.337.697,74",
-    "data_consegna_impresa": "12/06/2017",
-    "avanzamento_lavori": "100,00",
-    "ultimazione": "10/08/2017",
-    "sospesa": "",
-    "impresa": "CONSORZIO STABILE ITALIMPRESE SOC. CONSORTILE A R.L.",
-    "id": "14384",
-    "regione": "CAMPANIA",
-    "strada": "SS7"
   }
 ]

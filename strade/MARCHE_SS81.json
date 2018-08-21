@@ -1,21 +1,5 @@
 [
   {
-    "dal_km": "0,000",
-    "al_km": "0,000",
-    "descrizione": "(CUP-F41B08000240001) VILLA LEMPA\r\n SS N? 81 ``Piceno Aprutina`` Lavori di ammodernamento della sede stradale  del tratto ``Villa Lempa`` - Variante  S.S. 80",
-    "tipo_lavoro": "Lavori straordinari per nuove costruzioni.",
-    "importo_lav_principali": "13.845.865,37",
-    "importo_lav_totale": "16.739.255,36",
-    "data_consegna_impresa": "22/08/2011",
-    "avanzamento_lavori": "99,34",
-    "ultimazione": "27/10/2013",
-    "sospesa": "",
-    "impresa": "CO.STRA.M SRL",
-    "id": "14079",
-    "regione": "MARCHE",
-    "strada": "SS81"
-  },
-  {
     "dal_km": "9,420",
     "al_km": "11,200",
     "descrizione": "S.S. 81 - Lavori di ripristino della pavimentazione stradale al km 9+420 e 11+200\r\n",

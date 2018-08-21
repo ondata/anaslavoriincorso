@@ -62,53 +62,5 @@
     "id": "14271",
     "regione": "CAMPANIA",
     "strada": "SS18"
-  },
-  {
-    "dal_km": "487,000",
-    "al_km": "488,000",
-    "descrizione": "S.S. n. 018 Lavori di messa in sicurezza della S.S. 18 nel Comune di Palmi al km 487+500 in Localita Trodio",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "429.289,62",
-    "importo_lav_totale": "627.514,28",
-    "data_consegna_impresa": "18/09/2017",
-    "avanzamento_lavori": "99,73",
-    "ultimazione": "11/11/2018",
-    "sospesa": "",
-    "impresa": "BASENTINI S.R.L.",
-    "id": "14168",
-    "regione": "CAMPANIA",
-    "strada": "SS18"
-  },
-  {
-    "dal_km": "496,000",
-    "al_km": "518,000",
-    "descrizione": "SS18 - ``Tirrena Inferiore`` - Lavori di manutenzione straordinaria occorrenti  per l`adeguamento di barriere guard-rail secondo la normativa vigente. tra il km 496+000 e il km 518+000 - II? Stralcio",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "604.236,90",
-    "importo_lav_totale": "644.611,90",
-    "data_consegna_impresa": "23/03/2018",
-    "avanzamento_lavori": "61,00",
-    "ultimazione": "18/09/2018",
-    "sospesa": "",
-    "impresa": "TESORO S.R.L.",
-    "id": "14175",
-    "regione": "CAMPANIA",
-    "strada": "SS18"
-  },
-  {
-    "dal_km": "499,000",
-    "al_km": "518,000",
-    "descrizione": "SS18 - Tirrena Inferiore - Lavori di manutenzione straordinaria occorrenti per il mantenimento in efficienza delle opere di protezione passiva da caduta massi tra il km 499+00 e il km 518+000.",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "656.410,76",
-    "importo_lav_totale": "691.785,76",
-    "data_consegna_impresa": "18/12/2017",
-    "avanzamento_lavori": "99,95",
-    "ultimazione": "15/06/2018",
-    "sospesa": "",
-    "impresa": "CPC S.R.L",
-    "id": "14173",
-    "regione": "CAMPANIA",
-    "strada": "SS18"
   }
 ]

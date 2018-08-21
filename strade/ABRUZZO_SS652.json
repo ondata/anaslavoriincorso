@@ -16,38 +16,6 @@
     "strada": "SS652"
   },
   {
-    "dal_km": "0,000",
-    "al_km": "12,560",
-    "descrizione": "LAVORI DI MANUTENZIONE STRAORDINARIA PER IL RIPRISTINO DELLA PAVIMENTAZIONE STRADALE SULLA SS 652 ``FONDO VALLE DEL SANGRO``.",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "1.341.700,80",
-    "importo_lav_totale": "1.450.589,69",
-    "data_consegna_impresa": "20/10/2017",
-    "avanzamento_lavori": "67,56",
-    "ultimazione": "08/08/2018",
-    "sospesa": "",
-    "impresa": "ATI BETON BLACK SPA-M.C. APPALTI-3S SOC DI SERV STRADALI E AZIENDALI",
-    "id": "14151",
-    "regione": "ABRUZZO",
-    "strada": "SS652"
-  },
-  {
-    "dal_km": "3,670",
-    "al_km": "3,670",
-    "descrizione": "LAVORI DI RIPRISTINO SUPERFICIALE DELLE PILE. DELLE SOLETTE E OPERE DI SCARICO DEL VIADOTTO CUPONE AL KM 3+670 DELLA S.S. 652 - COMPLETAMENTO",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "657.320,00",
-    "importo_lav_totale": "703.097,78",
-    "data_consegna_impresa": "12/04/2018",
-    "avanzamento_lavori": "0,00",
-    "ultimazione": "27/11/2018",
-    "sospesa": "",
-    "impresa": "CONSORZIO STABILE F2B",
-    "id": "14149",
-    "regione": "ABRUZZO",
-    "strada": "SS652"
-  },
-  {
     "dal_km": "12,209",
     "al_km": "82,900",
     "descrizione": "(CUP-F57H16000500001) Lavori di realizzazione di sistemi per l`esercizio stradale e adeguamento della segnaletica lungo le strade dei centri di manutenzione C Pescara - CDP2016",

@@ -14,21 +14,5 @@
     "id": "14413",
     "regione": "LAZIO",
     "strada": "SS17"
-  },
-  {
-    "dal_km": "179,035",
-    "al_km": "214,725",
-    "descrizione": "LAVORI DI MANUTENZIONE PROGRAMMATA PER IL RIPRISTINO DELLA PAVIMENTAZIONE STRADALE IN TRATTI SALTUARI COMPRESI TRA IL KM 179+035 ED IL KM 214+725 DELLA S.S. 17  - 1? STRALCIO",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "1.117.090,25",
-    "importo_lav_totale": "1.132.881,62",
-    "data_consegna_impresa": "26/04/2018",
-    "avanzamento_lavori": "100,00",
-    "ultimazione": "15/07/2018",
-    "sospesa": "",
-    "impresa": "ATI ADRIATICA STRADE A-STRA - INTER SASSANO - PISTILLI COSTR.",
-    "id": "14144",
-    "regione": "LAZIO",
-    "strada": "SS17"
   }
 ]

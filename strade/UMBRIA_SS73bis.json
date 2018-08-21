@@ -14,21 +14,5 @@
     "id": "14358",
     "regione": "UMBRIA",
     "strada": "SS73bis"
-  },
-  {
-    "dal_km": "78,000",
-    "al_km": "111,000",
-    "descrizione": "S.S. 73 Bis Di Bocca Trabaria - Lavori urgenti per la sistemazione dei  cavalcavia ammalorati ricadenti tra il km 78+100 e il km 111 carr dx e sx",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "566.211,80",
-    "importo_lav_totale": "583.989,57",
-    "data_consegna_impresa": "13/02/2018",
-    "avanzamento_lavori": "92,30",
-    "ultimazione": "11/08/2018",
-    "sospesa": "",
-    "impresa": "M.G.A. ITALIA SRL",
-    "id": "13993",
-    "regione": "UMBRIA",
-    "strada": "SS73bis"
   }
 ]

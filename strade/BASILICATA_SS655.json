@@ -1,22 +1,6 @@
 [
   {
     "dal_km": "0,000",
-    "al_km": "40,865",
-    "descrizione": "S.S. 655 - Lavori di M.S. consistenti nel ripristino di pavimentazioni ammalorate in tratti saltuari mirati all`incremento della sicurezza ed al miglioramento delle infrastrutture stradali.",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "1.110.924,18",
-    "importo_lav_totale": "1.160.924,18",
-    "data_consegna_impresa": "26/06/2018",
-    "avanzamento_lavori": "49,51",
-    "ultimazione": "23/09/2018",
-    "sospesa": "",
-    "impresa": "ATI PAVING TECHNOLOGY SRL - STEELCONCRETE CONSORZIO STABILE",
-    "id": "14090",
-    "regione": "BASILICATA",
-    "strada": "SS655"
-  },
-  {
-    "dal_km": "0,000",
     "al_km": "0,000",
     "descrizione": "SS 655 ``Bradanica`` I Tronco I Lotto della Martella.",
     "tipo_lavoro": "Lavori straordinari per nuove costruzioni.",

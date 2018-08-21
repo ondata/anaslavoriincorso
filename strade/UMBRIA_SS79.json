@@ -14,21 +14,5 @@
     "id": "14374",
     "regione": "UMBRIA",
     "strada": "SS79"
-  },
-  {
-    "dal_km": "0,000",
-    "al_km": "0,000",
-    "descrizione": "Direttrice Terni - Rieti. Tratto laziale: dalla galleria Montelungo al confine regionale",
-    "tipo_lavoro": "Lavori straordinari per nuove costruzioni.",
-    "importo_lav_principali": "10.872.717,99",
-    "importo_lav_totale": "13.937.468,08",
-    "data_consegna_impresa": "24/11/2017",
-    "avanzamento_lavori": "20,11",
-    "ultimazione": "11/05/",
-    "sospesa": "",
-    "impresa": "IRCOP SPA",
-    "id": "14421",
-    "regione": "UMBRIA",
-    "strada": "SS79"
   }
 ]
