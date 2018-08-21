@@ -43,7 +43,7 @@ jq '((.[].importo_lav_principali| select(.) ) |= gsub("\\.";"") ) | ((.[].import
 # NOTA: se un un lavoro interessa 2 regioni, ci saranno 2 record duplicati nel file generale di anagrafica.
 # Qui sotto la procedura per creare anche un file "pulito" senza duplicati.
 csvcut -C regione "$cartella"/stradeAnas.csv | csvsql -I --query "select distinct * from stdin" >"$cartella"/stradeAnasIta_tmpu.csv
-csvcut -c id,regione "$cartella"/stradeAnas.csv | csvsql -I --query "select id,GROUP_CONCAT(distinct regione) from stdin GROUP BY id" >"$cartella"/stradeAnasIta_tmpd.csv
+csvcut -c id,regione "$cartella"/stradeAnas.csv | csvsql -I --query "select id,GROUP_CONCAT(distinct regione) as regioni from stdin GROUP BY id" >"$cartella"/stradeAnasIta_tmpd.csv
 csvsql -I --query "select a.*,b.regioni from stradeAnasIta_tmpu as a LEFT JOIN stradeAnasIta_tmpd as b ON a.id=b.id" "$cartella"/stradeAnasIta_tmpu.csv "$cartella"/stradeAnasIta_tmpd.csv >"$cartella"/stradeAnasIta.csv
 rm "$cartella"/stradeAnasIta_t*.csv
 
