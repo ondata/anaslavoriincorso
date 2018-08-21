@@ -1,0 +1,13 @@
+{
+"name": "./tiles",
+"description": "./tiles",
+"version": "2",
+"minzoom": "5",
+"maxzoom": "10",
+"center": "13.886719,37.857377,10",
+"bounds": "6.962522,36.939875,18.154176,46.655129",
+"type": "overlay",
+"format": "pbf",
+"generator": "tippecanoe v1.31.0",
+"json": "{\"vector_layers\": [ { \"id\": \"stradeAnas\", \"description\": \"\", \"minzoom\": 5, \"maxzoom\": 10, \"fields\": {} } ],\"tilestats\": {\"layerCount\": 1,\"layers\": [{\"layer\": \"stradeAnas\",\"count\": 144,\"geometry\": \"LineString\",\"attributeCount\": 0,\"attributes\": []}]}}"
+}
