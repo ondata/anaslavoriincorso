@@ -25,7 +25,7 @@
         "id": "stradeAnas",
         "type": "line",
         "source": "composite",
-        "source-layer": "Road",
+        "source-layer": "stradeAnas",
         "minzoom": 0,
         "maxzoom": 22,
         "paint": {
