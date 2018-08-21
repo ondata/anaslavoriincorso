@@ -58,6 +58,8 @@ csvsql -I --query "select * from stradeAnasIta where al_km = 0 and dal_km = 0 an
 source "$cartella"/config.txt
 curl "https://api.data.world/v0/uploads/ondata/anas-lavori-in-corso/files" -F file=@"$cartella"/stradeAnas.csv -H "Authorization: Bearer ${DW_API_TOKEN}"
 curl "https://api.data.world/v0/uploads/ondata/anas-lavori-in-corso/files" -F file=@"$cartella"/stradeAnasIta.csv -H "Authorization: Bearer ${DW_API_TOKEN}"
+curl "https://api.data.world/v0/uploads/ondata/anas-lavori-in-corso/files" -F file=@"$cartella"/problemi/stradeAnasAnnotazionKmNulla.csv -H "Authorization: Bearer ${DW_API_TOKEN}"
+curl "https://api.data.world/v0/uploads/ondata/anas-lavori-in-corso/files" -F file=@"$cartella"/problemi/stradeAnasNoAnnoUltimazione.csv -H "Authorization: Bearer ${DW_API_TOKEN}"
 
 <<comment1
 comment1
