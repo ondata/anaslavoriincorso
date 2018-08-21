@@ -85,6 +85,8 @@ Ad esempio sul sito ANAS - al 21 agosto 2018 per la Sicilia - sono riportati 80 
 Alcuni lavori in corso hanno i descrittori `dal_km` `al_km` impostati a zero. Da questi è impossibile estrarre automaticamente la posizione geografica.<br>
 Creato un file di output che ne da conto: [`problemi/stradeAnasAnnotazionKmNulla.csv`](./problemi/stradeAnasAnnotazionKmNulla.csv).
 
+Da verificare se si tratta di annotazioni corrette e che quindi facciano riferimento al fine linea.
+
 # Anteprima dati
 
 ## Anteprima CSV d'esempio
