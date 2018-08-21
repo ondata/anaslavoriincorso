@@ -51,6 +51,9 @@ rm "$cartella"/stradeAnasIta_t*.csv
 ## i record in cui la data di ultimazione è espressa in questo modo `07/02/`, ovvero manca l'anno
 csvgrep -c "ultimazione" -r "^../../$" "$cartella"/stradeAnas.csv >"$cartella"/problemi/stradeAnasNoAnnoUltimazione.csv
 
+## strade di tipo non "VARIE" con "dal km" "al km" che vanno da 0 a 0
+csvsql -I --query "select * from stradeAnasIta where al_km = 0 and dal_km = 0 and strada NOT LIKE 'VARIE'" "$cartella"/stradeAnasIta.csv >"$cartella"/problemi/stradeAnasAnnotazionKmNulla.csv
+
 # faccio l'upload su data.world
 source "$cartella"/config.txt
 curl "https://api.data.world/v0/uploads/ondata/anas-lavori-in-corso/files" -F file=@"$cartella"/stradeAnas.csv -H "Authorization: Bearer ${DW_API_TOKEN}"
