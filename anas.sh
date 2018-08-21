@@ -39,6 +39,7 @@ jq '((.[].importo_lav_principali| select(.) ) |= gsub("\\.";"") ) | ((.[].import
 
 # creo un unico file csv di output e sostituisco i "\r\n" presenti in descrizione con "|"
 <"$cartella"/stradeAnas.json jq '((.[].descrizione| select(.) ) |= gsub("\r\n";"|") )' | \
+jq '((.[].descrizione| select(.) ) |= gsub("\\|$";"") )' | \
 in2csv -I -f json >"$cartella"/stradeAnas.csv
 
 # NOTA: se un un lavoro interessa 2 regioni, ci saranno 2 record duplicati nel file generale di anagrafica.
