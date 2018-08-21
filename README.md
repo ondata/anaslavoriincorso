@@ -64,7 +64,7 @@ Le problematicità correlate sono le seguenti:
 
 - il grafo è aggiornato al 2015;
 - non è detto che sia lo stesso usato da ANAS per creare l'anagrafica dei lavori in corso pubblicato sul loro sito;
-- diverse centinaia di lavori sono associati alla tratta stradale denominata "VARIE". Questi non sono trasformabili in modo automatico in geometrie;
+- diverse decine di lavori sono associati alla tratta stradale denominata "VARIE". Questi non sono trasformabili in modo automatico in geometrie;
 - molti nomi di strada sono duplicati, e quindi non per tutte le anagrafiche lavori è possibile estrarre gli archi geometrici correlati.
 
 ## Dati numerici espressi come stringhe

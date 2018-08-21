@@ -54,7 +54,7 @@ in2csv -I -f json >"$cartella"/stradeAnas.csv
 csvgrep -c "ultimazione" -r "^../../$" "$cartella"/stradeAnas.csv >"$cartella"/problemi/stradeAnasNoAnnoUltimazione.csv
 
 ## strade di tipo non "VARIE" con "dal km" "al km" che vanno da 0 a 0
-csvsql -I --query "select * from stradeAnasIta where al_km = 0 and dal_km = 0 and strada NOT LIKE 'VARIE'" "$cartella"/stradeAnasIta.csv >"$cartella"/problemi/stradeAnasAnnotazionKmNulla.csv
+csvsql -I --query "select * from stradeAnas where al_km = 0 and dal_km = 0 and strada NOT LIKE 'VARIE'" "$cartella"/stradeAnas.csv >"$cartella"/problemi/stradeAnasAnnotazionKmNulla.csv
 
 # faccio l'upload su data.world
 source "$cartella"/config.txt
@@ -63,4 +63,13 @@ curl "https://api.data.world/v0/uploads/ondata/anas-lavori-in-corso/files" -F fi
 curl "https://api.data.world/v0/uploads/ondata/anas-lavori-in-corso/files" -F file=@"$cartella"/problemi/stradeAnasNoAnnoUltimazione.csv -H "Authorization: Bearer ${DW_API_TOKEN}"
 
 <<comment1
+# faccio upload su carto
+ogr2ogr -overwrite \
+  --config CARTO_API_KEY "$CARTO_API_KEY" \
+  -t_srs "EPSG:4326" \
+  -nln anas_lavori_in_corso \
+  -f Carto \
+  "Carto:tanto" \
+  "$cartella"/stradeAnas.geojson
+
 comment1
