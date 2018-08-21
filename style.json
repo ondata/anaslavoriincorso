@@ -18,7 +18,7 @@
         "id": "background",
         "type": "background",
         "paint": {
-          "background-color": "#e3decb"
+          "background-color": "#000"
         }
       },
       {
@@ -30,7 +30,7 @@
         "maxzoom": 10,
         "paint": {
             "line-color": "#FFFFFF",
-            "line-width": 0.5
+            "line-width": 40
         }
       }
     ]

@@ -31,6 +31,13 @@ var style = {
       // "url": "http://tileserver.com/layer.json", 
       "tiles": [location.origin+location.pathname+"countries/{z}/{x}/{y}.pbf"],
       "maxzoom": 6
+    },
+    "anas": {
+      "type": "vector",
+      // "url": "mapbox://map-id"
+      // "url": "http://tileserver.com/layer.json", 
+      "tiles": [location.origin+location.pathname+"tiles/{z}/{x}/{y}.pbf"],
+      "maxzoom": 10
     }
   },
   "glyphs": location.origin+location.pathname+"font/{fontstack}/{range}.pbf",
@@ -39,6 +46,21 @@ var style = {
     "type": "background",
     "paint": {
       "background-color": "#ddeeff"
+    }
+  },{
+    "id": "stradeAnasaa",
+    "type": "line",
+    "source": "anas",
+    "source-layer": "stradeAnas",
+    "layout": {
+      "line-join":"round"
+    },
+    "paint": {
+      "line-color": "#226688",
+      "line-width": 20,
+      "line-opacity": {
+        "stops": [[0,0],[1,0.1]]
+      }
     }
   },{
     "id": "country-glow-outer",
@@ -262,6 +284,21 @@ var style = {
     "paint": {
       "text-color": "#226688",
       "text-halo-width": 1.5
+    }
+  },{
+    "id": "stradeAnasa",
+    "type": "line",
+    "source": "anas",
+    "source-layer": "stradeAnas",
+    "layout": {
+      "line-join":"round"
+    },
+    "paint": {
+      "line-color": "#226688",
+      "line-width": 20,
+      "line-opacity": {
+        "stops": [[0,0],[1,0.1]]
+      }
     }
   }]
 };
