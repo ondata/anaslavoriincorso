@@ -11,7 +11,6 @@
   - [Dati sul posizionamento dei cantieri](#dati-sul-posizionamento-dei-cantieri)
   - [Dati numerici espressi come stringhe](#dati-numerici-espressi-come-stringhe)
   - [Record con data di ultimazione incompleta](#record-con-data-di-ultimazione-incompleta)
-  - [Numero di lavori in corso per regione sembra incoerente](#numero-di-lavori-in-corso-per-regione-sembra-incoerente)
   - [Descrittori chilometrici nulli](#descrittori-chilometrici-nulli)
 - [Anteprima dati](#anteprima-dati)
   - [Anteprima CSV d'esempio](#anteprima-csv-desempio)
@@ -75,10 +74,6 @@ Nei JSON di origine i valori numerici sono espressi in questo modo `"importo_lav
 ## Record con data di ultimazione incompleta
 
 Ci sono dei record in cui la data è espressa come `07/02/`, manca l'anno. Nello script è stato aggiunto un comando che estrae gli elementi con questa problematicità nel file [`problemi/stradeAnasNoAnnoUltimazione.csv`](./problemi/stradeAnasNoAnnoUltimazione.csv) (vedi [#4](https://github.com/ondata/anaslavoriincorso/issues/4)).
-
-## Numero di lavori in corso per regione sembra incoerente
-
-Ad esempio sul sito ANAS - al 21 agosto 2018 per la Sicilia - sono riportati 80 lavori in corso. Ma facendo il _download_ nei dati ne emergono 169.
 
 ## Descrittori chilometrici nulli
 
