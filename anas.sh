@@ -37,8 +37,9 @@ jq -s add "$cartella"/strade/*.json >"$cartella"/stradeAnas.json
 # ad esempio da `438.733,76` a `438733.76`
 jq '((.[].importo_lav_principali| select(.) ) |= gsub("\\.";"") ) | ((.[].importo_lav_principali| select(.) ) |= gsub(",";".") ) | ((.[].importo_lav_principali| select(.) ) |= tonumber ) |  ((.[].importo_lav_totale| select(.) ) |= gsub("\\.";"") ) | ((.[].importo_lav_totale| select(.) ) |= gsub(",";".") ) | ((.[].importo_lav_totale| select(.) ) |= tonumber ) |  ((.[].dal_km| select(.) ) |= gsub("\\.";"") ) | ((.[].dal_km| select(.) ) |= gsub(",";".") ) | ((.[].dal_km| select(.) ) |= tonumber ) |  ((.[].al_km| select(.) ) |= gsub("\\.";"") ) | ((.[].al_km| select(.) ) |= gsub(",";".") ) | ((.[].al_km| select(.) ) |= tonumber ) |  ((.[].avanzamento_lavori| select(.) ) |= gsub(",";".") ) | ((.[].avanzamento_lavori| select(.) ) |= tonumber )' "$cartella"/stradeAnas.json >"$cartella"/stradeAnas_tmp.json && mv "$cartella"/stradeAnas_tmp.json "$cartella"/stradeAnas.json
 
-# creo un unico file csv di output
-<"$cartella"/stradeAnas.json in2csv -I -f json >"$cartella"/stradeAnas.csv
+# creo un unico file csv di output e sostituisco i "\r\n" presenti in descrizione con "|"
+<"$cartella"/stradeAnas.json jq '((.[].descrizione| select(.) ) |= gsub("\r\n";"|") )' | \
+in2csv -I -f json >"$cartella"/stradeAnas.csv
 
 # NOTA: se un un lavoro interessa 2 regioni, ci saranno 2 record duplicati nel file generale di anagrafica.
 # Qui sotto la procedura per creare anche un file "pulito" senza duplicati.

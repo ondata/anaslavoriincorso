@@ -1,8 +1,6 @@
 dal_km,al_km,descrizione,tipo_lavoro,importo_lav_principali,importo_lav_totale,data_consegna_impresa,avanzamento_lavori,ultimazione,sospesa,impresa,id,strada,regioni
 0,0,SS 652 DI FONDO VALLE SANGRO  Lavori di costruzione del tratto compreso tra la stazione di Gamberale e la stazione di Civitaluparella - 2? Lotto 2? Stralcio -2? tratto,Lavori straordinari per nuove costruzioni.,125903494.63,137368177.41,22/02/2018,0.12,31/05/,,ATI DE SANCTIS COSTRUZIONI SPA - OB ER CAV. PIETRO SRL - IRCOP SPA,14080,SS652,"ABRUZZO,MOLISE"
-0,0,"(CUP-F41B08000240001) VILLA LEMPA
-
- SS N? 81 ``Piceno Aprutina`` Lavori di ammodernamento della sede stradale  del tratto ``Villa Lempa`` - Variante  S.S. 80",Lavori straordinari per nuove costruzioni.,13845865.37,16739255.36,22/08/2011,99.34,27/10/2013,,CO.STRA.M SRL,14079,SS81,"ABRUZZO,MARCHE"
+0,0,(CUP-F41B08000240001) VILLA LEMPA| SS N? 81 ``Piceno Aprutina`` Lavori di ammodernamento della sede stradale  del tratto ``Villa Lempa`` - Variante  S.S. 80,Lavori straordinari per nuove costruzioni.,13845865.37,16739255.36,22/08/2011,99.34,27/10/2013,,CO.STRA.M SRL,14079,SS81,"ABRUZZO,MARCHE"
 0,0,Adeguamento Strutturale e messa in sicurezza dell`Itinerario Basentano (compreso Raccordo Autostradale Sicignano Potenza) ed innalzamento dell`accessibilita alla citta capoluogo di regione.,Lavori straordinari per nuove costruzioni.,19634724.96,22548718.24,,2.73,,,ATI CONS. ST.GRANDI LAV SCRL+GIACOV IMPR.PIETRO CIDONIO SPA+TECHNITAL S,14398,RA05,BASILICATA
 0,0,Collegamento mediano Murgia - Pollino Pisticci - Tursi - Valsinni 3? stralcio. Realizzazione di un nuovo ponte per l`attraversamento del fosso Chiobica sulla S.P. ex S.S. 176 in prossimita di quello parzialmente crollato il 23/02/2013. ubicato al km 4+100 in agro di Pisticci.,Lavori straordinari per nuove costruzioni.,1068561.84,1293096.94,24/11/2016,83.32,13/10/2018,,ATI CASSINO S.R.L.+DE ROSA OFFICINE,14399,SS176,BASILICATA
 0,0,SS 655 ``Bradanica`` I Tronco I Lotto della Martella.,Lavori straordinari per nuove costruzioni.,49563059.34,58001166.25,21/01/2011,99.89,20/12/2012,,ATI INTINI-CONSORZIO RAVENNATE(ATA -PRESENTS-PRO ITER,14395,SS655,"BASILICATA,PUGLIA"
@@ -14,22 +12,16 @@ dal_km,al_km,descrizione,tipo_lavoro,importo_lav_principali,importo_lav_totale,d
 0,0,S.C. nel Comune di Palmiano - Interventi di ripristino del corpo stradale. opere complementari e stabilizzazioni dei versanti,Lavori di manutenzione straordinaria.,336978.64,465097.34,21/05/2018,73.64,17/09/2018,,MASCI GIOVANNI & FIGLI SNC,14039,SS4,"LAZIO,MARCHE"
 0,0,S.C. Cupolame nel Comune di Force - Lavori di messa in sicurezza e ripristino del corpo stradale.,Lavori di manutenzione straordinaria.,416810.08,532940.12,13/06/2018,8.42,21/08/2018,,S.E.I.C.O. SOCIETA` EDILE INDUSTRIALE COSTRUZIONI S.R.L.,14040,SS4,"LAZIO,MARCHE"
 0,0,S.P. 124  ex S.P.93 - Interventi di protezione dalla caduta massi,Lavori di manutenzione straordinaria.,683280.28,787120.08,15/03/2018,43.86,10/09/2018,,CO.S.PE.F.  S.R.L. A SOCIO UNICO,14046,SS4,"LAZIO,MARCHE"
-0,0,"SS 675 ``Umbro-Laziale``
-
-Tratto Aurelia-Cinelli - stralcio Monte Romano Est - Cinelli",Lavori straordinari per nuove costruzioni.,59240286.05,75119975.32,20/06/2016,87.32,30/08/2018,,ATI DONATI SPA-IRCOP SPA-S.A.L.C. S DEMA COSTRUZIONI SRL,14422,SS675,LAZIO
+0,0,SS 675 ``Umbro-Laziale``|Tratto Aurelia-Cinelli - stralcio Monte Romano Est - Cinelli,Lavori straordinari per nuove costruzioni.,59240286.05,75119975.32,20/06/2016,87.32,30/08/2018,,ATI DONATI SPA-IRCOP SPA-S.A.L.C. S DEMA COSTRUZIONI SRL,14422,SS675,LAZIO
 0,0,Completamento del tratto Terni (localita S.Carlo) - Confine Regionale della Direttrice Civitavecchia-Orte-Terni-Rieti.,Lavori straordinari per nuove costruzioni.,181281750.04,205580422.7,31/10/2006,97.5,21/09/2013,,UNITER CONSORZIO STABILE A .R.L. IN LIQUIDAZIONE,14374,SS79,"LAZIO,UMBRIA"
 0,0,Direttrice Terni - Rieti. Tratto laziale: dalla galleria Montelungo al confine regionale,Lavori straordinari per nuove costruzioni.,10872717.99,13937468.08,24/11/2017,20.11,11/05/,,IRCOP SPA,14421,SS79,"LAZIO,UMBRIA"
 0,0,Viabilita di accesso all` hub portuale di Savona interconnessione tra i caselli della A 10 di Savona ed Albisola e i porti di Savona e Vado: Variante alla SS 1 Aurelia nel tratto tra Savona torrente Letimbro ed Albisola Superiore. ,Lavori straordinari per nuove costruzioni.,145118426.98,208185870.41,15/02/2012,78.72,18/09/2016,,ATI C.M.C.-ITINERA (SGAI-D`APPOLONI ELETEC 2000),14217,SS1,"LIGURIA,TOSCANA"
 0,0,LAVORI DI COSTRUZIONE DELLA VARIANTE ALLA SS 1 AURELIA - 3? LOTTO TRA FELETTINO E IL RACCORDO AUTOSTRADALE -  VIABILITA` DI ACCESSO ALL`HUB PORTUALE DI LA SPEZIA - INTERCONNESSIONE TRA I CASELLI DELLA A 12 E IL PORTO DI LA SPEZIA,Lavori straordinari per nuove costruzioni.,141113961.42,175352504.31,29/08/2011,43.69,29/05/2015,,TOTO Costruzioni Generali S.P.A.,14218,SS1,"LIGURIA,TOSCANA"
 0,0,Lotto I. Variante di Morbegno. dallo svincolo di Fuentes allo svincolo del Tartano. II Stralcio dallo svincolo di Cosio allo svincolo di Tartano.,Lavori straordinari per nuove costruzioni.,163413008.95,181620797.99,22/01/2015,98.51,04/04/2018,,COSSI COSTRUZIONI S.P.A.,14257,SS38,LOMBARDIA
-0,0,"SC Castelsantangelo-Macchie.  SC Nocelleto-Rapegna e SC Nocria-Capoluogo - Lavori di messa in sicurezza e ripristino della viabilita delle infrastrutture stradali interessate dagli eventi sismici.
-
-",Lavori di manutenzione straordinaria.,648949.38,914614.59,09/04/2018,38.67,02/10/2018,,CAV. ALDO ILARI S.N.C.,14041,SS209,MARCHE
+0,0,SC Castelsantangelo-Macchie.  SC Nocelleto-Rapegna e SC Nocria-Capoluogo - Lavori di messa in sicurezza e ripristino della viabilita delle infrastrutture stradali interessate dagli eventi sismici.,Lavori di manutenzione straordinaria.,648949.38,914614.59,09/04/2018,38.67,02/10/2018,,CAV. ALDO ILARI S.N.C.,14041,SS209,MARCHE
 0,0,SC Castelsantangelo-Macchie  - Interventi di ripristino del corpo stradale e realizzazione di opere complementari.,Lavori di manutenzione straordinaria.,2452933.95,3219697.01,22/05/2018,0,03/10/2019,,CONSORZIO STABILE VITRUVIO S.C.AR.L,14042,SS209,MARCHE
 0,0,SC Del Poggio - Interventi di ripristino del corpo stradale ed opere complementari,Lavori di manutenzione straordinaria.,1262086.54,1672686.54,12/03/2018,0,11/03/2019,,ATI COGET SRL ? TRE C COSTRUZIONI S,14043,SS209,MARCHE
-0,0,"SC Laverino - Interventi di ripristino e messa in sicurezza della sede stradale.
-
-",Lavori di manutenzione straordinaria.,139175.55,151867.1,02/02/2018,100,02/05/2018,,ANGELONE COSTRUZIONI SRL,14044,SS209,MARCHE
+0,0,SC Laverino - Interventi di ripristino e messa in sicurezza della sede stradale.,Lavori di manutenzione straordinaria.,139175.55,151867.1,02/02/2018,100,02/05/2018,,ANGELONE COSTRUZIONI SRL,14044,SS209,MARCHE
 0,0,SP36 SP56 e SP 164 - Lavori di messa in sicurezza e ripristino della sede stradale.,Lavori di manutenzione straordinaria.,608920.32,702531.43,03/04/2018,49.11,29/09/2018,,DUEZETA COSTRUZIONI S.R.L.,14047,SS209,MARCHE
 0,0,SP 136 ?Pian Perduto? ? Interventi necessari per apertura al traffico con limitazioni alla circolazione dal km 8+000 (Hotel La Fiorita) al km 12+000 (Madonna della Icona).,Lavori di manutenzione straordinaria.,265183.18,290194.88,27/04/2018,39.03,25/07/2018,,EDIL STRADE MINTURNO S.R.L.,14006,SS685,"MARCHE,UMBRIA"
 0,0,S.P. 129 - Interventi di stabilizzazione dei versanti. realizzazione di opere complementari e ripristino del corpo stradale dal lm 0+800 al Km 4+150. Fase 0 ,Lavori di manutenzione straordinaria.,111269.25,128177.1,16/03/2018,93.26,14/04/2018,,S.E.A.S. S.R.L.,14014,SS685,"MARCHE,UMBRIA"
@@ -44,15 +36,11 @@ Tratto Aurelia-Cinelli - stralcio Monte Romano Est - Cinelli",Lavori straordinar
 0,0,Progetto S2TR01_E_1701. SP8. SP31 e SP113. Lavori urgenti di ripristino opere d`arte.,Lavori di manutenzione straordinaria.,417678.09,502745.33,09/07/2018,0,07/10/2018,,GIACOVELLI SRL,14371,SS77,"MARCHE,UMBRIA"
 0,0,Progetto P2MC49_E_1701. SP45 - Interventi di ripristino e messa in sicurezza.,Lavori di manutenzione straordinaria.,117786.79,151461.68,13/03/2018,100,30/05/2018,,SA.MA. S.R.L.,14372,SS77,"MARCHE,UMBRIA"
 0,0,Progetto P2MC55_E_1701. SP120  e SP7 - Interventi di protezione dalla caduta massi.,Lavori di manutenzione straordinaria.,666381.32,786977.97,13/03/2018,97.55,26/07/2018,,STRADE E AMBIENTE SRL,14373,SS77,"MARCHE,UMBRIA"
-0,0," S.C. Carosi - Lavori di ripristino del corpo stradale e delle opere di sostegno a monte e a valle.
-
-",Lavori di manutenzione straordinaria.,540121,681501,15/11/2017,80,14/03/2018,,SABINA CONGLOMERATI S.R.L.,14038,XS4,MARCHE
+0,0, S.C. Carosi - Lavori di ripristino del corpo stradale e delle opere di sostegno a monte e a valle.,Lavori di manutenzione straordinaria.,540121,681501,15/11/2017,80,14/03/2018,,SABINA CONGLOMERATI S.R.L.,14038,XS4,MARCHE
 0,0,"SS 172 - Adeguamento ed ammodernamento in sede ed in variante
 Costruzione della quarta corsia sull`Orimini Superiore tra i km 56+000 e 60+500 e Aste di penetrazione a Martina Franca",Lavori straordinari per nuove costruzioni.,14559409.45,21897180.9,02/07/2018,1.51,14/08/,,ATI BULFARO SPA - MURANO SRL,14081,SS172,PUGLIA
 0,0,S.S. 125 ``Orientale Sarda`` - Tronco Tertenia-San Priamo: 1? Lotto - 1? Stralcio,Lavori straordinari per nuove costruzioni.,29445652.07,35555854.39,11/04/2017,58.79,20/02/2019,,DE SANCTIS COSTRUZIONI S.P.A,14141,SS125,SARDEGNA
-0,0,"Itinerario NORD - SUD S. Stefano di Camastra - Gela. 
-
-SS 117 Centrale Sicula - Lavori di ammodernamento e sistemazione del tratto compreso tra km 32+000 e km 38+700 della SS 117 - Lotto B4b",Lavori straordinari per nuove costruzioni.,65065789.37,69859574.01,22/06/2011,90.93,17/09/2018,,RICCIARDELLO COSTRUZIONI SRL,14339,ISV3,SICILIA
+0,0,Itinerario NORD - SUD S. Stefano di Camastra - Gela. |SS 117 Centrale Sicula - Lavori di ammodernamento e sistemazione del tratto compreso tra km 32+000 e km 38+700 della SS 117 - Lotto B4b,Lavori straordinari per nuove costruzioni.,65065789.37,69859574.01,22/06/2011,90.93,17/09/2018,,RICCIARDELLO COSTRUZIONI SRL,14339,ISV3,SICILIA
 0,0,ITINERARIO PALERMO AGRIGENTO - TRATTO PALERMO - LERCARA FRIDDI. S.S. 121 - 2? Lotto funzionale: adeguamento in sede sez. Cat. C1/B nel tratto Bolognetta - Bivio Manganaro dal km 14+400 (rotatoria Bolognetta) al km 48+000 (svincolo Manganaro).,Lavori straordinari per nuove costruzioni.,230809759.66,258553406.02,27/02/2014,68.91,02/12/2017,,BOLOGNETTA S.C.P.A.,14338,SS121,SICILIA
 0,0,"SS 626 DIR - LOTTO 7?
 LAVORI DI MANUTENZIONE STRAORDINARIA DEL LOTTO 7?",Lavori straordinari per nuove costruzioni.,7687318.2,9042318.32,07/03/2017,37.76,06/03/2019,,ATI VIASTRADA S.A.S. - SAFITAL S.R.,14341,SS626dir,SICILIA
