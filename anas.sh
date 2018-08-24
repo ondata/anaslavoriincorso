@@ -56,6 +56,11 @@ csvgrep -c "ultimazione" -r "^../../$" "$cartella"/stradeAnas.csv >"$cartella"/p
 ## strade di tipo non "VARIE" con "dal km" "al km" che vanno da 0 a 0
 csvsql -I --query "select * from stradeAnas where al_km = 0 and dal_km = 0 and strada NOT LIKE 'VARIE'" "$cartella"/stradeAnas.csv >"$cartella"/problemi/stradeAnasAnnotazionKmNulla.csv
 
+### Estrai CUP ###
+# mlr --csv filter -S '$descrizione =~ "[A-Z]{1}[0-9]{2} ?[A-Z]{1}[0-9]{2} ?[0-9]{4} ?[0-9]{5} ?"' stradeAnas.csv >./concup.csvs
+# mlr --csv filter -S '$descrizione !=~ "[A-Z]{1}[0-9]{2} ?[A-Z]{1}[0-9]{2} ?[0-9]{4} ?[0-9]{5} ?"' stradeAnas.csv ./senzacup.csv
+### Estrai CUP ###
+
 # faccio l'upload su data.world
 source "$cartella"/config.txt
 curl "https://api.data.world/v0/uploads/ondata/anas-lavori-in-corso/files" -F file=@"$cartella"/stradeAnas.csv -H "Authorization: Bearer ${DW_API_TOKEN}"
