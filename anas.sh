@@ -58,7 +58,7 @@ csvgrep -c "ultimazione" -r "^../../$" "$cartella"/stradeAnas.csv >"$cartella"/p
 csvsql -I --query "select * from stradeAnas where al_km = 0 and dal_km = 0 and strada NOT LIKE 'VARIE'" "$cartella"/stradeAnas.csv >"$cartella"/problemi/stradeAnasAnnotazionKmNulla.csv
 
 ## creo una colonna con i CUP 
-# mlr -I --csv put '$CUP = regextract_or_else($descrizione, "[A-Z]{1}[0-9]{2} ?[A-Z]{1}[0-9]{2} ?[0-9]{4} ?[0-9]{5} ?","")' "$cartella"/stradeAnas.csv
+mlr -I --csv put '$CUP = regextract_or_else($descrizione, "[A-Z]{1}[0-9]{2} ?[A-Z]{1}[0-9]{2} ?[0-9]{4} ?[0-9]{5} ?","")' "$cartella"/stradeAnas.csv
 
 # faccio l'upload su data.world
 source "$cartella"/config.txt
