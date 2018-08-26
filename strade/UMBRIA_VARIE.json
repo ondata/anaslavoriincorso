@@ -11,7 +11,7 @@
     "ultimazione": "02/08/2018",
     "sospesa": "",
     "impresa": "ATI TECNOSTRADE SRL-CALZONI SPA ESSEGIEMME SRL-SALVATI SPA",
-    "id": "14357",
+    "id": "14872",
     "regione": "UMBRIA",
     "strada": "VARIE"
   },
@@ -27,7 +27,23 @@
     "ultimazione": "29/09/2018",
     "sospesa": "",
     "impresa": "MPM SRL",
-    "id": "14359",
+    "id": "14874",
+    "regione": "UMBRIA",
+    "strada": "VARIE"
+  },
+  {
+    "dal_km": "0,000",
+    "al_km": "0,000",
+    "descrizione": "SS.SS.3bis-675. Miglioramento della sicurezza stradale mediante la sostituzione e l`adeguamento della segnaletica verticale e marginale tra il km 0+000 ed il km 133+755 della S.S.3bis e tra il km 11+100 ed il km 30+200 della S.S.675.",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "4.000.000,00",
+    "importo_lav_totale": "4.053.333,33",
+    "data_consegna_impresa": "26/07/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "22/01/2019",
+    "sospesa": "",
+    "impresa": "ATI SEGNAL SYSTEM - EMMEA TRADE FEGOTTO COSTRUZIONI",
+    "id": "14875",
     "regione": "UMBRIA",
     "strada": "VARIE"
   }

@@ -11,7 +11,7 @@
     "ultimazione": "02/10/2018",
     "sospesa": "",
     "impresa": "CAV. ALDO ILARI S.N.C.",
-    "id": "14041",
+    "id": "14562",
     "regione": "MARCHE",
     "strada": "SS209"
   },
@@ -27,7 +27,7 @@
     "ultimazione": "03/10/2019",
     "sospesa": "",
     "impresa": "CONSORZIO STABILE VITRUVIO S.C.AR.L",
-    "id": "14042",
+    "id": "14563",
     "regione": "MARCHE",
     "strada": "SS209"
   },
@@ -43,7 +43,7 @@
     "ultimazione": "11/03/2019",
     "sospesa": "",
     "impresa": "ATI COGET SRL ? TRE C COSTRUZIONI S",
-    "id": "14043",
+    "id": "14564",
     "regione": "MARCHE",
     "strada": "SS209"
   },
@@ -59,7 +59,7 @@
     "ultimazione": "02/05/2018",
     "sospesa": "",
     "impresa": "ANGELONE COSTRUZIONI SRL",
-    "id": "14044",
+    "id": "14565",
     "regione": "MARCHE",
     "strada": "SS209"
   },
@@ -75,7 +75,7 @@
     "ultimazione": "29/09/2018",
     "sospesa": "",
     "impresa": "DUEZETA COSTRUZIONI S.R.L.",
-    "id": "14047",
+    "id": "14568",
     "regione": "MARCHE",
     "strada": "SS209"
   },
@@ -91,7 +91,7 @@
     "ultimazione": "14/03/2019",
     "sospesa": "",
     "impresa": "ATI MARCO POLO APPALTI SRL ? GIULIA LTI SRL -SCERMINO COSTRUZIONI",
-    "id": "14048",
+    "id": "14569",
     "regione": "MARCHE",
     "strada": "SS209"
   },
@@ -107,23 +107,7 @@
     "ultimazione": "13/09/2018",
     "sospesa": "",
     "impresa": "ATI ASFALTI SRL-ABIT SRL-FERRETTI S SEGNAL SYSTEM SRL",
-    "id": "13995",
-    "regione": "MARCHE",
-    "strada": "SS209"
-  },
-  {
-    "dal_km": "62,000",
-    "al_km": "63,550",
-    "descrizione": "Ex S.S. 209 ``Valnerina`` Interventi di Manutenzione Straordinaria urgenti a seguito del sisma del 24 agosto 2016 - 30 ottobre 2016. lavori per la messa in sicurezza e ripristino della sede stradale da caduta massi dal km 62+000 al km 63+550",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "1.859.087,84",
-    "importo_lav_totale": "1.961.096,26",
-    "data_consegna_impresa": "17/08/2017",
-    "avanzamento_lavori": "100,00",
-    "ultimazione": "04/11/2017",
-    "sospesa": "",
-    "impresa": "DOLOMITI ROCCE S.R.L.",
-    "id": "14011",
+    "id": "14518",
     "regione": "MARCHE",
     "strada": "SS209"
   },
@@ -139,7 +123,7 @@
     "ultimazione": "12/09/2018",
     "sospesa": "",
     "impresa": "ATI ASFALTI SRL-ABIT SRL-FERRETTI S SEGNAL SYSTEM SRL",
-    "id": "13992",
+    "id": "14515",
     "regione": "MARCHE",
     "strada": "SS209"
   },
@@ -155,7 +139,7 @@
     "ultimazione": "08/02/2018",
     "sospesa": "",
     "impresa": "RTI NAGOSTINIS SRL - ALPI SRL -S.I.",
-    "id": "14012",
+    "id": "14533",
     "regione": "MARCHE",
     "strada": "SS209"
   },
@@ -171,7 +155,7 @@
     "ultimazione": "12/02/2018",
     "sospesa": "",
     "impresa": "INGEGNERIA E COSTRUZIONI",
-    "id": "14010",
+    "id": "14532",
     "regione": "MARCHE",
     "strada": "SS209"
   }

@@ -2,22 +2,6 @@
   {
     "dal_km": "0,000",
     "al_km": "0,000",
-    "descrizione": "S.S. 7BIS -7BIS/RAC-7IV-268-268/RAC-686\r\nLavori di manutenzione straordinaria per il rifacimento della sede stradale fortemente ammalorata e della segnaletica orizzontale (compresi svincoli)  lungo le strade Statali del Nucleo B del Centro Manutentorio A",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "629.851,05",
-    "importo_lav_totale": "661.939,94",
-    "data_consegna_impresa": "30/05/2018",
-    "avanzamento_lavori": "100,00",
-    "ultimazione": "30/07/2018",
-    "sospesa": "",
-    "impresa": "ATI RILLO COSTRUZ. - TECNOCOSTRUZIO LA.BIT",
-    "id": "14268",
-    "regione": "CAMPANIA",
-    "strada": "VARIE"
-  },
-  {
-    "dal_km": "0,000",
-    "al_km": "0,000",
     "descrizione": "RA 09 - S.S. S.S. 87 - 90 - 7 APPIA \r\nINTERVENTI DI RIPARAZIONE DEGLI IMPALCATI DEI VIADOTTI ``MELE``. ``SANT`ANNA``. ``VALLONE CASTELLO`` E ``CANDIDA``\r\n",
     "tipo_lavoro": "Lavori di manutenzione straordinaria.",
     "importo_lav_principali": "2.122.942,75",
@@ -27,7 +11,7 @@
     "ultimazione": "04/12/2018",
     "sospesa": "",
     "impresa": "ATI TE.VIA SRL - CONS. STABILE COST",
-    "id": "14275",
+    "id": "14790",
     "regione": "CAMPANIA",
     "strada": "VARIE"
   },
@@ -43,7 +27,7 @@
     "ultimazione": "17/11/2018",
     "sospesa": "",
     "impresa": "ATI IMP. DI COSTR. CAV. A. SANTALUC EDILSAMA -IMP. COSTR. M. SANTALUCIA",
-    "id": "14277",
+    "id": "14792",
     "regione": "CAMPANIA",
     "strada": "VARIE"
   }

@@ -11,7 +11,7 @@
     "ultimazione": "16/03/2018",
     "sospesa": "",
     "impresa": "ROCK AND RIVER SRL",
-    "id": "14024",
+    "id": "14545",
     "regione": "MARCHE",
     "strada": "SS77"
   },
@@ -27,7 +27,7 @@
     "ultimazione": "18/02/2018",
     "sospesa": "",
     "impresa": "PERSIA UMBERTO COSTRUZIONI SRL",
-    "id": "14025",
+    "id": "14546",
     "regione": "MARCHE",
     "strada": "SS77"
   },
@@ -43,7 +43,7 @@
     "ultimazione": "12/03/2018",
     "sospesa": "",
     "impresa": "CERQUA GIOVANNI",
-    "id": "14027",
+    "id": "14548",
     "regione": "MARCHE",
     "strada": "SS77"
   },
@@ -59,7 +59,7 @@
     "ultimazione": "09/07/2018",
     "sospesa": "",
     "impresa": "STRADEDIL S.R.L.",
-    "id": "14045",
+    "id": "14566",
     "regione": "MARCHE",
     "strada": "SS77"
   },
@@ -71,11 +71,27 @@
     "importo_lav_principali": "1.193.263,88",
     "importo_lav_totale": "1.459.244,38",
     "data_consegna_impresa": "28/09/2017",
-    "avanzamento_lavori": "0,00",
+    "avanzamento_lavori": "85,89",
     "ultimazione": "24/07/2018",
     "sospesa": "",
     "impresa": "IMPRESA DI COSTRUZIONI CAV.ANTONIO SANTALUCIA S.R.L.",
-    "id": "14003",
+    "id": "14526",
+    "regione": "MARCHE",
+    "strada": "SS77"
+  },
+  {
+    "dal_km": "64,912",
+    "al_km": "64,912",
+    "descrizione": "SS 77 - Lavori per la regimentazione delle acque di percolazione all`interno della galleria ``SAN GIOVANNI`` al Km. 64+912 in carreggiata DX\r\n",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "125.316,85",
+    "importo_lav_totale": "127.816,85",
+    "data_consegna_impresa": "03/08/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "31/10/2018",
+    "sospesa": "",
+    "impresa": "E.MI. STRADE E CONSOLIDAMENTI SRL",
+    "id": "14510",
     "regione": "MARCHE",
     "strada": "SS77"
   },
@@ -91,7 +107,7 @@
     "ultimazione": "03/01/2019",
     "sospesa": "",
     "impresa": "ATI ASFALTI SRL-ABIT SRL-FERRETTI S SEGNAL SYSTEM SRL",
-    "id": "13990",
+    "id": "14513",
     "regione": "MARCHE",
     "strada": "SS77"
   }

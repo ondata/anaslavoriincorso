@@ -11,7 +11,7 @@
     "ultimazione": "04/04/2018",
     "sospesa": "",
     "impresa": "COSSI COSTRUZIONI S.P.A.",
-    "id": "14257",
+    "id": "14773",
     "regione": "LOMBARDIA",
     "strada": "SS38"
   },
@@ -27,7 +27,23 @@
     "ultimazione": "05/12/2017",
     "sospesa": "",
     "impresa": "SIBAR S.R.L. - SOCIETA` IMPIANTI BARRIERE E RECINZIONI",
-    "id": "14256",
+    "id": "14772",
+    "regione": "LOMBARDIA",
+    "strada": "SS38"
+  },
+  {
+    "dal_km": "76,395",
+    "al_km": "81,130",
+    "descrizione": "MICP17E2ASOC21- Lavori di completamento della viabilita in corrispondenza dello svincolo di Sondalo",
+    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
+    "importo_lav_principali": "225.878,25",
+    "importo_lav_totale": "266.103,25",
+    "data_consegna_impresa": "19/07/2018",
+    "avanzamento_lavori": "0,00",
+    "ultimazione": "26/10/2018",
+    "sospesa": "",
+    "impresa": "G.COSTRUZIONI GENERALI SRL",
+    "id": "14755",
     "regione": "LOMBARDIA",
     "strada": "SS38"
   }

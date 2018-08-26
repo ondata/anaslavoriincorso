@@ -11,23 +11,7 @@
     "ultimazione": "20/02/2019",
     "sospesa": "",
     "impresa": "DE SANCTIS COSTRUZIONI S.P.A",
-    "id": "14141",
-    "regione": "SARDEGNA",
-    "strada": "SS125"
-  },
-  {
-    "dal_km": "322,000",
-    "al_km": "354,800",
-    "descrizione": "Interventi di ripristino del piano viabile lungo la S.S. 125 dal Km 322+000 al Km 354+800.",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "1.042.738,20",
-    "importo_lav_totale": "1.131.532,64",
-    "data_consegna_impresa": "06/02/2018",
-    "avanzamento_lavori": "98,06",
-    "ultimazione": "05/06/2018",
-    "sospesa": "",
-    "impresa": "ATI RAZZETTI E BOSAZZA SRL- AT & T",
-    "id": "14136",
+    "id": "14659",
     "regione": "SARDEGNA",
     "strada": "SS125"
   }

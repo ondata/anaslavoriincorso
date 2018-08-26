@@ -1,9 +1,9 @@
 {
-  "TOT_LAVORI": "14",
-  "TOT_MANUTENZIONE": "11",
+  "TOT_LAVORI": "12",
+  "TOT_MANUTENZIONE": "9",
   "TOT_NUOVE_COSTRUZIONI": "3",
-  "TOT_IMPORTO": "164.273.647,82",
-  "TOT_IMPORTO_M": "23.274.700,17",
+  "TOT_IMPORTO": "159.669.191,40",
+  "TOT_IMPORTO_M": "18.670.243,75",
   "TOT_IMPORTO_NC": "140.998.947,65",
   "REGIONE": "PUGLIA",
   "LIST_ROADS": [
@@ -20,16 +20,16 @@
       "SS 688 DI MATTINATA"
     ],
     [
-      "SS16",
-      "SS 16 ADRIATICA"
-    ],
-    [
       "SS101",
       "SS 101 SALENTINA DI GALLIPOLI"
     ],
     [
       "SS655",
       "SS 655 BRADANICA"
+    ],
+    [
+      "SS16",
+      "SS 16 ADRIATICA"
     ],
     [
       "SS96",

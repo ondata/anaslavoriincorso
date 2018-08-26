@@ -2,22 +2,6 @@
   {
     "dal_km": "0,000",
     "al_km": "0,000",
-    "descrizione": "SS.SS. 16 ? 379 ? Lav. di M.S. consistenti nel rifacimento della pavimentazione stradale con conglomerato bituminoso  e nel ripristino di tratti ammalorati tra il km 852+000 ed il  km 859+900 della S.S. 16 e tra il km 0+000 ed il km 10+500 della S.S. 379.\r\n",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "1.694.240,12",
-    "importo_lav_totale": "1.729.840,12",
-    "data_consegna_impresa": "20/10/2017",
-    "avanzamento_lavori": "0,00",
-    "ultimazione": "25/08/2018",
-    "sospesa": "",
-    "impresa": "ATI PAVING TECHNOLOGY SRL - STEELCONCRETE CONSORZIO STABILE",
-    "id": "14082",
-    "regione": "PUGLIA",
-    "strada": "VARIE"
-  },
-  {
-    "dal_km": "0,000",
-    "al_km": "0,000",
     "descrizione": "SS.SS. 7 ter - 694 -  Lavori di M.S consistenti nel ripristino di pavimentazioni ammalorate in tratti saltuari mirati all`incremento della sicurezza ed al miglioramento delle infrastrutture stradali",
     "tipo_lavoro": "Lavori di manutenzione straordinaria.",
     "importo_lav_principali": "1.657.445,70",
@@ -27,7 +11,7 @@
     "ultimazione": "14/11/2018",
     "sospesa": "",
     "impresa": "CO.EDI.SAL. S.C.R.L.",
-    "id": "14083",
+    "id": "14603",
     "regione": "PUGLIA",
     "strada": "VARIE"
   },
@@ -43,7 +27,7 @@
     "ultimazione": "20/08/2018",
     "sospesa": "",
     "impresa": "CO.EDI.SAL. S.C.R.L.",
-    "id": "14085",
+    "id": "14605",
     "regione": "PUGLIA",
     "strada": "VARIE"
   },
@@ -59,7 +43,7 @@
     "ultimazione": "25/06/2018",
     "sospesa": "",
     "impresa": "CO.EDI.SAL. S.C.R.L.",
-    "id": "14087",
+    "id": "14606",
     "regione": "PUGLIA",
     "strada": "VARIE"
   },
@@ -75,7 +59,7 @@
     "ultimazione": "18/06/2018",
     "sospesa": "",
     "impresa": "ATI PAVING TECHNOLOGY SRL - STEELCONCRETE CONSORZIO STABILE",
-    "id": "14088",
+    "id": "14607",
     "regione": "PUGLIA",
     "strada": "VARIE"
   },
@@ -91,7 +75,7 @@
     "ultimazione": "30/10/2017",
     "sospesa": "",
     "impresa": "R.T.I. NUOVA ISES - LA MA.GI.A.",
-    "id": "14092",
+    "id": "14611",
     "regione": "PUGLIA",
     "strada": "VARIE"
   },
@@ -107,7 +91,7 @@
     "ultimazione": "06/07/2018",
     "sospesa": "",
     "impresa": "ATI CONSORZIO INTEGRA SOC. COOP. (EX C.C.C. SOC. COOP.) - ALEANDRI",
-    "id": "14093",
+    "id": "14612",
     "regione": "PUGLIA",
     "strada": "VARIE"
   }

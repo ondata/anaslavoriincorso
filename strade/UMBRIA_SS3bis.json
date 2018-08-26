@@ -8,10 +8,10 @@
     "importo_lav_totale": "3.501.073,99",
     "data_consegna_impresa": "28/05/2018",
     "avanzamento_lavori": "22,26",
-    "ultimazione": "25/09/2018",
+    "ultimazione": "07/10/2018",
     "sospesa": "",
     "impresa": "ATI SPINELLI MANNOCCHI-GMP-PAV.I-BI ORTANA ASFALIT SRL-COGIFE-ASFALTERN",
-    "id": "14361",
+    "id": "14877",
     "regione": "UMBRIA",
     "strada": "SS3bis"
   },
@@ -23,11 +23,11 @@
     "importo_lav_principali": "3.407.698,99",
     "importo_lav_totale": "3.501.073,99",
     "data_consegna_impresa": "18/06/2018",
-    "avanzamento_lavori": "0,00",
+    "avanzamento_lavori": "14,16",
     "ultimazione": "16/10/2018",
     "sospesa": "",
     "impresa": "ATI SPINELLI MANNOCCHI-GMP-PAV.I-BI ORTANA ASFALIT SRL-COGIFE-ASFALTERN",
-    "id": "14362",
+    "id": "14878",
     "regione": "UMBRIA",
     "strada": "SS3bis"
   },
@@ -43,7 +43,7 @@
     "ultimazione": "14/10/2018",
     "sospesa": "",
     "impresa": "RTI TECNOSTRADE SRL -PAOLACCI SRL",
-    "id": "14360",
+    "id": "14876",
     "regione": "UMBRIA",
     "strada": "SS3bis"
   },
@@ -59,7 +59,7 @@
     "ultimazione": "30/10/2018",
     "sospesa": "",
     "impresa": "ATI SPIENLLI MANNOCCHI-GMP SPA-PAV. TROVATI SRL-PELLICCIA SCAVI-COGIFE-",
-    "id": "14365",
+    "id": "14881",
     "regione": "UMBRIA",
     "strada": "SS3bis"
   },
@@ -75,7 +75,7 @@
     "ultimazione": "11/08/2018",
     "sospesa": "",
     "impresa": "ATI SPIENLLI MANNOCCHI-GMP SPA-PAV. TROVATI SRL-PELLICCIA SCAVI-COGIFE-",
-    "id": "14364",
+    "id": "14880",
     "regione": "UMBRIA",
     "strada": "SS3bis"
   },
@@ -91,7 +91,7 @@
     "ultimazione": "29/09/2018",
     "sospesa": "",
     "impresa": "ATI SPIENLLI MANNOCCHI-GMP SPA-PAV. TROVATI SRL-PELLICCIA SCAVI-COGIFE-",
-    "id": "14363",
+    "id": "14879",
     "regione": "UMBRIA",
     "strada": "SS3bis"
   }

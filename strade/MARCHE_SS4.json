@@ -11,7 +11,7 @@
     "ultimazione": "17/09/2018",
     "sospesa": "",
     "impresa": "MASCI GIOVANNI & FIGLI SNC",
-    "id": "14039",
+    "id": "14560",
     "regione": "MARCHE",
     "strada": "SS4"
   },
@@ -27,7 +27,7 @@
     "ultimazione": "21/08/2018",
     "sospesa": "",
     "impresa": "S.E.I.C.O. SOCIETA` EDILE INDUSTRIALE COSTRUZIONI S.R.L.",
-    "id": "14040",
+    "id": "14561",
     "regione": "MARCHE",
     "strada": "SS4"
   },
@@ -40,10 +40,10 @@
     "importo_lav_totale": "787.120,08",
     "data_consegna_impresa": "15/03/2018",
     "avanzamento_lavori": "43,86",
-    "ultimazione": "10/09/2018",
+    "ultimazione": "20/10/2018",
     "sospesa": "",
     "impresa": "CO.S.PE.F.  S.R.L. A SOCIO UNICO",
-    "id": "14046",
+    "id": "14567",
     "regione": "MARCHE",
     "strada": "SS4"
   },
@@ -59,7 +59,7 @@
     "ultimazione": "06/02/2018",
     "sospesa": "",
     "impresa": "CO.SEAM   S.R.L.",
-    "id": "14013",
+    "id": "14534",
     "regione": "MARCHE",
     "strada": "SS4"
   },
@@ -75,7 +75,7 @@
     "ultimazione": "18/09/2018",
     "sospesa": "",
     "impresa": "PRO.GE.CO. S.R.L.",
-    "id": "14017",
+    "id": "14538",
     "regione": "MARCHE",
     "strada": "SS4"
   },
@@ -87,11 +87,11 @@
     "importo_lav_principali": "1.159.263,34",
     "importo_lav_totale": "1.339.098,65",
     "data_consegna_impresa": "30/10/2017",
-    "avanzamento_lavori": "0,00",
-    "ultimazione": "27/04/2018",
+    "avanzamento_lavori": "65,82",
+    "ultimazione": "31/08/2018",
     "sospesa": "",
     "impresa": "INFRASTRUTTURE E CONSOLIDAMENTI S.R.L..S",
-    "id": "13996",
+    "id": "14519",
     "regione": "MARCHE",
     "strada": "SS4"
   },
@@ -107,7 +107,7 @@
     "ultimazione": "19/06/2018",
     "sospesa": "",
     "impresa": "CONSORZIO STABILE AGORAA SRL",
-    "id": "13997",
+    "id": "14520",
     "regione": "MARCHE",
     "strada": "SS4"
   },
@@ -123,7 +123,7 @@
     "ultimazione": "30/10/2019",
     "sospesa": "",
     "impresa": "ATI BULFARO SPA - GIEFFE COSTRUZION",
-    "id": "13998",
+    "id": "14521",
     "regione": "MARCHE",
     "strada": "SS4"
   },
@@ -139,7 +139,7 @@
     "ultimazione": "17/05/2019",
     "sospesa": "",
     "impresa": "E.MI. STRADE E CONSOLIDAMENTI SRL",
-    "id": "13999",
+    "id": "14522",
     "regione": "MARCHE",
     "strada": "SS4"
   },
@@ -155,23 +155,7 @@
     "ultimazione": "17/02/",
     "sospesa": "",
     "impresa": "CARENA S.P.A.  IMPRESA DI COSTRUZIONI",
-    "id": "14049",
-    "regione": "MARCHE",
-    "strada": "SS4"
-  },
-  {
-    "dal_km": "157,750",
-    "al_km": "157,750",
-    "descrizione": "S.S.4 Lavori di protezione passiva del versante dalla caduta massi al km 157+750",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "42.573,60",
-    "importo_lav_totale": "46.337,44",
-    "data_consegna_impresa": "21/02/2018",
-    "avanzamento_lavori": "0,00",
-    "ultimazione": "30/04/2018",
-    "sospesa": "",
-    "impresa": "METALSTRADE S.R.L.",
-    "id": "14008",
+    "id": "14570",
     "regione": "MARCHE",
     "strada": "SS4"
   },
@@ -187,7 +171,7 @@
     "ultimazione": "09/04/2019",
     "sospesa": "",
     "impresa": "ATI COSTRUZIONI D.O.C. - SANNINO",
-    "id": "14007",
+    "id": "14530",
     "regione": "MARCHE",
     "strada": "SS4"
   },
@@ -203,7 +187,7 @@
     "ultimazione": "02/11/2018",
     "sospesa": "",
     "impresa": "ATI LUPINI SRL - CNP COSTRUZIONI SR",
-    "id": "14000",
+    "id": "14523",
     "regione": "MARCHE",
     "strada": "SS4"
   }

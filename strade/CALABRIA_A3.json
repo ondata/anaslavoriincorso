@@ -11,7 +11,7 @@
     "ultimazione": "14/11/2015",
     "sospesa": "",
     "impresa": "ATI THALES ITALIA SPA - PAGANO & ASCOLILLO ENERGY AND TECHNOLOGY SPA",
-    "id": "14443",
+    "id": "14959",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -27,7 +27,7 @@
     "ultimazione": "19/09/2018",
     "sospesa": "",
     "impresa": "SI.SE. SISTEMI SEGNALETICI SPA",
-    "id": "14446",
+    "id": "14962",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -43,7 +43,7 @@
     "ultimazione": "23/11/2018",
     "sospesa": "",
     "impresa": "INFRASTRUTTURE STRADALI S.C.P.A.",
-    "id": "14447",
+    "id": "14963",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -59,7 +59,7 @@
     "ultimazione": "23/11/2018",
     "sospesa": "",
     "impresa": "INFRASTRUTTURE STRADALI S.C.P.A.",
-    "id": "14448",
+    "id": "14964",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -75,7 +75,7 @@
     "ultimazione": "19/12/2017",
     "sospesa": "",
     "impresa": "SI.SE. SISTEMI SEGNALETICI SPA",
-    "id": "14479",
+    "id": "14990",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -91,7 +91,7 @@
     "ultimazione": "07/02/2018",
     "sospesa": "",
     "impresa": "SI.SE. SISTEMI SEGNALETICI SPA",
-    "id": "14483",
+    "id": "14993",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -107,7 +107,7 @@
     "ultimazione": "17/01/",
     "sospesa": "",
     "impresa": "ATI STEELCONCRETE CONS. STABILE - UNIROCK SRL - ODOS CONS. STABILE",
-    "id": "14484",
+    "id": "14994",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -123,7 +123,7 @@
     "ultimazione": "27/12/2018",
     "sospesa": "",
     "impresa": "ATI PAGANO & ASCOLILLO SPA-VISCO DA SNC-EUROWORK SRL",
-    "id": "14459",
+    "id": "14974",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -139,7 +139,7 @@
     "ultimazione": "11/11/2018",
     "sospesa": "",
     "impresa": "I.D.I.R. S.R.L.",
-    "id": "14445",
+    "id": "14961",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -155,7 +155,7 @@
     "ultimazione": "15/04/2018",
     "sospesa": "",
     "impresa": "3R COSTRUZIONI SRL",
-    "id": "14453",
+    "id": "14968",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -171,7 +171,7 @@
     "ultimazione": "05/07/2015",
     "sospesa": "",
     "impresa": "ELEF S.P.A.",
-    "id": "14454",
+    "id": "14969",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -187,7 +187,7 @@
     "ultimazione": "13/05/2016",
     "sospesa": "",
     "impresa": "LIVIO IMPIANTI S.R.L.",
-    "id": "14456",
+    "id": "14971",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -203,7 +203,7 @@
     "ultimazione": "16/12/2018",
     "sospesa": "",
     "impresa": "ATI PAGANO & ASCOLILLO SPA-VISCO DA SNC-EUROWORK SRL",
-    "id": "14458",
+    "id": "14973",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -219,7 +219,7 @@
     "ultimazione": "22/11/2018",
     "sospesa": "",
     "impresa": "ATI SIELTE SPA-TEKNO-ELE SRL",
-    "id": "14444",
+    "id": "14960",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -235,23 +235,7 @@
     "ultimazione": "19/12/2017",
     "sospesa": "",
     "impresa": "SI.SE. SISTEMI SEGNALETICI SPA",
-    "id": "14480",
-    "regione": "CALABRIA",
-    "strada": "A3"
-  },
-  {
-    "dal_km": "194,500",
-    "al_km": "207,500",
-    "descrizione": "Accordo quadro. ai sensi dell?art. 59. comma 4. del D.lgs. 163/06 e s.m.i.. per l?esecuzione di lavori di manutenzione del corpo stradale e delle gallerie sull?A3 SA-RC Tratta Morano Calabro ? Firmo/Sibari. lotto 2. tratto dal Km 194+500 al km 207+500 - Carreggiata Sud ? Regione Calabria. PROGETTO APPLICATIVO N?2 ``Rifacimento integrale pacchetto stradale. barriere e segnaletica``",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "886.150,94",
-    "importo_lav_totale": "926.709,52",
-    "data_consegna_impresa": "19/09/2017",
-    "avanzamento_lavori": "100,00",
-    "ultimazione": "06/07/2018",
-    "sospesa": "",
-    "impresa": "ATI STRADEDIL - CROVETTI DANTE",
-    "id": "14468",
+    "id": "14991",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -267,23 +251,7 @@
     "ultimazione": "30/05/2018",
     "sospesa": "",
     "impresa": "SPOSATO COSTRUZIONI SRL",
-    "id": "14451",
-    "regione": "CALABRIA",
-    "strada": "A3"
-  },
-  {
-    "dal_km": "239,000",
-    "al_km": "259,700",
-    "descrizione": "LAVORI DI MANUTENZIONE STRAORDINARIA RICORRENTE PER IL RIPRISTINO DELLA PAVIMENTAZIONE STRADALE CON ASPORTAZIONE ANCHE DEL BINDER PER L`INTERA SEDE NEI TRATTI COMPRESI TRA I KM 239+000 E 242+350 E TRA I KM 255+330 E 259+700 CARREGGIATA SUD E SVINCOLO RENDE/COSENZA NORD DELL`ASR.",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "1.485.943,16",
-    "importo_lav_totale": "1.557.679,64",
-    "data_consegna_impresa": "10/05/2018",
-    "avanzamento_lavori": "55,76",
-    "ultimazione": "07/08/2018",
-    "sospesa": "",
-    "impresa": "SPOSATO COSTRUZIONI SRL",
-    "id": "14449",
+    "id": "14966",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -299,7 +267,7 @@
     "ultimazione": "02/07/2018",
     "sospesa": "",
     "impresa": "SO.MA.TRA. S.R.L.",
-    "id": "14452",
+    "id": "14967",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -315,7 +283,7 @@
     "ultimazione": "27/02/2016",
     "sospesa": "",
     "impresa": "I.E.C.I. LOMBARDO S.R.L.",
-    "id": "14457",
+    "id": "14972",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -331,39 +299,7 @@
     "ultimazione": "27/09/2017",
     "sospesa": "",
     "impresa": "CONSORZIO STABILE OLIMPIA",
-    "id": "14461",
-    "regione": "CALABRIA",
-    "strada": "A3"
-  },
-  {
-    "dal_km": "259,700",
-    "al_km": "268,133",
-    "descrizione": "Accordo quadro. ai sensi dell?art. 59. comma 4. del D.lgs. 163/06. per l?esecuzione di lavori di manutenzione del corpo stradale sull?A3 SA-RC. Tratta Cosenza sud ? Altilia dal Km. 259+700 al Km. 268+133 Carr. Sud (Lotto 1) ? Progetto Applicativo N? 3 ``Interventi per la protezione del corpo stradale: rafforzamento corticale delle pendici. disgaggio e riprofilatura scarpate. reti di recinzione. svuotamento/installazione di reti e barriere paramassi.``",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "1.170.727,25",
-    "importo_lav_totale": "1.205.585,63",
-    "data_consegna_impresa": "14/11/2017",
-    "avanzamento_lavori": "81,17",
-    "ultimazione": "30/04/2018",
-    "sospesa": "",
-    "impresa": "CONSORZIO STABILE OLIMPIA",
-    "id": "14462",
-    "regione": "CALABRIA",
-    "strada": "A3"
-  },
-  {
-    "dal_km": "259,700",
-    "al_km": "267,240",
-    "descrizione": "Accordo quadro. ai sensi dell?art. 59. comma 4. del D.lgs. 163/06. per l?esecuzione di lavori di manutenzione straordinaria sulla rete stradale di ANAS S.p.A. - Corpo stradale sull?A3 SA-RC. Tratta Cosenza Sud - Altilia. dal Km 267+240 al Km 259+700. Carreggiata Nord - Lotto n. 6 - Progetto Applicativo N?1 ``Interventi di risanamento superficiale o rinforzo piano viabile. ripristino banchine laterali. segnaletica orizzontale e verticale. rifacimento di giunti di dilatazione. installazione barriere stradali di sicurezza.``",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "2.170.765,31",
-    "importo_lav_totale": "2.235.863,17",
-    "data_consegna_impresa": "30/05/2018",
-    "avanzamento_lavori": "0,00",
-    "ultimazione": "26/10/2018",
-    "sospesa": "",
-    "impresa": "ATI STRADEDIL - CROVETTI DANTE",
-    "id": "14467",
+    "id": "14976",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -379,7 +315,7 @@
     "ultimazione": "20/09/2018",
     "sospesa": "",
     "impresa": "CO.E.ST. COSTRUZIONI E STRADE S.R.L.",
-    "id": "14463",
+    "id": "14977",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -395,7 +331,7 @@
     "ultimazione": "08/04/2017",
     "sospesa": "",
     "impresa": "ATI ROADS AND ECOLOGY DI GARRAMONE - EDDA ROSSI S.R.L.",
-    "id": "14464",
+    "id": "14978",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -411,7 +347,7 @@
     "ultimazione": "27/03/2018",
     "sospesa": "",
     "impresa": "EUROPA STRADE S.R.L. SOCIO UNICO",
-    "id": "14465",
+    "id": "14979",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -427,7 +363,7 @@
     "ultimazione": "02/12/2018",
     "sospesa": "",
     "impresa": "EUROPA STRADE S.R.L. SOCIO UNICO",
-    "id": "14466",
+    "id": "14980",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -443,7 +379,7 @@
     "ultimazione": "02/09/2018",
     "sospesa": "",
     "impresa": "CONSORZIO STABILE OLIMPIA",
-    "id": "14460",
+    "id": "14975",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -459,7 +395,7 @@
     "ultimazione": "19/12/2017",
     "sospesa": "",
     "impresa": "SI.SE. SISTEMI SEGNALETICI SPA",
-    "id": "14481",
+    "id": "14992",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -475,7 +411,7 @@
     "ultimazione": "18/06/2018",
     "sospesa": "",
     "impresa": "ATI FALVO ING.SRL-F.LLI FALVO-EGEL",
-    "id": "14450",
+    "id": "14965",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -491,7 +427,7 @@
     "ultimazione": "08/12/2017",
     "sospesa": "",
     "impresa": "CONSORZIO STABILE ENGENEERING COSTRUZIONI INFRASTRUTTURE E TECNOL",
-    "id": "14469",
+    "id": "14981",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -507,7 +443,7 @@
     "ultimazione": "10/11/2017",
     "sospesa": "",
     "impresa": "CONSORZIO A.R.E.M. LAVORI",
-    "id": "14470",
+    "id": "14982",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -523,7 +459,7 @@
     "ultimazione": "20/11/2017",
     "sospesa": "",
     "impresa": "CONSORZIO A.R.E.M. LAVORI",
-    "id": "14471",
+    "id": "14983",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -539,7 +475,7 @@
     "ultimazione": "31/10/2017",
     "sospesa": "",
     "impresa": "CONSORZIO A.R.E.M. LAVORI",
-    "id": "14472",
+    "id": "14984",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -555,7 +491,7 @@
     "ultimazione": "22/02/2018",
     "sospesa": "",
     "impresa": "VALORI CONSORZIO STABILE SCARL",
-    "id": "14473",
+    "id": "14985",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -571,7 +507,7 @@
     "ultimazione": "25/11/2017",
     "sospesa": "",
     "impresa": "VALORI CONSORZIO STABILE SCARL",
-    "id": "14474",
+    "id": "14986",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -587,7 +523,7 @@
     "ultimazione": "03/03/2018",
     "sospesa": "",
     "impresa": "VALORI CONSORZIO STABILE SCARL",
-    "id": "14475",
+    "id": "14987",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -603,7 +539,7 @@
     "ultimazione": "09/01/2018",
     "sospesa": "",
     "impresa": "VALORI CONSORZIO STABILE SCARL",
-    "id": "14476",
+    "id": "14988",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -616,26 +552,10 @@
     "importo_lav_totale": "657.474,81",
     "data_consegna_impresa": "23/05/2017",
     "avanzamento_lavori": "0,00",
-    "ultimazione": "26/07/2018",
+    "ultimazione": "30/07/2018",
     "sospesa": "",
     "impresa": "VALORI CONSORZIO STABILE SCARL",
-    "id": "14477",
-    "regione": "CALABRIA",
-    "strada": "A3"
-  },
-  {
-    "dal_km": "337,800",
-    "al_km": "348,600",
-    "descrizione": "``Lavori di Manutenzione Straordinaria per il ripristino degli strati corticali di cls ammalorato delle opere d`arte ricadenti nello svincolo di S. Onofrio del ASR.`` - Progetto Applicativo N?6 ",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "637.460,96",
-    "importo_lav_totale": "662.835,96",
-    "data_consegna_impresa": "27/06/2017",
-    "avanzamento_lavori": "54,20",
-    "ultimazione": "19/09/2018",
-    "sospesa": "",
-    "impresa": "VALORI CONSORZIO STABILE SCARL",
-    "id": "14478",
+    "id": "14989",
     "regione": "CALABRIA",
     "strada": "A3"
   },
@@ -651,23 +571,7 @@
     "ultimazione": "05/12/2017",
     "sospesa": "",
     "impresa": "VIASTRADA SAS DI CAROLLO TINDARO E C.",
-    "id": "14455",
-    "regione": "CALABRIA",
-    "strada": "A3"
-  },
-  {
-    "dal_km": "338,470",
-    "al_km": "339,170",
-    "descrizione": "Lavori di manutenzione straordinaria per il rifacimento con tecnologia a led degli impianti di illuminazione. videosorveglianza e segnaletica luminosa degli svincoli ricadenti nei tratti ammodernati e non con tecnologia a sap - Svincolo di Pizzo dell`Autostrada del Mediterraneo - Progetto Applicativo N.3",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "364.176,31",
-    "importo_lav_totale": "438.051,31",
-    "data_consegna_impresa": "11/07/2017",
-    "avanzamento_lavori": "80,01",
-    "ultimazione": "19/07/2018",
-    "sospesa": "",
-    "impresa": "ATI ESPERIA SRL-COIMEL IMPIANTI SAS C.E.I. SICILIA S.R.L.",
-    "id": "14482",
+    "id": "14970",
     "regione": "CALABRIA",
     "strada": "A3"
   }

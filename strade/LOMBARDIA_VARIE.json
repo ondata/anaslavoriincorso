@@ -11,7 +11,7 @@
     "ultimazione": "25/10/2018",
     "sospesa": "",
     "impresa": "GEMMO S.P.A.",
-    "id": "14225",
+    "id": "14742",
     "regione": "LOMBARDIA",
     "strada": "VARIE"
   },
@@ -27,7 +27,7 @@
     "ultimazione": "14/07/2018",
     "sospesa": "",
     "impresa": "RTI: CIVELLI COST.NI - CONS. STAB.",
-    "id": "14226",
+    "id": "14743",
     "regione": "LOMBARDIA",
     "strada": "VARIE"
   },
@@ -43,7 +43,7 @@
     "ultimazione": "17/07/2018",
     "sospesa": "",
     "impresa": "ATI SANGALLI SPA - CIVELLI COSTR. GIUDICI SPA - IMP. BERGAMELLI - SIA",
-    "id": "14230",
+    "id": "14746",
     "regione": "LOMBARDIA",
     "strada": "VARIE"
   },
@@ -59,23 +59,7 @@
     "ultimazione": "18/08/2018",
     "sospesa": "",
     "impresa": "VITALI SPA",
-    "id": "14232",
-    "regione": "LOMBARDIA",
-    "strada": "VARIE"
-  },
-  {
-    "dal_km": "0,000",
-    "al_km": "0,000",
-    "descrizione": "MICP17E1ABC19- Lavori di M.S. per il rafforzamento della sovrastruttura stradale in t.s.. cup  F97H18001340001",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "1.682.268,08",
-    "importo_lav_totale": "1.737.934,75",
-    "data_consegna_impresa": "16/07/2018",
-    "avanzamento_lavori": "0,00",
-    "ultimazione": "30/08/2018",
-    "sospesa": "",
-    "impresa": "VITALI SPA",
-    "id": "14235",
+    "id": "14748",
     "regione": "LOMBARDIA",
     "strada": "VARIE"
   },
@@ -91,7 +75,7 @@
     "ultimazione": "20/06/2018",
     "sospesa": "",
     "impresa": "ATI SANGALLI SPA - CIVELLI COSTR. GIUDICI SPA - IMP. BERGAMELLI - SIA",
-    "id": "14236",
+    "id": "14751",
     "regione": "LOMBARDIA",
     "strada": "VARIE"
   },
@@ -107,7 +91,7 @@
     "ultimazione": "06/08/2018",
     "sospesa": "",
     "impresa": "ATI SANGALLI SPA - CIVELLI COSTR. GIUDICI SPA - IMP. BERGAMELLI - SIA",
-    "id": "14238",
+    "id": "14753",
     "regione": "LOMBARDIA",
     "strada": "VARIE"
   },
@@ -123,7 +107,7 @@
     "ultimazione": "13/08/2018",
     "sospesa": "",
     "impresa": "ATI SANGALLI SPA - CIVELLI COSTR. GIUDICI SPA - IMP. BERGAMELLI - SIA",
-    "id": "14239",
+    "id": "14754",
     "regione": "LOMBARDIA",
     "strada": "VARIE"
   },
@@ -139,7 +123,7 @@
     "ultimazione": "12/09/2016",
     "sospesa": "",
     "impresa": "DEON S.P.A.",
-    "id": "14241",
+    "id": "14757",
     "regione": "LOMBARDIA",
     "strada": "VARIE"
   },
@@ -155,7 +139,7 @@
     "ultimazione": "21/06/2017",
     "sospesa": "",
     "impresa": "DEON S.P.A.",
-    "id": "14242",
+    "id": "14758",
     "regione": "LOMBARDIA",
     "strada": "VARIE"
   },
@@ -171,7 +155,7 @@
     "ultimazione": "03/08/2016",
     "sospesa": "",
     "impresa": "MOPAS S.R.L.",
-    "id": "14243",
+    "id": "14759",
     "regione": "LOMBARDIA",
     "strada": "VARIE"
   },
@@ -187,7 +171,7 @@
     "ultimazione": "12/12/2017",
     "sospesa": "",
     "impresa": "E.MI. STRADE E CONSOLIDAMENTI SRL",
-    "id": "14246",
+    "id": "14762",
     "regione": "LOMBARDIA",
     "strada": "VARIE"
   }

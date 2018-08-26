@@ -11,23 +11,7 @@
     "ultimazione": "18/08/2018",
     "sospesa": "",
     "impresa": " I.T. S.R.L INNOVAZIONE E TECNOLOGI",
-    "id": "14091",
-    "regione": "PUGLIA",
-    "strada": "SS16"
-  },
-  {
-    "dal_km": "798,000",
-    "al_km": "811,350",
-    "descrizione": "S.S. 16 ``Tangenziale di Bari?: Lavori di M.S. consistenti nell?esecuzione di opere relative alla salvaguardia del corpo stradale e rifacimento della sovrastruttura ammalorata a seguito di avversita atmosferiche lungo la S.S. 16 dal km 798+000 al km 811+350. - 2? stralcio\r\n",
-    "tipo_lavoro": "Lavori di manutenzione straordinaria.",
-    "importo_lav_principali": "2.839.016,30",
-    "importo_lav_totale": "2.874.616,30",
-    "data_consegna_impresa": "26/10/2017",
-    "avanzamento_lavori": "76,95",
-    "ultimazione": "04/10/2018",
-    "sospesa": "",
-    "impresa": "ATI PAVING TECHNOLOGY SRL - STEELCONCRETE CONSORZIO STABILE",
-    "id": "14086",
+    "id": "14610",
     "regione": "PUGLIA",
     "strada": "SS16"
   }

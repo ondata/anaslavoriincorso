@@ -1,9 +1,9 @@
 {
-  "TOT_LAVORI": "27",
-  "TOT_MANUTENZIONE": "23",
+  "TOT_LAVORI": "26",
+  "TOT_MANUTENZIONE": "22",
   "TOT_NUOVE_COSTRUZIONI": "4",
-  "TOT_IMPORTO": "282.782.884,20",
-  "TOT_IMPORTO_M": "28.629.464,22",
+  "TOT_IMPORTO": "281.651.351,56",
+  "TOT_IMPORTO_M": "27.497.931,58",
   "TOT_IMPORTO_NC": "254.153.419,98",
   "REGIONE": "SARDEGNA",
   "LIST_ROADS": [
@@ -36,16 +36,16 @@
       "SS 127 SETTENTRIONALE SARDA"
     ],
     [
-      "SS125",
-      "SS 125 ORIENTALE SARDA"
-    ],
-    [
       "SS389",
       "SS 389 DI BUDDUSO` E DEL CORREBOI"
     ],
     [
       "SS199",
       "SS 199 DI MONTI"
+    ],
+    [
+      "SS125",
+      "SS 125 ORIENTALE SARDA"
     ]
   ]
 }

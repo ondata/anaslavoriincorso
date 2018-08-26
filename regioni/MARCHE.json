@@ -1,9 +1,9 @@
 {
-  "TOT_LAVORI": "64",
-  "TOT_MANUTENZIONE": "63",
+  "TOT_LAVORI": "63",
+  "TOT_MANUTENZIONE": "62",
   "TOT_NUOVE_COSTRUZIONI": "1",
-  "TOT_IMPORTO": "157.685.844,70",
-  "TOT_IMPORTO_M": "75.826.420,43",
+  "TOT_IMPORTO": "155.806.227,85",
+  "TOT_IMPORTO_M": "73.946.803,58",
   "TOT_IMPORTO_NC": "81.859.424,27",
   "REGIONE": "MARCHE",
   "LIST_ROADS": [
@@ -12,16 +12,16 @@
       "SS 76 DELLA VAL D`ESINO"
     ],
     [
+      "SS77",
+      "SS 77 DELLA VAL DI CHIENTI"
+    ],
+    [
       "RA11",
       "R.A. 11 RACCORDO AUTOSTRADALE ASCOLI - PORTO D`ASCOLI"
     ],
     [
       "SS16",
       "SS 16 ADRIATICA"
-    ],
-    [
-      "SS77",
-      "SS 77 DELLA VAL DI CHIENTI"
     ],
     [
       "SS209",
