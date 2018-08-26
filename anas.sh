@@ -4,6 +4,7 @@
 # curl
 # jq
 # csvkit
+# miller
 ### requirements ###
 
 set -x
