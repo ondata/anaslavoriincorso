@@ -37,7 +37,6 @@ for i in *.json; do
 	done
 done
 
-
 # creo un unico file json di output
 jq -s add "$cartella"/strade/*.json >"$cartella"/stradeAnas.json
 
@@ -46,9 +45,9 @@ jq -s add "$cartella"/strade/*.json >"$cartella"/stradeAnas.json
 jq '((.[].importo_lav_principali| select(.) ) |= gsub("\\.";"") ) | ((.[].importo_lav_principali| select(.) ) |= gsub(",";".") ) | ((.[].importo_lav_principali| select(.) ) |= tonumber ) |  ((.[].importo_lav_totale| select(.) ) |= gsub("\\.";"") ) | ((.[].importo_lav_totale| select(.) ) |= gsub(",";".") ) | ((.[].importo_lav_totale| select(.) ) |= tonumber ) |  ((.[].dal_km| select(.) ) |= gsub("\\.";"") ) | ((.[].dal_km| select(.) ) |= gsub(",";".") ) | ((.[].dal_km| select(.) ) |= tonumber ) |  ((.[].al_km| select(.) ) |= gsub("\\.";"") ) | ((.[].al_km| select(.) ) |= gsub(",";".") ) | ((.[].al_km| select(.) ) |= tonumber ) |  ((.[].avanzamento_lavori| select(.) ) |= gsub(",";".") ) | ((.[].avanzamento_lavori| select(.) ) |= tonumber )' "$cartella"/stradeAnas.json >"$cartella"/stradeAnas_tmp.json && mv "$cartella"/stradeAnas_tmp.json "$cartella"/stradeAnas.json
 
 # creo un unico file csv di output e sostituisco i "\r\n" presenti in descrizione con "|"
-<"$cartella"/stradeAnas.json jq '((.[].descrizione| select(.) ) |= gsub("\r\n";"|") )' | \
-jq '((.[].descrizione| select(.) ) |= gsub("\\|$";"") )' | \
-in2csv -I -f json >"$cartella"/stradeAnas.csv
+jq <"$cartella"/stradeAnas.json '((.[].descrizione| select(.) ) |= gsub("\r\n";"|") )' |
+	jq '((.[].descrizione| select(.) ) |= gsub("\\|$";"") )' |
+	in2csv -I -f json >"$cartella"/stradeAnas.csv
 
 # dati problematici
 ## i record in cui la data di ultimazione è espressa in questo modo $(07/02/), ovvero manca l'anno
@@ -57,10 +56,10 @@ csvgrep -c "ultimazione" -r "^../../$" "$cartella"/stradeAnas.csv >"$cartella"/p
 ## strade di tipo non "VARIE" con "dal km" "al km" che vanno da 0 a 0
 csvsql -I --query "select * from stradeAnas where al_km = 0 and dal_km = 0 and strada NOT LIKE 'VARIE'" "$cartella"/stradeAnas.csv >"$cartella"/problemi/stradeAnasAnnotazionKmNulla.csv
 
-## creo una colonna con i CUP 
+## creo una colonna con i CUP
 mlr -I --csv put '$CUP = regextract_or_else($descrizione, "[A-Z]{1}[0-9]{2} ?[A-Z]{1}[0-9]{2} ?[0-9]{4} ?[0-9]{5} ?","")' "$cartella"/stradeAnas.csv
 
-## creo una colonna con URL dei CUP 
+## creo una colonna con URL dei CUP
 mlr -I --csv put 'if (is_not_null($CUP)) {$CUP_URL = "http://opencup.gov.it/progetto/-/cup/".$CUP} else {$CUP_URL = ""}' "$cartella"/stradeAnas.csv
 
 # faccio l'upload su data.world
