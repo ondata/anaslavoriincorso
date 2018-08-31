@@ -82,7 +82,17 @@
                         "type": "string", 
                         "name": "strada", 
                         "format": "default"
-                    }
+                    },
+                    {
+                        "type": "string", 
+                        "name": "CUP", 
+                        "format": "default"
+                    }, 
+                    {
+                        "type": "string", 
+                        "name": "CUP_URL", 
+                        "format": "default"
+                    }                
                 ], 
                 "missingValues": [
                     ""
