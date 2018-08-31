@@ -49,18 +49,18 @@ jq <"$cartella"/stradeAnas.json '((.[].descrizione| select(.) ) |= gsub("\r\n";"
 	jq '((.[].descrizione| select(.) ) |= gsub("\\|$";"") )' |
 	in2csv -I -f json >"$cartella"/stradeAnas.csv
 
+# creo una colonna con i CUP
+mlr -I --csv put '$CUP = regextract_or_else($descrizione, "[A-Z]{1}[0-9]{2} ?[A-Z]{1}[0-9]{2} ?[0-9]{4} ?[0-9]{5} ?","")' "$cartella"/stradeAnas.csv
+
+# creo una colonna con URL dei CUP
+mlr -I --csv put 'if (is_not_null($CUP)) {$CUP_URL = "http://opencup.gov.it/progetto/-/cup/".$CUP} else {$CUP_URL = ""}' "$cartella"/stradeAnas.csv
+
 # dati problematici
 ## i record in cui la data di ultimazione è espressa in questo modo $(07/02/), ovvero manca l'anno
 csvgrep -c "ultimazione" -r "^../../$" "$cartella"/stradeAnas.csv >"$cartella"/problemi/stradeAnasNoAnnoUltimazione.csv
 
 ## strade di tipo non "VARIE" con "dal km" "al km" che vanno da 0 a 0
 csvsql -I --query "select * from stradeAnas where al_km = 0 and dal_km = 0 and strada NOT LIKE 'VARIE'" "$cartella"/stradeAnas.csv >"$cartella"/problemi/stradeAnasAnnotazionKmNulla.csv
-
-## creo una colonna con i CUP
-mlr -I --csv put '$CUP = regextract_or_else($descrizione, "[A-Z]{1}[0-9]{2} ?[A-Z]{1}[0-9]{2} ?[0-9]{4} ?[0-9]{5} ?","")' "$cartella"/stradeAnas.csv
-
-## creo una colonna con URL dei CUP
-mlr -I --csv put 'if (is_not_null($CUP)) {$CUP_URL = "http://opencup.gov.it/progetto/-/cup/".$CUP} else {$CUP_URL = ""}' "$cartella"/stradeAnas.csv
 
 # faccio l'upload su data.world
 source "$cartella"/config.txt
