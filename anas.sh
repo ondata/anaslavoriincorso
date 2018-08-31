@@ -60,6 +60,9 @@ csvsql -I --query "select * from stradeAnas where al_km = 0 and dal_km = 0 and s
 ## creo una colonna con i CUP 
 mlr -I --csv put '$CUP = regextract_or_else($descrizione, "[A-Z]{1}[0-9]{2} ?[A-Z]{1}[0-9]{2} ?[0-9]{4} ?[0-9]{5} ?","")' "$cartella"/stradeAnas.csv
 
+## creo una colonna con URL dei CUP 
+mlr -I --csv put 'is_not_null($CUP) {$CUP_URL =  "http://opencup.gov.it/progetto/-/cup/".$CUP}' "$cartella"/stradeAnas.csv
+
 # faccio l'upload su data.world
 source "$cartella"/config.txt
 curl "https://api.data.world/v0/uploads/ondata/anas-lavori-in-corso/files" -F file=@"$cartella"/stradeAnas.csv -H "Authorization: Bearer ${DW_API_TOKEN}"
